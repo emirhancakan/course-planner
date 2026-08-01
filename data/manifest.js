@@ -1,0 +1,1 @@
+window.AVAILABLE_SEMESTERS = ["2026/2027-1"];

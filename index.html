@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BOUN Course Planner</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <h1>Course Planner</h1>
+  <div class="semester-picker">
+    <label for="semesterSelect">Semester</label>
+    <select id="semesterSelect"></select>
+  </div>
+  <div class="summary" id="summary"></div>
+</header>
+
+<main class="app-main">
+  <aside class="sidebar">
+    <section class="panel selected-panel">
+      <h2>My Courses</h2>
+      <div class="selected-list" id="selectedList"></div>
+    </section>
+
+    <section class="panel search-panel">
+      <input type="text" id="searchInput" autocomplete="off" placeholder="Search by code, name, or instructor (e.g. CMPE, PSY 101, Ugur)">
+      <div class="results" id="results"></div>
+    </section>
+  </aside>
+
+  <section class="panel schedule-panel">
+    <div class="grid-wrap">
+      <table class="grid" id="grid"></table>
+    </div>
+    <div class="conflicts" id="conflicts"></div>
+  </section>
+</main>
+
+<script src="data/manifest.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
