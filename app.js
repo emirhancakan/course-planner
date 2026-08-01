@@ -82,7 +82,7 @@
     el.results.innerHTML = "";
 
     if (!query) {
-      el.results.innerHTML = `<div class="empty-note">Type to search over ${currentData.sections.length.toLocaleString()} sections (code, name, or instructor).</div>`;
+      el.results.innerHTML = `<div class="empty-note">Type to search over ${currentData.sections.length.toLocaleString()} sections by course code or name.</div>`;
       return;
     }
 
@@ -270,8 +270,19 @@
       currentData = data;
       bySectionKey = {};
       for (const s of data.sections) {
-        s.__search = (s.code + " " + s.section + " " + s.name + " " + s.department + " " +
-          s.meetings.map(m => m.instructor).join(" ")).toLowerCase();
+        // Match on course code and name only - including department or
+        // instructor made queries like "engineering" match every section of
+        // every *_ENGINEERING department.
+        // Codes are stored with the registrar's irregular spacing ("CE  101"),
+        // so index a compact form too and "ce101" still finds it.
+        const compact = s.code.replace(/\s+/g, "");
+        s.__search = [
+          s.code,
+          compact,
+          s.code + "." + s.section,
+          compact + "." + s.section,
+          s.name,
+        ].join(" ").toLowerCase();
         bySectionKey[sectionKey(s)] = s;
       }
 
