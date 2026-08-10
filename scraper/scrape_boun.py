@@ -23,7 +23,11 @@ MAX_ATTEMPTS = 3
 RETRY_BACKOFF_SECONDS = 3
 HEADERS = {"User-Agent": "BounCoursePlannerPersonalScript/1.0 (personal semester-planning tool)"}
 
-DAY_TOKENS = ["M", "Th", "T", "W", "F", "S"]
+# The registrar writes days as concatenated tokens, e.g. "MMT" or "StSt".
+# Two-letter tokens must be matched before single letters, otherwise "St"
+# (Saturday) is read as "S" + "t" and every day/hour pair after it shifts.
+TWO_CHAR_DAYS = {"Th": "Th", "St": "S"}
+VALID_DAYS = {"M", "T", "W", "Th", "F", "S"}
 
 SLOT_TIMES = {
     1: ("09:00", "09:50"), 2: ("10:00", "10:50"), 3: ("11:00", "11:50"),
@@ -55,8 +59,9 @@ def _parse_days(days_str):
     days = []
     i = 0
     while i < len(days_str):
-        if days_str[i:i + 2] == "Th":
-            days.append("Th")
+        two = days_str[i:i + 2]
+        if two in TWO_CHAR_DAYS:
+            days.append(TWO_CHAR_DAYS[two])
             i += 2
         else:
             days.append(days_str[i])
@@ -141,6 +146,14 @@ def parse_department_courses(html, department_code, department_name):
         rooms = _parse_rooms(cells[10], len(days))
 
         for day, slot, room in zip(days, hours, rooms):
+            # A day or slot outside the known range means the day/hour strings
+            # were mis-tokenized, which silently drops the meeting from the
+            # timetable. Surface it loudly instead of writing bad data.
+            if day not in VALID_DAYS or not (1 <= slot <= 14):
+                print(f"  ! unparsable meeting on {current['code']}.{current['section']}: "
+                      f"days={days_str!r} hours={hours_str!r} -> day={day!r} slot={slot}")
+                continue
+
             meeting = {
                 "type": meeting_type,
                 "instructor": instructor,
