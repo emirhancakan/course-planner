@@ -73,20 +73,42 @@
   }
 
   function matchesQuery(section, tokens) {
-    const haystack = section.__search;
-    return tokens.every(t => haystack.indexOf(t) !== -1);
+    // Tokens match as word prefixes rather than substrings, so "ce" no longer
+    // hits the middle of "processes" while partial typing ("calc") still
+    // works. A token the user finished with a space is matched exactly, which
+    // is what makes "ce " give CE only instead of CE + CET.
+    const words = section.__words;
+    return tokens.every(t => t.exact
+      ? words.some(w => w === t.text)
+      : words.some(w => w.startsWith(t.text)));
+  }
+
+  function parseQuery(rawQuery) {
+    // A trailing space means the user finished that term, so treat it as
+    // complete (exact) rather than as something still being typed (prefix).
+    const parts = rawQuery.toLowerCase().split(/\s+/);
+    const endsWithSpace = parts[parts.length - 1] === "";
+    const texts = parts.filter(t => /[\p{L}\p{N}]/u.test(t));
+    return texts.map((text, i) => ({
+      text,
+      exact: i < texts.length - 1 || endsWithSpace,
+    }));
   }
 
   function renderResults() {
-    const query = el.searchInput.value.trim().toLowerCase();
+    const rawQuery = el.searchInput.value;
     el.results.innerHTML = "";
 
-    if (!query) {
+    if (!rawQuery.trim()) {
       el.results.innerHTML = `<div class="empty-note">Type to search over ${currentData.sections.length.toLocaleString()} sections by course code or name.</div>`;
       return;
     }
 
-    const tokens = query.split(/\s+/).filter(Boolean);
+    const tokens = parseQuery(rawQuery);
+    if (tokens.length === 0) {
+      el.results.innerHTML = `<div class="empty-note">No matches.</div>`;
+      return;
+    }
     const matches = [];
     for (const s of currentData.sections) {
       if (matchesQuery(s, tokens)) {
@@ -270,19 +292,25 @@
       currentData = data;
       bySectionKey = {};
       for (const s of data.sections) {
-        // Match on course code and name only - including department or
-        // instructor made queries like "engineering" match every section of
-        // every *_ENGINEERING department.
-        // Codes are stored with the registrar's irregular spacing ("CE  101"),
-        // so index a compact form too and "ce101" still finds it.
-        const compact = s.code.replace(/\s+/g, "");
-        s.__search = [
-          s.code,
+        // Index the searchable terms as discrete words rather than one blob.
+        // Tokens are matched as word prefixes (see matchesQuery), so "ce"
+        // finds CE courses without also dragging in CHE 211 MASS & ENERGY
+        // BALANCES, which only matched because "balances" contains "ce".
+        //
+        // Codes carry the registrar's irregular spacing ("CE  101"), so index
+        // a compact form ("ce101") plus its department and number parts
+        // separately - that makes both "ce101" and "ce 101" work.
+        const compact = s.code.replace(/\s+/g, "").toLowerCase();
+        const dept = (compact.match(/^[a-z]+/) || [compact])[0];
+        const number = compact.slice(dept.length);
+        s.__words = [
           compact,
-          s.code + "." + s.section,
+          dept,
+          number,
           compact + "." + s.section,
-          s.name,
-        ].join(" ").toLowerCase();
+        ].filter(Boolean).concat(
+          s.name.toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(Boolean)
+        );
         bySectionKey[sectionKey(s)] = s;
       }
 
