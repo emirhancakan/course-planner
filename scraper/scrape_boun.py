@@ -3,7 +3,8 @@ Scrapes course schedule data from registration.boun.edu.tr for a given semester
 and writes it to ../data/courses-<semester>.json.
 
 Usage:
-    python scrape_boun.py "2026/2027-1"
+    python scrape_boun.py "2026/2027-1"   # explicit semester
+    python scrape_boun.py                 # newest semester, auto-detected
 """
 
 import json
@@ -36,6 +37,32 @@ SLOT_TIMES = {
     10: ("18:00", "18:50"), 11: ("19:00", "19:50"), 12: ("20:00", "20:50"),
     13: ("21:00", "21:50"), 14: ("22:00", "22:50"),
 }
+
+
+SEMESTER_RE = re.compile(r"^\d{4}/\d{4}-\d$")
+
+
+def get_latest_semester():
+    """Returns the newest semester code offered by the registrar, e.g. "2026/2027-1".
+
+    The semester dropdown renders on a plain GET, newest option first. The page
+    does carry a reCAPTCHA, but it only gates the POST that lists departments -
+    reading the option values needs no submit at all.
+    """
+    r = requests.get(SCHEDULE_URL, params={"p": "semester"}, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    r.encoding = r.apparent_encoding
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    select = soup.find("select", attrs={"name": re.compile("ddlSemester")})
+    options = [o.get("value", "").strip() for o in select.find_all("option")] if select else []
+    options = [o for o in options if SEMESTER_RE.match(o)]
+    if not options:
+        raise RuntimeError(
+            "could not read the semester list from the schedule page - the page "
+            "layout may have changed; pass a semester explicitly to work around it"
+        )
+    return options[0]
 
 
 def get_departments():
@@ -84,11 +111,16 @@ def _parse_hours(hours_str, num_days):
                 next_candidates.append(tokens[:-1] + [tokens[-1] + ch])
         candidates = next_candidates
 
-    valid = [c for c in candidates if len(c) == num_days and all(1 <= int(x) <= 14 for x in c)]
+    def usable(tokens):
+        return all(t.isdigit() and 1 <= int(t) <= 14 for t in tokens)
+
+    valid = [c for c in candidates if len(c) == num_days and usable(c)]
     if valid:
         return [int(x) for x in valid[0]]
-    # fall back to naive one-char-per-day split if nothing matched cleanly
-    return [int(x) for x in hours_str[:num_days]]
+    # Nothing tokenised cleanly. Fall back to one character per day, using -1 for
+    # anything non-numeric so the caller's range check rejects and reports it -
+    # a surprise value here must not take down the whole run.
+    return [int(x) if x.isdigit() else -1 for x in hours_str[:num_days]]
 
 
 def _parse_rooms(td, expected_count):
@@ -101,19 +133,71 @@ def _parse_rooms(td, expected_count):
     return spans[:expected_count]
 
 
+# Header label -> the field name this scraper uses for it.
+COLUMN_LABELS = {
+    "code.sec": "code",
+    "name": "name",
+    "cr.": "credit",
+    "ects": "ects",
+    "instr.": "instructor",
+    "days": "days",
+    "hours": "hours",
+    "rooms": "rooms",
+}
+REQUIRED_COLUMNS = set(COLUMN_LABELS.values())
+
+
+class TableLayoutError(RuntimeError):
+    """Raised when the schedule table's columns can't be identified."""
+
+
+def find_column_map(soup):
+    """Maps field name -> column index by reading the table's header row.
+
+    Column positions are not fixed: the registrar inserted a "Quota" column at
+    index 5 partway through 2026, which shifted Instr./Days/Hours/Rooms one to
+    the right and silently broke every hard-coded index. Reading the header
+    keeps the parser working across that kind of change instead of quietly
+    mis-assigning fields.
+    """
+    for tr in soup.find_all("tr"):
+        cells = tr.find_all(["th", "td"])
+        labels = [_cell_text(c).lower() for c in cells]
+        if "code.sec" not in labels or "days" not in labels:
+            continue
+        mapping = {}
+        for i, label in enumerate(labels):
+            field = COLUMN_LABELS.get(label)
+            if field and field not in mapping:
+                mapping[field] = i
+        missing = REQUIRED_COLUMNS - set(mapping)
+        if missing:
+            raise TableLayoutError(
+                f"schedule table is missing expected column(s): {sorted(missing)}; "
+                f"header was {labels}"
+            )
+        return mapping
+    raise TableLayoutError("could not find the schedule table's header row")
+
+
 def parse_department_courses(html, department_code, department_name):
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.find_all("tr", class_=re.compile(r"schtd"))
+    if not rows:
+        return []
+
+    col = find_column_map(soup)
+    min_cells = max(col.values()) + 1
 
     sections = []
     current = None
 
     for row in rows:
         cells = row.find_all("td")
-        if len(cells) < 11:
+        if len(cells) < min_cells:
             continue
 
-        code_sec = _cell_text(cells[0])
+        code_sec = _cell_text(cells[col["code"]])
         is_continuation = "labps" in (row.get("class") or [])
 
         if code_sec and not is_continuation:
@@ -123,9 +207,9 @@ def parse_department_courses(html, department_code, department_name):
                 "section": sec,
                 "department": department_name,
                 "departmentCode": department_code,
-                "name": _cell_text(cells[2]),
-                "credit": _to_number(_cell_text(cells[3])),
-                "ects": _to_number(_cell_text(cells[4])),
+                "name": _cell_text(cells[col["name"]]),
+                "credit": _to_number(_cell_text(cells[col["credit"]])),
+                "ects": _to_number(_cell_text(cells[col["ects"]])),
                 "meetings": [],
             }
             sections.append(current)
@@ -133,17 +217,17 @@ def parse_department_courses(html, department_code, department_name):
         else:
             if current is None:
                 continue
-            meeting_type = _cell_text(cells[2]) or "LECT"
+            meeting_type = _cell_text(cells[col["name"]]) or "LECT"
 
-        instructor = _cell_text(cells[5])
-        days_str = _cell_text(cells[6])
-        hours_str = _cell_text(cells[7])
+        instructor = _cell_text(cells[col["instructor"]])
+        days_str = _cell_text(cells[col["days"]])
+        hours_str = _cell_text(cells[col["hours"]])
         if not days_str or not hours_str:
             continue
 
         days = _parse_days(days_str)
         hours = _parse_hours(hours_str, len(days))
-        rooms = _parse_rooms(cells[10], len(days))
+        rooms = _parse_rooms(cells[col["rooms"]], len(days))
 
         for day, slot, room in zip(days, hours, rooms):
             # A day or slot outside the known range means the day/hour strings
@@ -279,16 +363,30 @@ def update_manifest(out_dir, semester):
 
 
 def main():
-    if len(sys.argv) < 2:
-        print('Usage: python scrape_boun.py "2026/2027-1"')
-        sys.exit(1)
+    if len(sys.argv) > 1:
+        semester = sys.argv[1]
+        if not SEMESTER_RE.match(semester):
+            print(f'Invalid semester {semester!r}. Expected a code like "2026/2027-1".')
+            sys.exit(1)
+        print(f"Semester: {semester} (from argument)")
+    else:
+        try:
+            semester = get_latest_semester()
+        except (requests.RequestException, RuntimeError) as e:
+            print(f"Could not detect the current semester: {e}")
+            sys.exit(1)
+        print(f"Semester: {semester} (auto-detected as newest)")
 
-    semester = sys.argv[1]
     try:
         data = scrape_semester(semester)
     except ScrapeIncompleteError as e:
         print(f"\nAborted - {e}")
         print("Existing data files were left untouched. Re-run to try again.")
+        sys.exit(1)
+    except TableLayoutError as e:
+        print(f"\nAborted - {e}")
+        print("The registrar's table layout changed; the column mapping in "
+              "COLUMN_LABELS needs updating. Existing data files were left untouched.")
         sys.exit(1)
 
     out_dir = Path(__file__).resolve().parent.parent / "data"

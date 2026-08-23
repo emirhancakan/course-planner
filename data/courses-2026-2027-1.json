@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-18T01:07:19",
+  "generatedAt": "2026-08-23T23:22:22",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -1705,21 +1705,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "DERYA KICI",
           "day": "W",
           "slot": 11,
           "room": "İB 211"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "DERYA KICI",
           "day": "W",
           "slot": 12,
           "room": "İB 211"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "DERYA KICI",
           "day": "W",
           "slot": 13,
           "room": "İB 211"
@@ -4278,23 +4278,23 @@
         {
           "type": "LECT",
           "instructor": "AYŞENUR İŞCEN AKATAY",
-          "day": "F",
+          "day": "Th",
           "slot": 6,
-          "room": "KB 125"
+          "room": "BM A4"
         },
         {
           "type": "LECT",
           "instructor": "AYŞENUR İŞCEN AKATAY",
-          "day": "F",
+          "day": "Th",
           "slot": 7,
-          "room": "KB 125"
+          "room": "BM A4"
         },
         {
           "type": "LECT",
           "instructor": "AYŞENUR İŞCEN AKATAY",
-          "day": "F",
+          "day": "Th",
           "slot": 8,
-          "room": "KB 125"
+          "room": "BM A4"
         }
       ]
     },
@@ -4628,21 +4628,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "FİLİZ EMLİK",
+          "instructor": "DUYGU AVCI SEMİZ",
           "day": "W",
           "slot": 3,
           "room": "KB 125"
         },
         {
           "type": "LECT",
-          "instructor": "FİLİZ EMLİK",
+          "instructor": "DUYGU AVCI SEMİZ",
           "day": "W",
           "slot": 4,
           "room": "KB 125"
         },
         {
           "type": "LECT",
-          "instructor": "FİLİZ EMLİK",
+          "instructor": "DUYGU AVCI SEMİZ",
           "day": "F",
           "slot": 4,
           "room": "NH 103"
@@ -11028,21 +11028,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "T",
           "slot": 1,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "T",
           "slot": 2,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "T",
           "slot": 3,
           "room": "JF 401"
@@ -11060,21 +11060,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "F",
           "slot": 2,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "F",
           "slot": 3,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HANDE GÜNER",
           "day": "F",
           "slot": 4,
           "room": "JF 401"
@@ -11124,21 +11124,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "BAHAR ÇOTUR",
           "day": "T",
           "slot": 5,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "BAHAR ÇOTUR",
           "day": "T",
           "slot": 6,
           "room": "JF 401"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "BAHAR ÇOTUR",
           "day": "T",
           "slot": 7,
           "room": "JF 401"
@@ -13661,29 +13661,29 @@
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
-          "day": "T",
-          "slot": 1,
+          "day": "M",
+          "slot": 5,
           "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
-          "day": "T",
-          "slot": 2,
+          "day": "M",
+          "slot": 6,
           "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
-          "day": "Th",
-          "slot": 7,
+          "day": "W",
+          "slot": 5,
           "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
-          "day": "Th",
-          "slot": 8,
+          "day": "W",
+          "slot": 6,
           "room": "HH 218"
         }
       ]
@@ -18189,21 +18189,21 @@
           "instructor": "NİLGÜN CILIZ",
           "day": "W",
           "slot": 2,
-          "room": "KÜÇÜK TOPLANTI SALONU"
+          "room": "KÜÇÜK TOPLANTI SALON"
         },
         {
           "type": "LECT",
           "instructor": "NİLGÜN CILIZ",
           "day": "W",
           "slot": 3,
-          "room": "KÜÇÜK TOPLANTI SALONU"
+          "room": "KÜÇÜK TOPLANTI SALON"
         },
         {
           "type": "LECT",
           "instructor": "NİLGÜN CILIZ",
           "day": "W",
           "slot": 4,
-          "room": "KÜÇÜK TOPLANTI SALONU"
+          "room": "KÜÇÜK TOPLANTI SALON"
         }
       ]
     },
@@ -21779,11 +21779,11 @@
       ]
     },
     {
-      "code": "FLED514",
+      "code": "FLED513",
       "section": "01",
       "department": "FOREIGN LANGUAGE EDUCATION",
       "departmentCode": "FLED",
-      "name": "NEUROLINGUISTIC ASPECTS OF BILINGUALISM",
+      "name": "PSYCHOLINGUISTIC APPROACHES TO SECOND LANGUAGE ACQUISITION",
       "credit": 3,
       "ects": 8,
       "meetings": [
@@ -25294,21 +25294,21 @@
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 7,
-          "room": ""
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 8,
-          "room": ""
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 9,
-          "room": ""
+          "room": "TB 415"
         }
       ]
     },
@@ -25325,21 +25325,21 @@
           "type": "LECT",
           "instructor": "NEVRA NECİPOĞLU",
           "day": "W",
-          "slot": 4,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NEVRA NECİPOĞLU",
-          "day": "W",
-          "slot": 5,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NEVRA NECİPOĞLU",
-          "day": "W",
           "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "NEVRA NECİPOĞLU",
+          "day": "W",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "NEVRA NECİPOĞLU",
+          "day": "W",
+          "slot": 8,
           "room": ""
         }
       ]
@@ -25749,6 +25749,16 @@
     {
       "code": "HIST601",
       "section": "14",
+      "department": "HISTORY",
+      "departmentCode": "HIST",
+      "name": "HISTORY SEMINAR",
+      "credit": 3,
+      "ects": 7,
+      "meetings": []
+    },
+    {
+      "code": "HIST601",
+      "section": "19",
       "department": "HISTORY",
       "departmentCode": "HIST",
       "name": "HISTORY SEMINAR",
@@ -32804,6 +32814,38 @@
       ]
     },
     {
+      "code": "AD  439",
+      "section": "01",
+      "department": "MANAGEMENT",
+      "departmentCode": "AD",
+      "name": "BUSINESS-TO-BUSINESS MARKETING",
+      "credit": 3,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "BELGİN ARISAN",
+          "day": "T",
+          "slot": 2,
+          "room": "JF 108"
+        },
+        {
+          "type": "LECT",
+          "instructor": "BELGİN ARISAN",
+          "day": "T",
+          "slot": 3,
+          "room": "JF 108"
+        },
+        {
+          "type": "LECT",
+          "instructor": "BELGİN ARISAN",
+          "day": "T",
+          "slot": 4,
+          "room": "JF 108"
+        }
+      ]
+    },
+    {
       "code": "AD  441",
       "section": "01",
       "department": "MANAGEMENT",
@@ -33557,65 +33599,6 @@
         {
           "type": "LECT",
           "instructor": "CENK CEVAT KARAHAN",
-          "day": "T",
-          "slot": 4,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "AD  620",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "HISTORY OF MANAGEMENT THOUGHT",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "AD  627",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "ORGANIZATION THEORY",
-      "credit": 4,
-      "ects": 20,
-      "meetings": []
-    },
-    {
-      "code": "AD  640",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MARKETING THEORY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BELGİN ARISAN",
-          "day": "T",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BELGİN ARISAN",
-          "day": "T",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BELGİN ARISAN",
-          "day": "T",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BELGİN ARISAN",
           "day": "T",
           "slot": 4,
           "room": ""
@@ -35289,10 +35272,10 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ESRA KOÇAK",
-          "day": "T",
-          "slot": 5,
-          "room": "HH Z06-SEM1"
+          "instructor": "MEHMET NAFİZ AYDIN",
+          "day": "W",
+          "slot": 4,
+          "room": "HH 208-SEM2"
         }
       ]
     },
@@ -35340,20 +35323,6 @@
         {
           "type": "LECT",
           "instructor": "HANDE TÜRKER",
-          "day": "M",
-          "slot": 6,
-          "room": "HH 208-SEM2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "M",
-          "slot": 7,
-          "room": "HH 208-SEM2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
           "day": "T",
           "slot": 3,
           "room": "HH Z07"
@@ -35364,6 +35333,20 @@
           "day": "T",
           "slot": 4,
           "room": "HH Z07"
+        },
+        {
+          "type": "LECT",
+          "instructor": "HANDE TÜRKER",
+          "day": "W",
+          "slot": 3,
+          "room": "M 1211"
+        },
+        {
+          "type": "LECT",
+          "instructor": "HANDE TÜRKER",
+          "day": "W",
+          "slot": 4,
+          "room": "M 1211"
         }
       ]
     },
@@ -36892,6 +36875,26 @@
       ]
     },
     {
+      "code": "MATH490",
+      "section": "01",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "PROJECT",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "MATH490",
+      "section": "02",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "PROJECT",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
       "code": "MATH49D",
       "section": "01",
       "department": "MATHEMATICS",
@@ -38180,14 +38183,14 @@
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "W",
           "slot": 5,
-          "room": "EF 03"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "W",
           "slot": 6,
-          "room": "EF 03"
+          "room": "EF 101"
         }
       ]
     },
@@ -43621,22 +43624,22 @@
           "type": "LECT",
           "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
           "day": "Th",
-          "slot": 4,
-          "room": "NH 102"
+          "slot": 6,
+          "room": "NH 103"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
+          "day": "Th",
+          "slot": 7,
+          "room": "NH 103"
         },
         {
           "type": "LECT",
           "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
           "day": "F",
-          "slot": 3,
-          "room": "M 2181"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
-          "day": "F",
-          "slot": 4,
-          "room": "M 2181"
+          "slot": 7,
+          "room": "M 2152"
         }
       ]
     },
@@ -43705,38 +43708,6 @@
       ]
     },
     {
-      "code": "PHIL412",
-      "section": "01",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "ADVANCED HISTORY OF PHILOSOPHY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "KENAN TEKİN",
-          "day": "M",
-          "slot": 5,
-          "room": "TB 260A"
-        },
-        {
-          "type": "LECT",
-          "instructor": "KENAN TEKİN",
-          "day": "Th",
-          "slot": 5,
-          "room": "TB 230"
-        },
-        {
-          "type": "LECT",
-          "instructor": "KENAN TEKİN",
-          "day": "Th",
-          "slot": 6,
-          "room": "TB 230"
-        }
-      ]
-    },
-    {
       "code": "PHIL420",
       "section": "01",
       "department": "PHILOSOPHY",
@@ -43750,14 +43721,14 @@
           "instructor": "BERNA KILINÇ",
           "day": "W",
           "slot": 5,
-          "room": "EF 101"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "BERNA KILINÇ",
           "day": "W",
           "slot": 6,
-          "room": "EF 101"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
@@ -43765,38 +43736,6 @@
           "day": "F",
           "slot": 7,
           "room": "TB 225"
-        }
-      ]
-    },
-    {
-      "code": "PHIL488",
-      "section": "01",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "SP.TP.PHILOSOPHY AND SCIENTIFIC PSYCHOLOGY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
-          "day": "W",
-          "slot": 8,
-          "room": "TB 230"
-        },
-        {
-          "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
-          "day": "Th",
-          "slot": 5,
-          "room": "TB 260A"
-        },
-        {
-          "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
-          "day": "Th",
-          "slot": 6,
-          "room": "TB 260A"
         }
       ]
     },
@@ -43933,16 +43872,6 @@
       ]
     },
     {
-      "code": "PHIL58D",
-      "section": "01",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "SPECIAL TOPICS:POSTCLASSICAL ISLAMIC PHILOSOPHY",
-      "credit": 3,
-      "ects": 10,
-      "meetings": []
-    },
-    {
       "code": "PHIL58E",
       "section": "01",
       "department": "PHILOSOPHY",
@@ -44050,15 +43979,15 @@
         {
           "type": "LECT",
           "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
-          "day": "Th",
-          "slot": 6,
+          "day": "F",
+          "slot": 3,
           "room": ""
         },
         {
           "type": "LECT",
           "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
-          "day": "Th",
-          "slot": 7,
+          "day": "F",
+          "slot": 4,
           "room": ""
         },
         {
@@ -48787,16 +48716,6 @@
     },
     {
       "code": "POLS579",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "GRADUATE SEMINAR",
-      "credit": 0,
-      "ects": 7,
-      "meetings": []
-    },
-    {
-      "code": "POLS579",
       "section": "02",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
@@ -48897,16 +48816,6 @@
     },
     {
       "code": "POLS687",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "R&R IN COMPARATIVE POLITICS",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "POLS687",
       "section": "02",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
@@ -48958,16 +48867,6 @@
     {
       "code": "POLS690",
       "section": "05",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "POLS690",
-      "section": "06",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
       "name": "MASTER THESIS",
@@ -49067,16 +48966,6 @@
     },
     {
       "code": "POLS790",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "DOCTORAL DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "POLS790",
       "section": "02",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
@@ -49108,16 +48997,6 @@
     {
       "code": "POLS790",
       "section": "05",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "DOCTORAL DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "POLS790",
-      "section": "06",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
       "name": "DOCTORAL DISSERTATION",
@@ -51921,22 +51800,22 @@
           "type": "LECT",
           "instructor": "İSMAİL AVCI",
           "day": "Th",
+          "slot": 5,
+          "room": "HH 103"
+        },
+        {
+          "type": "LECT",
+          "instructor": "İSMAİL AVCI",
+          "day": "Th",
           "slot": 6,
-          "room": "HH Z04"
+          "room": "HH 103"
         },
         {
           "type": "LECT",
           "instructor": "İSMAİL AVCI",
           "day": "Th",
           "slot": 7,
-          "room": "HH Z04"
-        },
-        {
-          "type": "LECT",
-          "instructor": "İSMAİL AVCI",
-          "day": "Th",
-          "slot": 8,
-          "room": "HH Z04"
+          "room": "HH 103"
         }
       ]
     },
@@ -55525,43 +55404,43 @@
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
-          "slot": 6,
-          "room": "KB SHANNON-232"
+          "slot": 3,
+          "room": "VB 201"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
-          "slot": 7,
-          "room": "KB SHANNON-232"
+          "slot": 4,
+          "room": "VB 201"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
-          "slot": 6,
-          "room": "HH Z12"
+          "slot": 3,
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
-          "slot": 7,
-          "room": "HH Z12"
+          "slot": 4,
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
-          "slot": 6,
-          "room": "TB 230"
+          "slot": 3,
+          "room": "TB 225"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
-          "slot": 7,
-          "room": "TB 230"
+          "slot": 4,
+          "room": "TB 225"
         }
       ]
     },
@@ -55578,43 +55457,43 @@
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
-          "slot": 3,
-          "room": "VB 201"
+          "slot": 6,
+          "room": "KB SHANNON-232"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
-          "slot": 4,
-          "room": "VB 201"
+          "slot": 7,
+          "room": "KB SHANNON-232"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
-          "slot": 3,
-          "room": "EF 104"
+          "slot": 6,
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
-          "slot": 4,
-          "room": "EF 104"
+          "slot": 7,
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
-          "slot": 3,
-          "room": "TB 225"
+          "slot": 6,
+          "room": "TB 230"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
-          "slot": 4,
-          "room": "TB 225"
+          "slot": 7,
+          "room": "TB 230"
         }
       ]
     },
@@ -55630,44 +55509,44 @@
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
-          "day": "T",
-          "slot": 1,
-          "room": "KP 05"
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYNAZ RUHİ",
-          "day": "T",
-          "slot": 2,
-          "room": "KP 05"
+          "day": "W",
+          "slot": 5,
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "W",
-          "slot": 1,
-          "room": "EF 102"
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYNAZ RUHİ",
-          "day": "W",
-          "slot": 2,
-          "room": "EF 102"
+          "slot": 6,
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "Th",
-          "slot": 1,
-          "room": "EF 03"
+          "slot": 5,
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "Th",
-          "slot": 2,
-          "room": "EF 03"
+          "slot": 6,
+          "room": "EF 04"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYNAZ RUHİ",
+          "day": "F",
+          "slot": 6,
+          "room": "EF 04"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYNAZ RUHİ",
+          "day": "F",
+          "slot": 7,
+          "room": "EF 04"
         }
       ]
     },
@@ -55683,44 +55562,44 @@
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
-          "day": "T",
-          "slot": 3,
-          "room": "KP 05"
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYNAZ RUHİ",
-          "day": "T",
-          "slot": 4,
-          "room": "KP 05"
+          "day": "W",
+          "slot": 7,
+          "room": "KP 03"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "W",
-          "slot": 3,
-          "room": "EF 102"
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYNAZ RUHİ",
-          "day": "W",
-          "slot": 4,
-          "room": "EF 102"
+          "slot": 8,
+          "room": "KP 03"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "Th",
-          "slot": 3,
-          "room": "EF 03"
+          "slot": 7,
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYNAZ RUHİ",
           "day": "Th",
-          "slot": 4,
-          "room": "EF 03"
+          "slot": 8,
+          "room": "EF 04"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYNAZ RUHİ",
+          "day": "F",
+          "slot": 8,
+          "room": "EF 04"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYNAZ RUHİ",
+          "day": "F",
+          "slot": 9,
+          "room": "EF 04"
         }
       ]
     },
@@ -56078,59 +55957,6 @@
           "day": "F",
           "slot": 3,
           "room": "M 2231"
-        }
-      ]
-    },
-    {
-      "code": "RUS 102",
-      "section": "01",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "ELEMENTARY RUSSIAN II",
-      "credit": 3,
-      "ects": 7,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "Th",
-          "slot": 1,
-          "room": "M 1169"
-        },
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "Th",
-          "slot": 2,
-          "room": "M 1169"
-        },
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "Th",
-          "slot": 3,
-          "room": "M 1169"
-        },
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "F",
-          "slot": 1,
-          "room": "ET 03"
-        },
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "F",
-          "slot": 2,
-          "room": "ET 03"
-        },
-        {
-          "type": "LECT",
-          "instructor": "NATALIA DEMİRKAPILI",
-          "day": "F",
-          "slot": 3,
-          "room": "ET 03"
         }
       ]
     },
@@ -57930,16 +57756,6 @@
     },
     {
       "code": "SOC 589",
-      "section": "06",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
       "section": "07",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
@@ -57960,37 +57776,7 @@
     },
     {
       "code": "SOC 589",
-      "section": "09",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
       "section": "10",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "11",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "12",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
       "name": "READINGS IN SOCIOLOGY",
@@ -58050,16 +57836,6 @@
     },
     {
       "code": "SOC 690",
-      "section": "06",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "SOC 690",
       "section": "07",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
@@ -58080,16 +57856,6 @@
     },
     {
       "code": "SOC 690",
-      "section": "09",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "SOC 690",
       "section": "10",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
@@ -58101,16 +57867,6 @@
     {
       "code": "SOC 690",
       "section": "11",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "SOC 690",
-      "section": "12",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
       "name": "MASTER THESIS",
@@ -58937,38 +58693,6 @@
       ]
     },
     {
-      "code": "TRM 513",
-      "section": "01",
-      "department": "SUSTAINABLE TOURISM MANAGEMENT",
-      "departmentCode": "TRM",
-      "name": "TOURISM AND ANTHROPOLOGY",
-      "credit": 3,
-      "ects": 7,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BANU YILMAZ KOLANKAYA",
-          "day": "Th",
-          "slot": 6,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BANU YILMAZ KOLANKAYA",
-          "day": "Th",
-          "slot": 7,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BANU YILMAZ KOLANKAYA",
-          "day": "Th",
-          "slot": 8,
-          "room": "HH Z06-SEM1"
-        }
-      ]
-    },
-    {
       "code": "TRM 521",
       "section": "01",
       "department": "SUSTAINABLE TOURISM MANAGEMENT",
@@ -59656,24 +59380,31 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "FANİ EFTHYMIADOU",
+          "instructor": "EVİNÇ DOĞAN",
+          "day": "Th",
+          "slot": 5,
+          "room": "İB 312"
+        },
+        {
+          "type": "LECT",
+          "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 6,
-          "room": "HH 207"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
-          "instructor": "FANİ EFTHYMIADOU",
+          "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 7,
-          "room": "HH 207"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
-          "instructor": "FANİ EFTHYMIADOU",
+          "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 8,
-          "room": "HH 207"
+          "room": "İB 312"
         }
       ]
     },
@@ -59754,6 +59485,13 @@
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "T",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SEMA ÜSTÜN KÜLÜNK",
+          "day": "T",
           "slot": 2,
           "room": ""
         },
@@ -59762,13 +59500,6 @@
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "T",
           "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SEMA ÜSTÜN KÜLÜNK",
-          "day": "T",
-          "slot": 4,
           "room": ""
         }
       ]
@@ -60889,21 +60620,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT KARANTAY",
           "day": "T",
           "slot": 2,
           "room": "JF 333"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT KARANTAY",
           "day": "T",
           "slot": 3,
           "room": "JF 333"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT KARANTAY",
           "day": "T",
           "slot": 4,
           "room": "JF 333"
@@ -62212,14 +61943,14 @@
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 3,
-          "room": "KP 02"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 4,
-          "room": "KP 02"
+          "room": "NH 203"
         }
       ]
     },
@@ -62237,14 +61968,14 @@
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 5,
-          "room": "KP 02"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 6,
-          "room": "KP 02"
+          "room": "NH 203"
         }
       ]
     },
@@ -62262,14 +61993,14 @@
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 7,
-          "room": "KP 02"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "ESRA DEMİRKOPARAN",
           "day": "Th",
           "slot": 8,
-          "room": "KP 02"
+          "room": "NH 203"
         }
       ]
     },
@@ -65465,6 +65196,38 @@
       "meetings": []
     },
     {
+      "code": "EL  48A",
+      "section": "01",
+      "department": "WESTERN LANGUAGES & LITERATURES",
+      "departmentCode": "LL",
+      "name": "SPECIAL TOPICS:ART FOR ART'S SAKE:LATE VICTORIAN AESTHETES & DECADENTS",
+      "credit": 3,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "KAYA GENÇ",
+          "day": "T",
+          "slot": 5,
+          "room": "HH Z08"
+        },
+        {
+          "type": "LECT",
+          "instructor": "KAYA GENÇ",
+          "day": "Th",
+          "slot": 6,
+          "room": "HH Z04"
+        },
+        {
+          "type": "LECT",
+          "instructor": "KAYA GENÇ",
+          "day": "Th",
+          "slot": 7,
+          "room": "HH Z04"
+        }
+      ]
+    },
+    {
       "code": "ENGL105",
       "section": "01",
       "department": "WESTERN LANGUAGES & LITERATURES",
@@ -65614,34 +65377,34 @@
       ]
     },
     {
-      "code": "LIT 412",
+      "code": "LIT 411",
       "section": "01",
       "department": "WESTERN LANGUAGES & LITERATURES",
       "departmentCode": "LL",
-      "name": "COPYWRITING II",
+      "name": "COPYWRITING I",
       "credit": 3,
       "ects": 6,
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NEŞET DERELİ",
+          "day": "W",
+          "slot": 7,
+          "room": "M 2180"
+        },
+        {
+          "type": "LECT",
+          "instructor": "NEŞET DERELİ",
+          "day": "W",
+          "slot": 8,
+          "room": "M 2180"
+        },
+        {
+          "type": "LECT",
+          "instructor": "NEŞET DERELİ",
           "day": "W",
           "slot": 9,
-          "room": "TB 490"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "W",
-          "slot": 10,
-          "room": "TB 490"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "W",
-          "slot": 11,
-          "room": "TB 490"
+          "room": "M 2180"
         }
       ]
     }
