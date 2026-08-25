@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-23T23:22:22",
+  "generatedAt": "2026-08-25T03:53:57",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -2082,6 +2082,52 @@
     },
     {
       "code": "BIS 591",
+      "section": "11",
+      "department": "BUSINESS INFORMATION SYSTEMS",
+      "departmentCode": "BIS",
+      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
+      "credit": 2,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "M",
+          "slot": 9,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "M",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "T",
+          "slot": 9,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "T",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "W",
+          "slot": 9,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "BIS 591",
       "section": "12",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
@@ -2496,6 +2542,52 @@
     },
     {
       "code": "BIS 592",
+      "section": "11",
+      "department": "BUSINESS INFORMATION SYSTEMS",
+      "departmentCode": "BIS",
+      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
+      "credit": 2,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "W",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "Th",
+          "slot": 9,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "Th",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "F",
+          "slot": 9,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MELTEM ÖZTURAN",
+          "day": "F",
+          "slot": 10,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "BIS 592",
       "section": "12",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
@@ -2649,6 +2741,16 @@
     {
       "code": "BIS 594",
       "section": "09",
+      "department": "BUSINESS INFORMATION SYSTEMS",
+      "departmentCode": "BIS",
+      "name": "PROJECT",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "BIS 594",
+      "section": "11",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
       "name": "PROJECT",
@@ -9747,14 +9849,14 @@
           "instructor": "ARDA YURDAKUL",
           "day": "Th",
           "slot": 3,
-          "room": "NH 304"
+          "room": "EF 06"
         },
         {
           "type": "LECT",
           "instructor": "ARDA YURDAKUL",
           "day": "Th",
           "slot": 4,
-          "room": "NH 304"
+          "room": "EF 06"
         },
         {
           "type": "LAB",
@@ -13341,23 +13443,23 @@
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
+          "day": "M",
+          "slot": 5,
+          "room": "İB 201"
+        },
+        {
+          "type": "LECT",
+          "instructor": "TALAT ULUSSEVER",
           "day": "W",
-          "slot": 8,
-          "room": "İB 201"
+          "slot": 5,
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
-          "day": "F",
+          "day": "W",
           "slot": 6,
-          "room": "İB 201"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TALAT ULUSSEVER",
-          "day": "F",
-          "slot": 7,
-          "room": "İB 201"
+          "room": "HH Z12"
         }
       ]
     },
@@ -13406,22 +13508,22 @@
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
-          "slot": 4,
+          "slot": 7,
           "room": "İB 211"
         },
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
-          "slot": 5,
+          "slot": 8,
           "room": "İB 211"
         },
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
-          "day": "W",
-          "slot": 5,
-          "room": "HH Z04"
+          "day": "M",
+          "slot": 9,
+          "room": "İB 211"
         }
       ]
     },
@@ -13469,23 +13571,23 @@
         {
           "type": "LECT",
           "instructor": "MUSTAFA METİN BAŞBAY",
+          "day": "M",
+          "slot": 3,
+          "room": "İB 211"
+        },
+        {
+          "type": "LECT",
+          "instructor": "MUSTAFA METİN BAŞBAY",
           "day": "W",
-          "slot": 8,
-          "room": "İB 204"
+          "slot": 3,
+          "room": "EF 102"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA METİN BAŞBAY",
-          "day": "F",
-          "slot": 6,
-          "room": "İB 100"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA METİN BAŞBAY",
-          "day": "F",
-          "slot": 7,
-          "room": "İB 100"
+          "day": "W",
+          "slot": 4,
+          "room": "EF 102"
         }
       ]
     },
@@ -24780,21 +24882,21 @@
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 3,
-          "room": "M 1211"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 4,
-          "room": "M 1211"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 5,
-          "room": "M 1211"
+          "room": ""
         }
       ]
     },
@@ -28126,38 +28228,6 @@
       ]
     },
     {
-      "code": "INTT416",
-      "section": "01",
-      "department": "INTERNATIONAL TRADE",
-      "departmentCode": "INTT",
-      "name": "ECONOMIC HISTORY OF EUROPE",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "EMİNE BEYZA SATOĞLU",
-          "day": "W",
-          "slot": 6,
-          "room": "HH 218"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİNE BEYZA SATOĞLU",
-          "day": "W",
-          "slot": 7,
-          "room": "HH 218"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİNE BEYZA SATOĞLU",
-          "day": "W",
-          "slot": 8,
-          "room": "HH 218"
-        }
-      ]
-    },
-    {
       "code": "INTT425",
       "section": "01",
       "department": "INTERNATIONAL TRADE",
@@ -28442,38 +28512,6 @@
           "day": "W",
           "slot": 8,
           "room": "İB 301"
-        }
-      ]
-    },
-    {
-      "code": "INTT48P",
-      "section": "01",
-      "department": "INTERNATIONAL TRADE",
-      "departmentCode": "INTT",
-      "name": "SPECIAL TOPICS ECONOMIC HISTORY OF ASIA",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET EMİN BAYRAM",
-          "day": "W",
-          "slot": 6,
-          "room": "HH Z07"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET EMİN BAYRAM",
-          "day": "W",
-          "slot": 7,
-          "room": "HH Z07"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET EMİN BAYRAM",
-          "day": "W",
-          "slot": 8,
-          "room": "HH Z07"
         }
       ]
     },
@@ -32814,6 +32852,38 @@
       ]
     },
     {
+      "code": "AD  432",
+      "section": "01",
+      "department": "MANAGEMENT",
+      "departmentCode": "AD",
+      "name": "ENTREPRENEURSHIP",
+      "credit": 3,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ORKUN OĞUZ",
+          "day": "Th",
+          "slot": 5,
+          "room": "İB 312"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ORKUN OĞUZ",
+          "day": "Th",
+          "slot": 6,
+          "room": "İB 312"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ORKUN OĞUZ",
+          "day": "Th",
+          "slot": 7,
+          "room": "İB 312"
+        }
+      ]
+    },
+    {
       "code": "AD  439",
       "section": "01",
       "department": "MANAGEMENT",
@@ -33002,6 +33072,38 @@
           "day": "Th",
           "slot": 3,
           "room": "İB 312"
+        }
+      ]
+    },
+    {
+      "code": "AD  48T",
+      "section": "01",
+      "department": "MANAGEMENT",
+      "departmentCode": "AD",
+      "name": "SPECIAL TOPICS THE TRANSFORMATION OF COMMUNICATION IN THE AGE OF ARTIFICIAL INTELLIGENCE",
+      "credit": 3,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MUHAMMED ALİ ÇINAR",
+          "day": "T",
+          "slot": 9,
+          "room": "İB 102"
+        },
+        {
+          "type": "LECT",
+          "instructor": "MUHAMMED ALİ ÇINAR",
+          "day": "T",
+          "slot": 10,
+          "room": "İB 102"
+        },
+        {
+          "type": "LECT",
+          "instructor": "MUHAMMED ALİ ÇINAR",
+          "day": "T",
+          "slot": 11,
+          "room": "İB 102"
         }
       ]
     },
@@ -34779,38 +34881,6 @@
       ]
     },
     {
-      "code": "MIS 487",
-      "section": "01",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "SPECIAL TOPICS SUSTAINABLE BUSINESS TRANSFORMATION WITH AI",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SERTAÇ YERLİKAYA",
-          "day": "T",
-          "slot": 7,
-          "room": "HH 203"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SERTAÇ YERLİKAYA",
-          "day": "T",
-          "slot": 8,
-          "room": "HH 203"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SERTAÇ YERLİKAYA",
-          "day": "T",
-          "slot": 9,
-          "room": "HH 203"
-        }
-      ]
-    },
-    {
       "code": "MIS 48F",
       "section": "01",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
@@ -35272,7 +35342,7 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
+          "instructor": "ESRA KOÇAK",
           "day": "W",
           "slot": 4,
           "room": "HH 208-SEM2"
@@ -35339,14 +35409,14 @@
           "instructor": "HANDE TÜRKER",
           "day": "W",
           "slot": 3,
-          "room": "M 1211"
+          "room": "HH Z07"
         },
         {
           "type": "LECT",
           "instructor": "HANDE TÜRKER",
           "day": "W",
           "slot": 4,
-          "room": "M 1211"
+          "room": "HH Z07"
         }
       ]
     },
@@ -43558,21 +43628,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "LUCAS THORPE",
+          "instructor": "SUN DEMİRLİ",
           "day": "W",
           "slot": 2,
           "room": "M 1171"
         },
         {
           "type": "LECT",
-          "instructor": "LUCAS THORPE",
+          "instructor": "SUN DEMİRLİ",
           "day": "Th",
           "slot": 2,
           "room": "M 1171"
         },
         {
           "type": "LECT",
-          "instructor": "LUCAS THORPE",
+          "instructor": "SUN DEMİRLİ",
           "day": "Th",
           "slot": 3,
           "room": "M 1171"
@@ -43656,22 +43726,22 @@
           "type": "LECT",
           "instructor": "NEDİM NAMİ NOMER",
           "day": "T",
-          "slot": 1,
-          "room": "TB 121"
+          "slot": 3,
+          "room": "JF 507"
         },
         {
           "type": "LECT",
           "instructor": "NEDİM NAMİ NOMER",
           "day": "T",
-          "slot": 2,
-          "room": "TB 121"
+          "slot": 4,
+          "room": "JF 507"
         },
         {
           "type": "LECT",
           "instructor": "NEDİM NAMİ NOMER",
           "day": "F",
           "slot": 3,
-          "room": "TB 260A"
+          "room": "JF 507"
         }
       ]
     },
@@ -43838,38 +43908,6 @@
       "credit": 3,
       "ects": 6,
       "meetings": []
-    },
-    {
-      "code": "PHIL49L",
-      "section": "01",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "SPECIAL TOPICS IN METAPHYSICS",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
-          "day": "T",
-          "slot": 5,
-          "room": "M 2152"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
-          "day": "W",
-          "slot": 7,
-          "room": "TB 225"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
-          "day": "W",
-          "slot": 8,
-          "room": "TB 225"
-        }
-      ]
     },
     {
       "code": "PHIL58E",
@@ -53621,14 +53659,14 @@
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 3,
-          "room": "EF 04"
+          "room": "JF 331"
         },
         {
           "type": "LECT",
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 4,
-          "room": "EF 04"
+          "room": "JF 331"
         }
       ]
     },
@@ -53780,14 +53818,14 @@
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 1,
-          "room": "EF 04"
+          "room": "JF 331"
         },
         {
           "type": "LECT",
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 2,
-          "room": "EF 04"
+          "room": "JF 331"
         }
       ]
     },
@@ -53993,14 +54031,14 @@
           "instructor": "IVANA VIAPPIANI",
           "day": "M",
           "slot": 3,
-          "room": "HH Z06-SEM1"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "IVANA VIAPPIANI",
           "day": "M",
           "slot": 4,
-          "room": "HH Z06-SEM1"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
@@ -54205,14 +54243,14 @@
           "instructor": "IVANA VIAPPIANI",
           "day": "M",
           "slot": 1,
-          "room": "HH Z06-SEM1"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "IVANA VIAPPIANI",
           "day": "M",
           "slot": 2,
-          "room": "HH Z06-SEM1"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
@@ -55472,14 +55510,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 6,
-          "room": "HH Z12"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 7,
-          "room": "HH Z12"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
@@ -57865,16 +57903,6 @@
       "meetings": []
     },
     {
-      "code": "SOC 690",
-      "section": "11",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
       "code": "SWE 501",
       "section": "01",
       "department": "SOFTWARE ENGINEERING",
@@ -59383,28 +59411,28 @@
           "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 5,
-          "room": "İB 312"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 6,
-          "room": "İB 312"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 7,
-          "room": "İB 312"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "EVİNÇ DOĞAN",
           "day": "Th",
           "slot": 8,
-          "room": "İB 312"
+          "room": "HH Z06-SEM1"
         }
       ]
     },
@@ -65215,14 +65243,14 @@
           "type": "LECT",
           "instructor": "KAYA GENÇ",
           "day": "Th",
-          "slot": 6,
+          "slot": 7,
           "room": "HH Z04"
         },
         {
           "type": "LECT",
           "instructor": "KAYA GENÇ",
           "day": "Th",
-          "slot": 7,
+          "slot": 8,
           "room": "HH Z04"
         }
       ]
