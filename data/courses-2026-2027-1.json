@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-25T03:53:57",
+  "generatedAt": "2026-08-26T03:58:18",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -4751,21 +4751,21 @@
         },
         {
           "type": "LAB",
-          "instructor": "DUYGU AVCI SEMİZ",
+          "instructor": "FİLİZ EMLİK",
           "day": "M",
           "slot": 2,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "DUYGU AVCI SEMİZ",
+          "instructor": "FİLİZ EMLİK",
           "day": "M",
           "slot": 3,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "DUYGU AVCI SEMİZ",
+          "instructor": "FİLİZ EMLİK",
           "day": "M",
           "slot": 4,
           "room": ""
@@ -13580,14 +13580,14 @@
           "instructor": "MUSTAFA METİN BAŞBAY",
           "day": "W",
           "slot": 3,
-          "room": "EF 102"
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA METİN BAŞBAY",
           "day": "W",
           "slot": 4,
-          "room": "EF 102"
+          "room": "HH Z12"
         }
       ]
     },
@@ -32034,21 +32034,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
+          "instructor": "ZEHRA BİLGEN SUSANLI",
           "day": "M",
           "slot": 2,
           "room": "İB 103"
         },
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
+          "instructor": "ZEHRA BİLGEN SUSANLI",
           "day": "M",
           "slot": 3,
           "room": "İB 103"
         },
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
+          "instructor": "ZEHRA BİLGEN SUSANLI",
           "day": "M",
           "slot": 4,
           "room": "İB 103"
@@ -32176,6 +32176,52 @@
           "day": "T",
           "slot": 4,
           "room": "NH 103"
+        }
+      ]
+    },
+    {
+      "code": "AD  251",
+      "section": "05",
+      "department": "MANAGEMENT",
+      "departmentCode": "AD",
+      "name": "MANAGERIAL STATISTICS I",
+      "credit": 3,
+      "ects": 5,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "EMİNE BEYZA SATOĞLU",
+          "day": "Th",
+          "slot": 7,
+          "room": "M 2171"
+        },
+        {
+          "type": "LECT",
+          "instructor": "EMİNE BEYZA SATOĞLU",
+          "day": "Th",
+          "slot": 8,
+          "room": "M 2171"
+        },
+        {
+          "type": "LECT",
+          "instructor": "EMİNE BEYZA SATOĞLU",
+          "day": "Th",
+          "slot": 9,
+          "room": "M 2171"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "EMİNE BEYZA SATOĞLU",
+          "day": "M",
+          "slot": 7,
+          "room": "İB 103"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "EMİNE BEYZA SATOĞLU",
+          "day": "T",
+          "slot": 7,
+          "room": "İB 100"
         }
       ]
     },
@@ -32705,21 +32751,21 @@
           "instructor": "ELİF DENİZ ALAKAVUK",
           "day": "W",
           "slot": 1,
-          "room": "HH Z12"
+          "room": "NH 304"
         },
         {
           "type": "LECT",
           "instructor": "ELİF DENİZ ALAKAVUK",
           "day": "W",
           "slot": 2,
-          "room": "HH Z12"
+          "room": "NH 304"
         },
         {
           "type": "LECT",
           "instructor": "ELİF DENİZ ALAKAVUK",
           "day": "W",
           "slot": 3,
-          "room": "HH Z12"
+          "room": "NH 304"
         }
       ]
     },
@@ -33072,6 +33118,38 @@
           "day": "Th",
           "slot": 3,
           "room": "İB 312"
+        }
+      ]
+    },
+    {
+      "code": "AD  48L",
+      "section": "01",
+      "department": "MANAGEMENT",
+      "departmentCode": "AD",
+      "name": "SPECIAL TOPICS IN MANAGEMENT: MANAGEMET THOUGHT THROUGH A LENS OF LEADERSHIP",
+      "credit": 3,
+      "ects": 6,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ÇİĞDEM ASARKAYA",
+          "day": "F",
+          "slot": 6,
+          "room": "İB 201"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ÇİĞDEM ASARKAYA",
+          "day": "F",
+          "slot": 7,
+          "room": "İB 201"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ÇİĞDEM ASARKAYA",
+          "day": "F",
+          "slot": 8,
+          "room": "İB 201"
         }
       ]
     },
@@ -35342,7 +35420,7 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ESRA KOÇAK",
+          "instructor": "MEHMET NAFİZ AYDIN",
           "day": "W",
           "slot": 4,
           "room": "HH 208-SEM2"
@@ -42349,14 +42427,14 @@
           "instructor": "NESRİN ÖZÖREN ERKOL",
           "day": "W",
           "slot": 3,
-          "room": "NH 304"
+          "room": "EF 102"
         },
         {
           "type": "LECT",
           "instructor": "NESRİN ÖZÖREN ERKOL",
           "day": "W",
           "slot": 4,
-          "room": "NH 304"
+          "room": "EF 102"
         }
       ]
     },
