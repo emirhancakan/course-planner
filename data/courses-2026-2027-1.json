@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-26T03:58:18",
+  "generatedAt": "2026-08-27T14:00:17",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -1563,6 +1563,106 @@
           "day": "W",
           "slot": 5,
           "room": "NH 404"
+        }
+      ]
+    },
+    {
+      "code": "HTR 311",
+      "section": "45",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "HISTORY OF THE TURKISH REPUBLIC I",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 2,
+          "room": "NH 304"
+        },
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 3,
+          "room": "NH 304"
+        }
+      ]
+    },
+    {
+      "code": "HTR 311",
+      "section": "46",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "HISTORY OF THE TURKISH REPUBLIC I",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 4,
+          "room": "NH 304"
+        },
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 5,
+          "room": "NH 304"
+        }
+      ]
+    },
+    {
+      "code": "HTR 311",
+      "section": "47",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "HISTORY OF THE TURKISH REPUBLIC I",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 6,
+          "room": "NH 304"
+        },
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "Th",
+          "slot": 7,
+          "room": "NH 304"
+        }
+      ]
+    },
+    {
+      "code": "HTR 405",
+      "section": "01",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "HISTORY OF THE TURKISH REPUBLIC FOR FOREIGN STUDENTS I",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SEVTAP DEMİRCİ",
+          "day": "T",
+          "slot": 7,
+          "room": "İB 312"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SEVTAP DEMİRCİ",
+          "day": "T",
+          "slot": 8,
+          "room": "İB 312"
         }
       ]
     },
@@ -13765,28 +13865,28 @@
           "instructor": "AYŞE MUMCU",
           "day": "M",
           "slot": 5,
-          "room": "HH 218"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
           "day": "M",
           "slot": 6,
-          "room": "HH 218"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
           "day": "W",
           "slot": 5,
-          "room": "HH 218"
+          "room": "NH 201"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE MUMCU",
           "day": "W",
           "slot": 6,
-          "room": "HH 218"
+          "room": "NH 201"
         }
       ]
     },
@@ -21075,14 +21175,14 @@
           "instructor": "ŞEBNEM YALÇIN",
           "day": "W",
           "slot": 2,
-          "room": "EF 302"
+          "room": "EF 216"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM YALÇIN",
           "day": "W",
           "slot": 3,
-          "room": "EF 302"
+          "room": "EF 216"
         },
         {
           "type": "LECT",
@@ -30589,6 +30689,20 @@
         {
           "type": "LECT",
           "instructor": "STAFF STAFF",
+          "day": "W",
+          "slot": 4,
+          "room": "EF 203"
+        },
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
+          "day": "W",
+          "slot": 5,
+          "room": "EF 203"
+        },
+        {
+          "type": "LECT",
+          "instructor": "STAFF STAFF",
           "day": "Th",
           "slot": 4,
           "room": "TB 415"
@@ -30599,20 +30713,6 @@
           "day": "Th",
           "slot": 5,
           "room": "TB 415"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "F",
-          "slot": 2,
-          "room": "TB 240"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "F",
-          "slot": 3,
-          "room": "TB 240"
         }
       ]
     },
@@ -30784,21 +30884,21 @@
           "instructor": "CEM BOZŞAHİN",
           "day": "Th",
           "slot": 6,
-          "room": "JF 331"
+          "room": "JF 333"
         },
         {
           "type": "LECT",
           "instructor": "CEM BOZŞAHİN",
           "day": "Th",
           "slot": 7,
-          "room": "JF 331"
+          "room": "JF 333"
         },
         {
           "type": "LECT",
           "instructor": "CEM BOZŞAHİN",
           "day": "Th",
           "slot": 8,
-          "room": "JF 331"
+          "room": "JF 333"
         }
       ]
     },
@@ -43642,21 +43742,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
+          "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "W",
           "slot": 5,
           "room": "NH 403"
         },
         {
           "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
+          "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "W",
           "slot": 6,
           "room": "NH 403"
         },
         {
           "type": "LECT",
-          "instructor": "CHRYSSI SIDIROPOULOU",
+          "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "Th",
           "slot": 8,
           "room": "VB 200"
@@ -48117,7 +48217,29 @@
       "name": "THE CLIMATE",
       "credit": 3,
       "ects": 6,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "LEVENT KURNAZ",
+          "day": "T",
+          "slot": 7,
+          "room": "NH 302"
+        },
+        {
+          "type": "LECT",
+          "instructor": "LEVENT KURNAZ",
+          "day": "W",
+          "slot": 6,
+          "room": "NH 302"
+        },
+        {
+          "type": "LECT",
+          "instructor": "LEVENT KURNAZ",
+          "day": "W",
+          "slot": 7,
+          "room": "NH 302"
+        }
+      ]
     },
     {
       "code": "POLS101",
@@ -53235,14 +53357,14 @@
           "instructor": "DENİZ ONUR",
           "day": "W",
           "slot": 7,
-          "room": "EF 04"
+          "room": "TB 225"
         },
         {
           "type": "LECT",
           "instructor": "DENİZ ONUR",
           "day": "W",
           "slot": 8,
-          "room": "EF 04"
+          "room": "TB 225"
         },
         {
           "type": "LECT",
@@ -53288,14 +53410,14 @@
           "instructor": "DENİZ ONUR",
           "day": "W",
           "slot": 9,
-          "room": "EF 04"
+          "room": "TB 225"
         },
         {
           "type": "LECT",
           "instructor": "DENİZ ONUR",
           "day": "W",
           "slot": 10,
-          "room": "EF 04"
+          "room": "TB 225"
         },
         {
           "type": "LECT",
@@ -63197,21 +63319,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "NAZLI İPEK HÜNER",
+          "instructor": "ALANER İMAMOĞLU",
           "day": "T",
-          "slot": 2,
-          "room": "HH Z08"
+          "slot": 1,
+          "room": "HH 103"
         },
         {
           "type": "LECT",
-          "instructor": "NAZLI İPEK HÜNER",
+          "instructor": "ALANER İMAMOĞLU",
           "day": "W",
           "slot": 3,
           "room": "HH 207"
         },
         {
           "type": "LECT",
-          "instructor": "NAZLI İPEK HÜNER",
+          "instructor": "ALANER İMAMOĞLU",
           "day": "W",
           "slot": 4,
           "room": "HH 207"
@@ -63301,16 +63423,16 @@
         {
           "type": "LECT",
           "instructor": "ALANER İMAMOĞLU",
-          "day": "T",
+          "day": "Th",
           "slot": 5,
-          "room": "HH Z17"
+          "room": "TB 260A"
         },
         {
           "type": "LECT",
           "instructor": "ALANER İMAMOĞLU",
           "day": "Th",
           "slot": 6,
-          "room": "TB 415"
+          "room": "TB 260A"
         }
       ]
     },
@@ -64854,7 +64976,7 @@
           "instructor": "ÇİĞDEM BUĞDAYCI GÜRSOY",
           "day": "W",
           "slot": 5,
-          "room": "VB 201"
+          "room": "M 2180"
         },
         {
           "type": "LECT",
@@ -65085,30 +65207,30 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "W",
-          "slot": 5,
-          "room": "M 2180"
+          "instructor": "NAGİHAN HALİLOĞLU",
+          "day": "T",
+          "slot": 1,
+          "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "F",
-          "slot": 3,
-          "room": "M 2230"
+          "instructor": "NAGİHAN HALİLOĞLU",
+          "day": "T",
+          "slot": 2,
+          "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "F",
-          "slot": 4,
+          "instructor": "NAGİHAN HALİLOĞLU",
+          "day": "Th",
+          "slot": 1,
           "room": "M 2230"
         },
         {
           "type": "P.S.",
           "instructor": "KIM FORTUNY",
-          "day": "W",
-          "slot": 6,
+          "day": "Th",
+          "slot": 2,
           "room": ""
         }
       ]
