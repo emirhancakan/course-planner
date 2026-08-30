@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-27T14:00:17",
+  "generatedAt": "2026-08-30T09:05:39",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -3925,15 +3925,15 @@
           "type": "LECT",
           "instructor": "AHMET KERİM AVCI",
           "day": "W",
-          "slot": 3,
+          "slot": 4,
           "room": "KB 432"
         },
         {
           "type": "LECT",
           "instructor": "AHMET KERİM AVCI",
           "day": "W",
-          "slot": 4,
-          "room": "KB 432"
+          "slot": 5,
+          "room": "KB 428"
         }
       ]
     },
@@ -6799,16 +6799,16 @@
         {
           "type": "LECT",
           "instructor": "HİLMİ LUŞ",
-          "day": "T",
-          "slot": 1,
-          "room": "M 3120"
+          "day": "M",
+          "slot": 6,
+          "room": "M 2230"
         },
         {
           "type": "LECT",
           "instructor": "HİLMİ LUŞ",
-          "day": "T",
-          "slot": 2,
-          "room": "M 3120"
+          "day": "M",
+          "slot": 7,
+          "room": "M 2230"
         },
         {
           "type": "LECT",
@@ -6865,10 +6865,10 @@
         },
         {
           "type": "P.S.",
-          "instructor": "STAFF STAFF",
+          "instructor": "SAMİ AND KILIÇ",
           "day": "W",
-          "slot": 6,
-          "room": "M 3120"
+          "slot": 7,
+          "room": "VYKM3"
         }
       ]
     },
@@ -6911,14 +6911,7 @@
         },
         {
           "type": "P.S.",
-          "instructor": "HİLMİ LUŞ",
-          "day": "W",
-          "slot": 7,
-          "room": "VYKM3"
-        },
-        {
-          "type": "P.S.",
-          "instructor": "HİLMİ LUŞ",
+          "instructor": "SERDAR SOYÖZ",
           "day": "W",
           "slot": 8,
           "room": "VYKM3"
@@ -6996,6 +6989,38 @@
           "day": "T",
           "slot": 5,
           "room": "M 2231"
+        }
+      ]
+    },
+    {
+      "code": "CE  422",
+      "section": "01",
+      "department": "CIVIL ENGINEERING",
+      "departmentCode": "CE",
+      "name": "ENVIRONMENTAL ENGINEERING DESIGN",
+      "credit": 3,
+      "ects": 5,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ATİLLA AKKOYUNLU",
+          "day": "F",
+          "slot": 2,
+          "room": "M 2171"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ATİLLA AKKOYUNLU",
+          "day": "F",
+          "slot": 3,
+          "room": "M 2171"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ATİLLA AKKOYUNLU",
+          "day": "F",
+          "slot": 4,
+          "room": "M 2171"
         }
       ]
     },
@@ -8262,6 +8287,96 @@
     {
       "code": "COGS690",
       "section": "07",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "08",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "09",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "10",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "11",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "12",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "13",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "14",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "15",
+      "department": "COGNITIVE SCIENCE",
+      "departmentCode": "COGS",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 30,
+      "meetings": []
+    },
+    {
+      "code": "COGS690",
+      "section": "16",
       "department": "COGNITIVE SCIENCE",
       "departmentCode": "COGS",
       "name": "THESIS",
@@ -9770,13 +9885,6 @@
         {
           "type": "LECT",
           "instructor": "LALE AKARUN",
-          "day": "M",
-          "slot": 3,
-          "room": "BM A2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "LALE AKARUN",
           "day": "T",
           "slot": 1,
           "room": "BM A2"
@@ -9786,6 +9894,13 @@
           "instructor": "LALE AKARUN",
           "day": "T",
           "slot": 2,
+          "room": "BM A2"
+        },
+        {
+          "type": "LECT",
+          "instructor": "LALE AKARUN",
+          "day": "W",
+          "slot": 8,
           "room": "BM A2"
         }
       ]
@@ -9877,22 +9992,22 @@
           "type": "LECT",
           "instructor": "DOĞAN ULUS",
           "day": "W",
-          "slot": 5,
-          "room": "BM A2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "DOĞAN ULUS",
-          "day": "W",
-          "slot": 6,
-          "room": "BM A2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "DOĞAN ULUS",
-          "day": "W",
           "slot": 7,
-          "room": "BM A2"
+          "room": "BM A4"
+        },
+        {
+          "type": "LECT",
+          "instructor": "DOĞAN ULUS",
+          "day": "W",
+          "slot": 8,
+          "room": "BM A4"
+        },
+        {
+          "type": "LECT",
+          "instructor": "DOĞAN ULUS",
+          "day": "W",
+          "slot": 9,
+          "room": "BM A4"
         }
       ]
     },
@@ -9947,16 +10062,16 @@
         {
           "type": "LECT",
           "instructor": "ARDA YURDAKUL",
-          "day": "Th",
-          "slot": 3,
-          "room": "EF 06"
+          "day": "W",
+          "slot": 5,
+          "room": "NH 305"
         },
         {
           "type": "LECT",
           "instructor": "ARDA YURDAKUL",
-          "day": "Th",
-          "slot": 4,
-          "room": "EF 06"
+          "day": "W",
+          "slot": 6,
+          "room": "NH 305"
         },
         {
           "type": "LAB",
@@ -9983,14 +10098,14 @@
           "type": "LAB",
           "instructor": "ARDA YURDAKUL",
           "day": "T",
-          "slot": 7,
+          "slot": 8,
           "room": "BM HW LAB"
         },
         {
           "type": "LAB",
           "instructor": "ARDA YURDAKUL",
           "day": "T",
-          "slot": 8,
+          "slot": 9,
           "room": "BM HW LAB"
         }
       ]
@@ -10053,8 +10168,8 @@
         {
           "type": "LECT",
           "instructor": "CEM ERSOY",
-          "day": "Th",
-          "slot": 2,
+          "day": "W",
+          "slot": 7,
           "room": "BM A2"
         }
       ]
@@ -10802,6 +10917,614 @@
       ]
     },
     {
+      "code": "CMPE599",
+      "section": "01",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ARDA YURDAKUL",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ARDA YURDAKUL",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARDA YURDAKUL",
+          "day": "T",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARDA YURDAKUL",
+          "day": "T",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARDA YURDAKUL",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARDA YURDAKUL",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "02",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 6,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "03",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "Th",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "Th",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "Th",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "İNCİ MELİHA BAYTAŞ",
+          "day": "Th",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "05",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BERK GÖKBERK",
+          "day": "F",
+          "slot": 6,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "06",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "CAN ÖZTURAN",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN ÖZTURAN",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CAN ÖZTURAN",
+          "day": "T",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CAN ÖZTURAN",
+          "day": "T",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CAN ÖZTURAN",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CAN ÖZTURAN",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "07",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "DOĞAN ULUS",
+          "day": "W",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "DOĞAN ULUS",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "DOĞAN ULUS",
+          "day": "Th",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "DOĞAN ULUS",
+          "day": "Th",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "DOĞAN ULUS",
+          "day": "Th",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "DOĞAN ULUS",
+          "day": "Th",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "12",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "T",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "T",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "13",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "T",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "T",
+          "slot": 6,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE59A",
+      "section": "02",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-II",
+      "credit": 0,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "T",
+          "slot": 6,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE59A",
+      "section": "09",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-II",
+      "credit": 0,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SUZAN ÜSKÜDARLI",
+          "day": "W",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SUZAN ÜSKÜDARLI",
+          "day": "W",
+          "slot": 7,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE59A",
+      "section": "12",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-II",
+      "credit": 0,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "Th",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "Th",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "Th",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ŞEFİK ŞUAYB ARSLAN",
+          "day": "Th",
+          "slot": 8,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE59A",
+      "section": "13",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-II",
+      "credit": 0,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "F",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "F",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "Th",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "Th",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "Th",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "Th",
+          "slot": 8,
+          "room": ""
+        }
+      ]
+    },
+    {
       "code": "CMPE690",
       "section": "01",
       "department": "COMPUTER ENGINEERING",
@@ -11000,6 +11723,271 @@
       "credit": 0,
       "ects": 60,
       "meetings": []
+    },
+    {
+      "code": "CMPE699",
+      "section": "02",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN PhD I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "F",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "FATİH ALAGÖZ",
+          "day": "M",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE699",
+      "section": "04",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN PhD I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "M",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "Th",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "TUNGA GÜNGÖR",
+          "day": "Th",
+          "slot": 2,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE699",
+      "section": "08",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN PhD I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "M",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "M",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "M",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "W",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
+          "day": "W",
+          "slot": 8,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE699",
+      "section": "13",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN PhD I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "M",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE69A",
+      "section": "13",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN PhD II",
+      "credit": 0,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "MEHMET TURAN",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "CMPE700",
@@ -11392,34 +12380,34 @@
           "type": "LECT",
           "instructor": "ŞENER ÖZÖNDER",
           "day": "T",
+          "slot": 5,
+          "room": "VB 200"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞENER ÖZÖNDER",
+          "day": "T",
+          "slot": 6,
+          "room": "VB 200"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞENER ÖZÖNDER",
+          "day": "Th",
           "slot": 7,
           "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "ŞENER ÖZÖNDER",
-          "day": "T",
+          "day": "Th",
           "slot": 8,
-          "room": "VB 200"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "W",
-          "slot": 3,
-          "room": "VB 200"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "W",
-          "slot": 4,
           "room": "VB 200"
         },
         {
           "type": "P.S.",
           "instructor": "ŞENER ÖZÖNDER",
-          "day": "T",
+          "day": "Th",
           "slot": 9,
           "room": "VB 200"
         }
@@ -11437,14 +12425,14 @@
         {
           "type": "LECT",
           "instructor": "HÜSEYİN OKTAY ALTUN",
-          "day": "W",
+          "day": "T",
           "slot": 1,
           "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "HÜSEYİN OKTAY ALTUN",
-          "day": "W",
+          "day": "T",
           "slot": 2,
           "room": "VB 200"
         },
@@ -11465,8 +12453,8 @@
         {
           "type": "P.S.",
           "instructor": "HÜSEYİN OKTAY ALTUN",
-          "day": "T",
-          "slot": 1,
+          "day": "Th",
+          "slot": 11,
           "room": "VB 200"
         }
       ]
@@ -11512,7 +12500,7 @@
           "type": "P.S.",
           "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
           "day": "Th",
-          "slot": 5,
+          "slot": 10,
           "room": "VB 200"
         }
       ]
@@ -11568,37 +12556,37 @@
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "W",
+          "day": "M",
+          "slot": 3,
+          "room": "VB 201"
+        },
+        {
+          "type": "LECT",
+          "instructor": "MUSTAFA TAHA KOÇYİĞİT",
+          "day": "M",
+          "slot": 4,
+          "room": "VB 201"
+        },
+        {
+          "type": "LECT",
+          "instructor": "MUSTAFA TAHA KOÇYİĞİT",
+          "day": "T",
           "slot": 7,
           "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "W",
+          "day": "T",
           "slot": 8,
-          "room": "VB 100"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "Th",
-          "slot": 3,
-          "room": "VB 100"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "Th",
-          "slot": 4,
           "room": "VB 100"
         },
         {
           "type": "P.S.",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "W",
-          "slot": 9,
-          "room": "VB 100"
+          "day": "M",
+          "slot": 5,
+          "room": "VB 201"
         }
       ]
     },
@@ -11615,28 +12603,28 @@
           "type": "LECT",
           "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
           "day": "W",
-          "slot": 2,
+          "slot": 6,
           "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
           "day": "W",
-          "slot": 3,
+          "slot": 7,
           "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
           "day": "W",
-          "slot": 4,
+          "slot": 8,
           "room": "VB 100"
         },
         {
           "type": "P.S.",
           "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
-          "day": "T",
-          "slot": 5,
+          "day": "W",
+          "slot": 4,
           "room": "VB 100"
         }
       ]
@@ -11686,28 +12674,28 @@
           "type": "LECT",
           "instructor": "ŞENER ÖZÖNDER",
           "day": "T",
-          "slot": 2,
-          "room": "VB 100"
+          "slot": 7,
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "ŞENER ÖZÖNDER",
           "day": "T",
-          "slot": 3,
-          "room": "VB 100"
+          "slot": 8,
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "ŞENER ÖZÖNDER",
           "day": "T",
-          "slot": 4,
-          "room": "VB 100"
+          "slot": 9,
+          "room": "VB 200"
         },
         {
           "type": "P.S.",
           "instructor": "ŞENER ÖZÖNDER",
           "day": "T",
-          "slot": 1,
+          "slot": 4,
           "room": "VB 100"
         }
       ]
@@ -11724,9 +12712,9 @@
         {
           "type": "LECT",
           "instructor": "HÜSEYİN OKTAY ALTUN",
-          "day": "T",
-          "slot": 5,
-          "room": "VB 201"
+          "day": "W",
+          "slot": 4,
+          "room": "VB 200"
         }
       ]
     },
@@ -11744,21 +12732,21 @@
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 7,
-          "room": ""
+          "room": "VB 201"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 8,
-          "room": ""
+          "room": "VB 201"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 9,
-          "room": ""
+          "room": "VB 201"
         }
       ]
     },
@@ -11791,52 +12779,6 @@
           "day": "M",
           "slot": 6,
           "room": "VB 200"
-        }
-      ]
-    },
-    {
-      "code": "DSAI591",
-      "section": "01",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "DIRECTED STUDIES I",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "Th",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "Th",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "Th",
-          "slot": 8,
-          "room": ""
-        },
-        {
-          "type": "P.S.",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "P.S.",
-          "instructor": "ŞENER ÖZÖNDER",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
         }
       ]
     },
@@ -12031,36 +12973,36 @@
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "Th",
+          "day": "M",
           "slot": 6,
           "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "Th",
+          "day": "M",
           "slot": 7,
           "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "Th",
+          "day": "M",
           "slot": 8,
           "room": "VB 100"
         },
         {
           "type": "P.S.",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "M",
-          "slot": 7,
+          "day": "T",
+          "slot": 9,
           "room": "VB 100"
         },
         {
           "type": "P.S.",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-          "day": "M",
-          "slot": 8,
+          "day": "T",
+          "slot": 10,
           "room": "VB 100"
         }
       ]
@@ -12403,9 +13345,9 @@
         {
           "type": "LECT",
           "instructor": "HÜSEYİN OKTAY ALTUN",
-          "day": "T",
-          "slot": 6,
-          "room": "VB 201"
+          "day": "W",
+          "slot": 5,
+          "room": "VB 200"
         }
       ]
     },
@@ -14044,23 +14986,23 @@
         {
           "type": "LECT",
           "instructor": "MELTEM POYRAZ",
-          "day": "M",
+          "day": "W",
           "slot": 2,
-          "room": "HH Z07"
+          "room": "NB B10"
         },
         {
           "type": "LECT",
           "instructor": "MELTEM POYRAZ",
-          "day": "M",
+          "day": "W",
           "slot": 3,
-          "room": "HH Z07"
+          "room": "NB B10"
         },
         {
           "type": "LECT",
           "instructor": "MELTEM POYRAZ",
-          "day": "M",
+          "day": "W",
           "slot": 4,
-          "room": "HH Z07"
+          "room": "NB B10"
         }
       ]
     },
@@ -15756,21 +16698,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "MELİH YAYLI",
+          "instructor": "STAFF STAFF",
           "day": "M",
           "slot": 6,
           "room": "EF 206"
         },
         {
           "type": "LECT",
-          "instructor": "MELİH YAYLI",
+          "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 7,
           "room": "NH 305"
         },
         {
           "type": "LECT",
-          "instructor": "MELİH YAYLI",
+          "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 8,
           "room": "NH 305"
@@ -16890,38 +17832,6 @@
       ]
     },
     {
-      "code": "EE  581",
-      "section": "01",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "SPECIAL TOPICS NETWORK SECURITY AND CRYPTOGRAPHY",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "M",
-          "slot": 4,
-          "room": "KB DAĞÖZAY-234"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "M",
-          "slot": 5,
-          "room": "KB DAĞÖZAY-234"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "M",
-          "slot": 6,
-          "room": "KB DAĞÖZAY-234"
-        }
-      ]
-    },
-    {
       "code": "EE  583",
       "section": "01",
       "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
@@ -17078,38 +17988,6 @@
           "day": "T",
           "slot": 9,
           "room": "KB FOURIER-233"
-        }
-      ]
-    },
-    {
-      "code": "EE  677",
-      "section": "01",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "DETECTION AND ESTIMATION THEORY",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "T",
-          "slot": 4,
-          "room": "KB DAĞÖZAY-234"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "T",
-          "slot": 5,
-          "room": "KB DAĞÖZAY-234"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EMİN ANARIM",
-          "day": "T",
-          "slot": 6,
-          "room": "KB DAĞÖZAY-234"
         }
       ]
     },
@@ -20501,21 +21379,21 @@
           "instructor": "SELEN  ÇALIK BEDİR",
           "day": "M",
           "slot": 5,
-          "room": "VB 201"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
           "instructor": "SELEN  ÇALIK BEDİR",
           "day": "M",
           "slot": 6,
-          "room": "VB 201"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
           "instructor": "SELEN  ÇALIK BEDİR",
           "day": "M",
           "slot": 7,
-          "room": "VB 201"
+          "room": "İB 312"
         }
       ]
     },
@@ -22138,22 +23016,22 @@
         {
           "type": "LECT",
           "instructor": "SUMRU AKCAN",
-          "day": "Th",
-          "slot": 4,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SUMRU AKCAN",
-          "day": "Th",
-          "slot": 5,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SUMRU AKCAN",
-          "day": "Th",
+          "day": "F",
           "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SUMRU AKCAN",
+          "day": "F",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SUMRU AKCAN",
+          "day": "F",
+          "slot": 8,
           "room": ""
         }
       ]
@@ -23624,23 +24502,23 @@
         {
           "type": "LECT",
           "instructor": "BENGÜ BÖRKAN",
-          "day": "Th",
-          "slot": 6,
-          "room": "EF 205"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BENGÜ BÖRKAN",
-          "day": "Th",
-          "slot": 7,
-          "room": "EF 205"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BENGÜ BÖRKAN",
-          "day": "Th",
+          "day": "T",
           "slot": 8,
-          "room": "EF 205"
+          "room": "EF 104"
+        },
+        {
+          "type": "LECT",
+          "instructor": "BENGÜ BÖRKAN",
+          "day": "T",
+          "slot": 9,
+          "room": "EF 104"
+        },
+        {
+          "type": "LECT",
+          "instructor": "BENGÜ BÖRKAN",
+          "day": "T",
+          "slot": 10,
+          "room": "EF 104"
         }
       ]
     },
@@ -24644,7 +25522,7 @@
           "instructor": "ŞAHİN BAYKAL",
           "day": "Th",
           "slot": 6,
-          "room": "VB 200"
+          "room": "M 2152"
         }
       ]
     },
@@ -26613,28 +27491,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ALİ TAMER ÜNAL",
+          "instructor": "KEREM DEMİRTAŞ",
           "day": "T",
           "slot": 1,
           "room": "VYKM3"
         },
         {
           "type": "LECT",
-          "instructor": "ALİ TAMER ÜNAL",
+          "instructor": "KEREM DEMİRTAŞ",
           "day": "T",
           "slot": 2,
           "room": "VYKM3"
         },
         {
           "type": "LECT",
-          "instructor": "ALİ TAMER ÜNAL",
+          "instructor": "KEREM DEMİRTAŞ",
           "day": "Th",
           "slot": 7,
           "room": "VYKM3"
         },
         {
           "type": "LECT",
-          "instructor": "ALİ TAMER ÜNAL",
+          "instructor": "KEREM DEMİRTAŞ",
           "day": "Th",
           "slot": 8,
           "room": "VYKM3"
@@ -26916,8 +27794,8 @@
           "type": "LECT",
           "instructor": "EBUBEKİR KOÇ",
           "day": "T",
-          "slot": 2,
-          "room": "VYKM1"
+          "slot": 8,
+          "room": "M 1171"
         },
         {
           "type": "LECT",
@@ -26985,16 +27863,16 @@
         {
           "type": "LECT",
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
-          "day": "Th",
-          "slot": 1,
-          "room": "VYKM4"
+          "day": "F",
+          "slot": 7,
+          "room": "M 2180"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
-          "day": "Th",
-          "slot": 2,
-          "room": "VYKM4"
+          "day": "F",
+          "slot": 8,
+          "room": "M 2180"
         }
       ]
     },
@@ -28985,14 +29863,14 @@
           "instructor": "HARUN MURATOĞULLARI",
           "day": "M",
           "slot": 7,
-          "room": "M 2230"
+          "room": "M 3100"
         },
         {
           "type": "LECT",
           "instructor": "HARUN MURATOĞULLARI",
           "day": "M",
           "slot": 8,
-          "room": "M 2230"
+          "room": "M 3100"
         },
         {
           "type": "LECT",
@@ -29191,7 +30069,7 @@
           "instructor": "İSMAİL MUTLU",
           "day": "Th",
           "slot": 7,
-          "room": "VB 200"
+          "room": "HH 103"
         }
       ]
     },
@@ -29305,21 +30183,21 @@
           "instructor": "ALİ EMRAH BOZBAYINDIR",
           "day": "T",
           "slot": 8,
-          "room": "M 1200"
+          "room": "HH Z04"
         },
         {
           "type": "LECT",
           "instructor": "ALİ EMRAH BOZBAYINDIR",
           "day": "Th",
           "slot": 1,
-          "room": "M 1200"
+          "room": "HH Z04"
         },
         {
           "type": "LECT",
           "instructor": "ALİ EMRAH BOZBAYINDIR",
           "day": "Th",
           "slot": 2,
-          "room": "M 1200"
+          "room": "HH Z04"
         }
       ]
     },
@@ -30425,14 +31303,14 @@
           "instructor": "BALKIZ ÖZTÜRK",
           "day": "T",
           "slot": 5,
-          "room": "VB 200"
+          "room": "JF 333"
         },
         {
           "type": "LECT",
           "instructor": "BALKIZ ÖZTÜRK",
           "day": "T",
           "slot": 6,
-          "room": "VB 200"
+          "room": "JF 333"
         },
         {
           "type": "LECT",
@@ -30581,14 +31459,14 @@
           "instructor": "STEFANO CANALIS",
           "day": "T",
           "slot": 7,
-          "room": "TB 415"
+          "room": "M 2181"
         },
         {
           "type": "LECT",
           "instructor": "STEFANO CANALIS",
           "day": "T",
           "slot": 8,
-          "room": "TB 415"
+          "room": "M 2181"
         },
         {
           "type": "LECT",
@@ -31033,11 +31911,11 @@
       ]
     },
     {
-      "code": "LING553",
+      "code": "LING552",
       "section": "01",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
-      "name": "DISCOURSE ANALYSIS",
+      "name": "SOCIOLINGUISTICS",
       "credit": 4,
       "ects": 10,
       "meetings": []
@@ -31363,6 +32241,26 @@
       "meetings": []
     },
     {
+      "code": "LING637",
+      "section": "01",
+      "department": "LINGUISTICS",
+      "departmentCode": "LING",
+      "name": "STRUCTURE OF A SELECTED LANGUAGE",
+      "credit": 3,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "LING647",
+      "section": "01",
+      "department": "LINGUISTICS",
+      "departmentCode": "LING",
+      "name": "SELECTED TOPICS IN SOCIOLINGUISTICS",
+      "credit": 3,
+      "ects": 10,
+      "meetings": []
+    },
+    {
       "code": "LING671",
       "section": "01",
       "department": "LINGUISTICS",
@@ -31539,6 +32437,16 @@
       "departmentCode": "LING",
       "name": "READINGS IN LINGUISTICS II",
       "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "LING687",
+      "section": "01",
+      "department": "LINGUISTICS",
+      "departmentCode": "LING",
+      "name": "SP.TP. CORPUS CONSTRUCTION AND ANNOTATION",
+      "credit": 3,
       "ects": 10,
       "meetings": []
     },
@@ -31938,7 +32846,7 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 2,
-          "room": "VB 200"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
@@ -33623,7 +34531,29 @@
       "name": "FINANCIAL THEORY&CORPORATE POLICY",
       "credit": 3,
       "ects": 6,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "NESLİHAN N.YILMAZ",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "NESLİHAN N.YILMAZ",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "NESLİHAN N.YILMAZ",
+          "day": "T",
+          "slot": 5,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "AD  579",
@@ -42515,7 +43445,7 @@
     },
     {
       "code": "BIO 403",
-      "section": "02",
+      "section": "01",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "SCIENTIFIC CONDUCT",
@@ -43759,7 +44689,7 @@
           "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "Th",
           "slot": 8,
-          "room": "VB 200"
+          "room": "M 2180"
         }
       ]
     },
@@ -47860,6 +48790,16 @@
       "meetings": []
     },
     {
+      "code": "PHYS491",
+      "section": "14",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "INTRODUCTION TO RESEARCH IN PHYSICS I",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
       "code": "PHYS499",
       "section": "01",
       "department": "PHYSICS",
@@ -47940,11 +48880,41 @@
       "meetings": []
     },
     {
+      "code": "PHYS58L",
+      "section": "01",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "SPECIAL TOPICS IN PHYS: FUNDAMENTALS OF ATMOSPHERE, WEATHER AND CLIMATE FOR NATURE SCIENTISTS AND ENGINEERS",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
       "code": "PHYS58M",
       "section": "01",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "SPECIAL TOPICS THE PHYSICS OF MEDICAL IMAGING",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "PHYS58N",
+      "section": "01",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "SPECIAL TOPICS QUANTUM FILED THEORY FOR UNDERGRADUATES",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "PHYS58N",
+      "section": "02",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "SPECIAL TOPICS QUANTUM FILED THEORY FOR UNDERGRADUATES",
       "credit": 4,
       "ects": 10,
       "meetings": []
@@ -47962,6 +48932,16 @@
     {
       "code": "PHYS681",
       "section": "01",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "DIRECTED STUDIES I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "PHYS681",
+      "section": "02",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "DIRECTED STUDIES I",
@@ -48921,6 +49901,38 @@
       ]
     },
     {
+      "code": "POLS527",
+      "section": "01",
+      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
+      "departmentCode": "POLS",
+      "name": "INTERNATIONAL POLITICS OF THE BALKANS",
+      "credit": 3,
+      "ects": 7,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
       "code": "POLS541",
       "section": "01",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
@@ -49060,16 +50072,6 @@
       "name": "R&R IN COMPARATIVE POLITICS",
       "credit": 3,
       "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "POLS690",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
       "meetings": []
     },
     {
@@ -51155,14 +52157,14 @@
           "instructor": "PINAR TANKUT",
           "day": "T",
           "slot": 5,
-          "room": "JF 333"
+          "room": "VB 201"
         },
         {
           "type": "LECT",
           "instructor": "PINAR TANKUT",
           "day": "T",
           "slot": 6,
-          "room": "JF 333"
+          "room": "VB 201"
         },
         {
           "type": "LECT",
@@ -52039,21 +53041,21 @@
           "instructor": "İSMAİL AVCI",
           "day": "Th",
           "slot": 5,
-          "room": "HH 103"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "İSMAİL AVCI",
           "day": "Th",
           "slot": 6,
-          "room": "HH 103"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "İSMAİL AVCI",
           "day": "Th",
           "slot": 7,
-          "room": "HH 103"
+          "room": "HH 218"
         }
       ]
     },
@@ -54153,28 +55155,28 @@
           "instructor": "SERDAR CİHAN GÜLEÇ",
           "day": "M",
           "slot": 1,
-          "room": "HH 120"
+          "room": "HH Z07"
         },
         {
           "type": "LECT",
           "instructor": "SERDAR CİHAN GÜLEÇ",
           "day": "M",
           "slot": 2,
-          "room": "HH 120"
+          "room": "HH Z07"
         },
         {
           "type": "LECT",
           "instructor": "SERDAR CİHAN GÜLEÇ",
           "day": "M",
           "slot": 3,
-          "room": "HH 120"
+          "room": "HH Z07"
         },
         {
           "type": "LECT",
           "instructor": "SERDAR CİHAN GÜLEÇ",
           "day": "M",
           "slot": 4,
-          "room": "HH 120"
+          "room": "HH Z07"
         }
       ]
     },
@@ -56901,14 +57903,14 @@
           "instructor": "MARIA FERNANDA GOMEZ RIVERA",
           "day": "M",
           "slot": 3,
-          "room": "VB 201"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "MARIA FERNANDA GOMEZ RIVERA",
           "day": "M",
           "slot": 4,
-          "room": "VB 201"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
@@ -57166,14 +58168,14 @@
           "instructor": "MARIA FERNANDA GOMEZ RIVERA",
           "day": "M",
           "slot": 1,
-          "room": "VB 201"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "MARIA FERNANDA GOMEZ RIVERA",
           "day": "M",
           "slot": 2,
-          "room": "VB 201"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
@@ -57482,14 +58484,14 @@
           "instructor": "SOUAD OSSEIRAN",
           "day": "T",
           "slot": 7,
-          "room": "M 2181"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
           "instructor": "SOUAD OSSEIRAN",
           "day": "T",
           "slot": 8,
-          "room": "M 2181"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
@@ -58145,21 +59147,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SADIK FİKRET GÜRGEN",
           "day": "T",
           "slot": 11,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SADIK FİKRET GÜRGEN",
           "day": "T",
           "slot": 12,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SADIK FİKRET GÜRGEN",
           "day": "T",
           "slot": 13,
           "room": ""
@@ -58209,21 +59211,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "W",
           "slot": 11,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "W",
           "slot": 12,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "W",
           "slot": 13,
           "room": ""
@@ -58579,14 +59581,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "S",
           "slot": 9,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "S",
           "slot": 10,
           "room": ""
@@ -58793,14 +59795,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "S",
           "slot": 1,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CEM ERSOY",
           "day": "S",
           "slot": 2,
           "room": ""
@@ -60944,21 +61946,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SEMA ÜSTÜN KÜLÜNK",
+          "instructor": "ŞEHNAZ TAHİR GÜRÇAĞLAR",
           "day": "M",
           "slot": 1,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "SEMA ÜSTÜN KÜLÜNK",
+          "instructor": "ŞEHNAZ TAHİR GÜRÇAĞLAR",
           "day": "M",
           "slot": 2,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "SEMA ÜSTÜN KÜLÜNK",
+          "instructor": "ŞEHNAZ TAHİR GÜRÇAĞLAR",
           "day": "M",
           "slot": 3,
           "room": ""
@@ -63400,7 +64402,7 @@
           "instructor": "ZEYNEP UYSAL",
           "day": "W",
           "slot": 5,
-          "room": "VB 200"
+          "room": "M 2181"
         }
       ]
     },
@@ -63636,7 +64638,29 @@
       "name": "SPECIAL TOPICS VERNACULARIZA IN CLASSICAL TURKISH LITERATURE",
       "credit": 3,
       "ects": 8,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP OKTAY",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP OKTAY",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP OKTAY",
+          "day": "W",
+          "slot": 5,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "TKL 58G",
@@ -63678,7 +64702,29 @@
       "name": "SPECIAL TOPICS:TRANSLATIONS INTO TURKISH:FORMATIVE PERIODS IN TURKISH LITERATURE",
       "credit": 3,
       "ects": 8,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SİBEL KOCAER",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SİBEL KOCAER",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SİBEL KOCAER",
+          "day": "W",
+          "slot": 4,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "TKL 58Z",
@@ -65054,14 +66100,14 @@
           "instructor": "AYLİN ALKAÇ",
           "day": "T",
           "slot": 6,
-          "room": "VB 100"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ALKAÇ",
           "day": "T",
           "slot": 7,
-          "room": "VB 100"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
@@ -65107,7 +66153,7 @@
           "instructor": "ASLI TEKİNAY",
           "day": "W",
           "slot": 6,
-          "room": "VB 200"
+          "room": "M 2170"
         },
         {
           "type": "P.S.",
