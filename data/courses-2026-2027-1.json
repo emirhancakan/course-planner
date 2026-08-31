@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-30T09:05:39",
+  "generatedAt": "2026-08-31T09:33:12",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -6557,21 +6557,21 @@
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 7,
-          "room": ""
+          "room": "M 2180"
         },
         {
           "type": "LAB",
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 8,
-          "room": ""
+          "room": "M 2180"
         },
         {
           "type": "LAB",
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 9,
-          "room": ""
+          "room": "M 2180"
         }
       ]
     },
@@ -31544,14 +31544,14 @@
           "instructor": "DİDAR AKAR",
           "day": "W",
           "slot": 5,
-          "room": "TB 155"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
           "instructor": "DİDAR AKAR",
           "day": "W",
           "slot": 6,
-          "room": "TB 155"
+          "room": "TB 240"
         }
       ]
     },
@@ -38648,21 +38648,21 @@
           "instructor": "OSMAN AKŞİT",
           "day": "Th",
           "slot": 1,
-          "room": "EF 302"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
           "instructor": "OSMAN AKŞİT",
           "day": "Th",
           "slot": 2,
-          "room": "EF 302"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
           "instructor": "OSMAN AKŞİT",
           "day": "F",
           "slot": 7,
-          "room": "EF 216"
+          "room": "ET 01"
         }
       ]
     },
@@ -39727,14 +39727,14 @@
           "instructor": "OSMAN AKŞİT",
           "day": "Th",
           "slot": 7,
-          "room": "EF 304"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
           "instructor": "OSMAN AKŞİT",
           "day": "Th",
           "slot": 8,
-          "room": "EF 304"
+          "room": "ET 02"
         }
       ]
     },
@@ -50842,21 +50842,21 @@
           "instructor": "AYLİN ARAS",
           "day": "W",
           "slot": 5,
-          "room": "NH 202"
+          "room": "TB 155"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
           "day": "W",
           "slot": 6,
-          "room": "NH 202"
+          "room": "TB 155"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
           "day": "W",
           "slot": 7,
-          "room": "NH 202"
+          "room": "TB 155"
         }
       ]
     },
@@ -58516,14 +58516,14 @@
           "instructor": "CEYLAN  ENGİN",
           "day": "W",
           "slot": 5,
-          "room": "TB 240"
+          "room": "NH 202"
         },
         {
           "type": "LECT",
           "instructor": "CEYLAN  ENGİN",
           "day": "W",
           "slot": 6,
-          "room": "TB 240"
+          "room": "NH 202"
         },
         {
           "type": "LECT",
@@ -66664,21 +66664,21 @@
           "instructor": "NEŞET DERELİ",
           "day": "W",
           "slot": 7,
-          "room": "M 2180"
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "NEŞET DERELİ",
           "day": "W",
           "slot": 8,
-          "room": "M 2180"
+          "room": "HH Z12"
         },
         {
           "type": "LECT",
           "instructor": "NEŞET DERELİ",
           "day": "W",
           "slot": 9,
-          "room": "M 2180"
+          "room": "HH Z12"
         }
       ]
     }
