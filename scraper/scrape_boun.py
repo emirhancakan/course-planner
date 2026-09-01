@@ -20,8 +20,17 @@ BASE = "https://registration.boun.edu.tr"
 SCHEDULE_URL = f"{BASE}/buis/General/schedule.aspx"
 SCH_ASP_URL = f"{BASE}/scripts/sch.asp"
 REQUEST_DELAY_SECONDS = 0.6
+# Per-request retries: 5s then 20s of backoff before a department is parked.
 MAX_ATTEMPTS = 3
-RETRY_BACKOFF_SECONDS = 3
+RETRY_BACKOFF_SECONDS = 5
+# Parked departments are retried in later rounds. The registrar has returned
+# 500s for a single department for a minute or more, which used to fail the
+# whole run; spacing the retries by minutes rides that out.
+RECOVERY_ROUNDS = 2
+RECOVERY_PAUSE_SECONDS = 120
+# If this many departments fail at once the site itself is unwell, not flaky -
+# retry rounds would just burn the job's time budget, so fail straight away.
+MAX_RECOVERABLE_FAILURES = 8
 HEADERS = {"User-Agent": "BounCoursePlannerPersonalScript/1.0 (personal semester-planning tool)"}
 
 # The registrar writes days as concatenated tokens, e.g. "MMT" or "StSt".
@@ -266,10 +275,22 @@ class ScrapeIncompleteError(RuntimeError):
     must not overwrite good existing data with a partial snapshot."""
 
 
+def _is_retryable(error):
+    """Connection problems, timeouts, 429 and 5xx are worth another go; a plain
+    4xx means the URL itself is wrong and retrying just wastes requests."""
+    response = getattr(error, "response", None)
+    if response is None:
+        return True  # connection reset, DNS, timeout
+    return response.status_code == 429 or response.status_code >= 500
+
+
 def fetch_department(session, semester, dept, attempts=MAX_ATTEMPTS):
-    """Fetches one department's schedule page, retrying on transient network
-    errors. The server intermittently resets connections mid-scrape, which
-    would otherwise silently drop that department's whole course list."""
+    """Fetches one department's schedule page, retrying transient failures.
+
+    The registrar's server intermittently resets connections and returns 500s
+    for a single department for a stretch of time. Backoff is exponential so a
+    short server-side wobble is ridden out rather than failing the whole run.
+    """
     last_error = None
     for attempt in range(1, attempts + 1):
         try:
@@ -277,15 +298,18 @@ def fetch_department(session, semester, dept, attempts=MAX_ATTEMPTS):
                 SCH_ASP_URL,
                 params={"donem": semester, "kisaadi": dept["kisaadi"], "bolum": dept["bolum"]},
                 headers=HEADERS,
-                timeout=20,
+                timeout=30,
             )
             r.raise_for_status()
             r.encoding = r.apparent_encoding
             return r.text
         except requests.RequestException as e:
             last_error = e
+            if not _is_retryable(e):
+                print(f"  ! {dept['kisaadi']}: {e} (not retryable)")
+                raise
             if attempt < attempts:
-                backoff = RETRY_BACKOFF_SECONDS * attempt
+                backoff = RETRY_BACKOFF_SECONDS * (4 ** (attempt - 1))
                 print(f"  ! attempt {attempt}/{attempts} failed ({e}); retrying in {backoff:.0f}s")
                 time.sleep(backoff)
     raise last_error
@@ -297,21 +321,54 @@ def scrape_semester(semester, department_filter=None):
     if department_filter:
         departments = [d for d in departments if d["kisaadi"] in department_filter]
 
+    total = len(departments)
+    pages = {}       # department index -> html
+    pending = list(enumerate(departments))
+    errors = {}
+
+    for attempt_round in range(1, RECOVERY_ROUNDS + 2):
+        if attempt_round > 1:
+            print(f"\n{len(pending)} department(s) still missing; waiting "
+                  f"{RECOVERY_PAUSE_SECONDS}s before retry round {attempt_round - 1}"
+                  f"/{RECOVERY_ROUNDS}...")
+            time.sleep(RECOVERY_PAUSE_SECONDS)
+
+        still_pending = []
+        for i, dept in pending:
+            label = f"[{i + 1}/{total}] {dept['kisaadi']} - {dept['bolum']}"
+            print(label if attempt_round == 1 else f"(retry) {label}")
+            time.sleep(REQUEST_DELAY_SECONDS)
+            try:
+                pages[i] = fetch_department(session, semester, dept)
+                errors.pop(i, None)
+            except requests.RequestException as e:
+                print(f"  ! giving up on {dept['kisaadi']} for now: {e}")
+                errors[i] = f"{dept['kisaadi']} ({dept['bolum']}): {e}"
+                still_pending.append((i, dept))
+
+        pending = still_pending
+        if not pending:
+            break
+        if len(pending) > MAX_RECOVERABLE_FAILURES:
+            raise ScrapeIncompleteError(
+                f"{len(pending)} departments failed in one pass, which looks like a "
+                "site-wide outage rather than a transient error; not retrying:\n  - "
+                + "\n  - ".join(errors[i] for i, _ in pending[:10])
+            )
+
+    if pending:
+        raise ScrapeIncompleteError(
+            "these departments could not be fetched, so the dataset would be "
+            "incomplete:\n  - " + "\n  - ".join(errors[i] for i, _ in pending)
+        )
+
+    # Assemble strictly in department order, independent of which round fetched
+    # each page, so a retry can't reshuffle which department a shared course is
+    # credited to and produce a phantom diff.
     all_sections = []
     seen_codes = set()
-    failures = []
-    total = len(departments)
-    for i, dept in enumerate(departments, 1):
-        print(f"[{i}/{total}] {dept['kisaadi']} - {dept['bolum']}")
-        time.sleep(REQUEST_DELAY_SECONDS)
-        try:
-            html = fetch_department(session, semester, dept)
-        except requests.RequestException as e:
-            print(f"  ! giving up on {dept['kisaadi']}: {e}")
-            failures.append(f"{dept['kisaadi']} ({dept['bolum']}): {e}")
-            continue
-
-        sections = parse_department_courses(html, dept["kisaadi"], dept["bolum"])
+    for i, dept in enumerate(departments):
+        sections = parse_department_courses(pages[i], dept["kisaadi"], dept["bolum"])
         # program-variant duplicates (e.g. "with thesis" listings) can repeat
         # the same course table verbatim; keep only the first occurrence
         for s in sections:
@@ -319,12 +376,6 @@ def scrape_semester(semester, department_filter=None):
             if key not in seen_codes:
                 seen_codes.add(key)
                 all_sections.append(s)
-
-    if failures:
-        raise ScrapeIncompleteError(
-            "these departments could not be fetched, so the dataset would be "
-            "incomplete:\n  - " + "\n  - ".join(failures)
-        )
 
     return {
         "semester": semester,

@@ -85,8 +85,13 @@ offered by the registrar, e.g. `"2025/2026-2"`.
 
 - Requests are **sequential and rate-limited** (~0.6s apart) — roughly the same
   load as browsing the department pages by hand. Please keep it that way.
-- Transient network errors are retried; if any department still fails, the run
-  **aborts without writing**, so a partial scrape can't overwrite good data.
+- Transient failures (connection resets, timeouts, 429, 5xx) are retried with
+  backoff, and any department still missing is retried again in later rounds a
+  couple of minutes apart — the registrar intermittently returns 500s for a
+  single department for a minute or more. If one is *still* unreachable, the run
+  **aborts without writing**, so a partial scrape can't overwrite good data. A
+  4xx is treated as permanent and not retried, and a large number of
+  simultaneous failures aborts immediately as a site-wide outage.
 - `departments.json` is cached because the department picker page sits behind a
   reCAPTCHA, while the per-department schedule pages themselves do not.
 
