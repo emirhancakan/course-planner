@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-01T08:29:47",
+  "generatedAt": "2026-09-01T19:22:33",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -8832,28 +8832,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 1,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 2,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 3,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 4,
           "room": "ET B513"
@@ -11326,6 +11326,59 @@
           "instructor": "MEHMET TURAN",
           "day": "T",
           "slot": 6,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "14",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "CEM ERSOY",
+          "day": "T",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CEM ERSOY",
+          "day": "T",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CEM ERSOY",
+          "day": "Th",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CEM ERSOY",
+          "day": "Th",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CEM ERSOY",
+          "day": "Th",
+          "slot": 8,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "CEM ERSOY",
+          "day": "Th",
+          "slot": 9,
           "room": ""
         }
       ]
@@ -24272,21 +24325,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "ASİYE YÜKSEL AĞARGÜN",
           "day": "Th",
           "slot": 2,
           "room": "EF 07"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "ASİYE YÜKSEL AĞARGÜN",
           "day": "Th",
           "slot": 3,
           "room": "EF 07"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "ASİYE YÜKSEL AĞARGÜN",
           "day": "F",
           "slot": 6,
           "room": "EF 102"
@@ -31715,7 +31768,7 @@
       "section": "01",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
-      "name": "SP. TP. MATHEMATICS AND PHILOSOPHY IN LINGUISTICS",
+      "name": "SPECIAL TOPICS MATHEMATICS AND PHILOSOPHY IN LINGUISTICS",
       "credit": 3,
       "ects": 6,
       "meetings": [
@@ -44644,7 +44697,7 @@
           "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "W",
           "slot": 6,
-          "room": "NH 403"
+          "room": "TBAn"
         },
         {
           "type": "LECT",
@@ -44747,7 +44800,7 @@
           "instructor": "YASİN RAMAZAN BAŞARAN",
           "day": "W",
           "slot": 6,
-          "room": "TB 225"
+          "room": "NH 403"
         }
       ]
     },
@@ -48828,7 +48881,36 @@
       "name": "ELECTROMAGNETIC THEORY I",
       "credit": 4,
       "ects": 10,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "T",
+          "slot": 1,
+          "room": "KB 316"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "T",
+          "slot": 2,
+          "room": "KB 316"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "Th",
+          "slot": 1,
+          "room": "KB 316"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "Th",
+          "slot": 2,
+          "room": "KB 316"
+        }
+      ]
     },
     {
       "code": "PHYS531",
@@ -48893,16 +48975,6 @@
     {
       "code": "PHYS58N",
       "section": "01",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "SPECIAL TOPICS QUANTUM FILED THEORY FOR UNDERGRADUATES",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHYS58N",
-      "section": "02",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "SPECIAL TOPICS QUANTUM FILED THEORY FOR UNDERGRADUATES",
@@ -49512,7 +49584,7 @@
       "section": "01",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
-      "name": "POLITICS AND SOCIETY IN THE MID.EAST",
+      "name": "POLITICS AND SOCIETY IN THE MIDDLE EAST",
       "credit": 3,
       "ects": 5,
       "meetings": [
@@ -58832,7 +58904,7 @@
       "section": "01",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
-      "name": "POPULAR CULTURE ,MASS MEDIA&POLITICS OF REPRESTATIVE",
+      "name": "POPULAR CULTURE, MASS MEDIA&POLITICS OF REPRESTATIVE",
       "credit": 4,
       "ects": 10,
       "meetings": [
@@ -61352,16 +61424,16 @@
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
-          "day": "F",
-          "slot": 1,
-          "room": "JF 333"
+          "day": "W",
+          "slot": 3,
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
-          "day": "F",
-          "slot": 2,
-          "room": "JF 333"
+          "day": "W",
+          "slot": 4,
+          "room": "VB 200"
         }
       ]
     },
@@ -61384,16 +61456,16 @@
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
-          "day": "F",
-          "slot": 3,
-          "room": "JF 333"
+          "day": "W",
+          "slot": 5,
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
-          "day": "F",
-          "slot": 4,
-          "room": "JF 333"
+          "day": "W",
+          "slot": 6,
+          "room": "VB 200"
         }
       ]
     },
