@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-08-31T09:33:12",
+  "generatedAt": "2026-09-01T08:29:47",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -3788,21 +3788,21 @@
           "instructor": "KUTLU ÜLGEN",
           "day": "Th",
           "slot": 6,
-          "room": ""
+          "room": "KB 428"
         },
         {
           "type": "LECT",
           "instructor": "KUTLU ÜLGEN",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "KB 428"
         },
         {
           "type": "LECT",
           "instructor": "KUTLU ÜLGEN",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "KB 428"
         }
       ]
     },
@@ -4408,28 +4408,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "JESMI ÇAVUŞOĞLU",
           "day": "W",
           "slot": 5,
           "room": "EF 104"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "JESMI ÇAVUŞOĞLU",
           "day": "W",
           "slot": 6,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "JESMI ÇAVUŞOĞLU",
           "day": "W",
           "slot": 7,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "JESMI ÇAVUŞOĞLU",
           "day": "W",
           "slot": 8,
           "room": ""
@@ -5052,28 +5052,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "JESMI ÇAVUŞOĞLU",
+          "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 5,
           "room": "EF 202"
         },
         {
           "type": "LAB",
-          "instructor": "JESMI ÇAVUŞOĞLU",
+          "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 6,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "JESMI ÇAVUŞOĞLU",
+          "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 7,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "JESMI ÇAVUŞOĞLU",
+          "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 8,
           "room": ""
@@ -6004,16 +6004,6 @@
       "meetings": []
     },
     {
-      "code": "CHEM571",
-      "section": "01",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "PHOTOCHEMISTRY",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
       "code": "CHEM579",
       "section": "01",
       "department": "CHEMISTRY",
@@ -6557,21 +6547,21 @@
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 7,
-          "room": "M 2180"
+          "room": "M 3100"
         },
         {
           "type": "LAB",
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 8,
-          "room": "M 2180"
+          "room": "M 3100"
         },
         {
           "type": "LAB",
           "instructor": "İREM ZEYNEP YILDIRIM",
           "day": "W",
           "slot": 9,
-          "room": "M 2180"
+          "room": "M 3100"
         }
       ]
     },
@@ -11933,34 +11923,6 @@
           "day": "M",
           "slot": 4,
           "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 4,
-          "room": ""
         }
       ]
     },
@@ -12558,14 +12520,14 @@
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 3,
-          "room": "VB 201"
+          "room": "M 1211"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 4,
-          "room": "VB 201"
+          "room": "M 1211"
         },
         {
           "type": "LECT",
@@ -12586,7 +12548,7 @@
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 5,
-          "room": "VB 201"
+          "room": "M 1211"
         }
       ]
     },
@@ -12714,7 +12676,7 @@
           "instructor": "HÜSEYİN OKTAY ALTUN",
           "day": "W",
           "slot": 4,
-          "room": "VB 200"
+          "room": "M 1211"
         }
       ]
     },
@@ -12732,21 +12694,21 @@
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 7,
-          "room": "VB 201"
+          "room": "M 1211"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 8,
-          "room": "VB 201"
+          "room": "M 1211"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 9,
-          "room": "VB 201"
+          "room": "M 1211"
         }
       ]
     },
@@ -12950,14 +12912,14 @@
           "instructor": "ERCAN ATAM",
           "day": "W",
           "slot": 7,
-          "room": "VB 201"
+          "room": "VB 200"
         },
         {
           "type": "P.S.",
           "instructor": "ERCAN ATAM",
           "day": "W",
           "slot": 8,
-          "room": "VB 201"
+          "room": "VB 200"
         }
       ]
     },
@@ -13347,7 +13309,7 @@
           "instructor": "HÜSEYİN OKTAY ALTUN",
           "day": "W",
           "slot": 5,
-          "room": "VB 200"
+          "room": "M 1211"
         }
       ]
     },
@@ -18780,7 +18742,7 @@
       "section": "01",
       "department": "ENGLISH LITERATURE",
       "departmentCode": "LL",
-      "name": "SPECIAL TOPICS IN ENGLISH LITERATURE:  COMPARATIVE SHORT LITERATURE: FROM THE TRACE TO TEXT",
+      "name": "SPECIAL TOPICS IN ENGLISH LITERATURE:  COMPARATIVE SHORT LITERATURE: FROM TRACE TO TEXT",
       "credit": 4,
       "ects": 10,
       "meetings": [
@@ -33308,21 +33270,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "NESLİHAN N.YILMAZ",
+          "instructor": "HULUSİ BAHCİVAN",
           "day": "T",
           "slot": 2,
           "room": "İB 100"
         },
         {
           "type": "LECT",
-          "instructor": "NESLİHAN N.YILMAZ",
+          "instructor": "HULUSİ BAHCİVAN",
           "day": "T",
           "slot": 3,
           "room": "İB 100"
         },
         {
           "type": "LECT",
-          "instructor": "NESLİHAN N.YILMAZ",
+          "instructor": "HULUSİ BAHCİVAN",
           "day": "T",
           "slot": 4,
           "room": "İB 100"
@@ -39900,14 +39862,14 @@
         {
           "type": "LECT",
           "instructor": "YEŞİM İMAMOĞLU",
-          "day": "M",
+          "day": "T",
           "slot": 7,
           "room": ""
         },
         {
           "type": "LECT",
           "instructor": "YEŞİM İMAMOĞLU",
-          "day": "M",
+          "day": "T",
           "slot": 8,
           "room": ""
         }
@@ -40053,7 +40015,7 @@
       "section": "01",
       "department": "MATHEMATICS AND SCIENCE EDUCATION",
       "departmentCode": "SCED",
-      "name": "SP.TP.FOUNDATIONAL IDEAS OF CAL.FOR T.",
+      "name": "SPECIAL TOPICS:Making Sense of Data with R",
       "credit": 3,
       "ects": 6,
       "meetings": [
@@ -47608,7 +47570,36 @@
       "name": "ANALYTICAL METHODS IN PHYSICS",
       "credit": 3,
       "ects": 6,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "T",
+          "slot": 6,
+          "room": "N/A"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "T",
+          "slot": 7,
+          "room": "NH 104"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "Th",
+          "slot": 6,
+          "room": "NH 104"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GİZEM ŞENGÖR ERÖNCEL",
+          "day": "Th",
+          "slot": 7,
+          "room": "NH 104"
+        }
+      ]
     },
     {
       "code": "PHYS201",
@@ -49914,21 +49905,21 @@
           "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
           "day": "W",
           "slot": 2,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
           "day": "W",
           "slot": 3,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "SELVER BULDANLIOĞLU ŞAHİN",
           "day": "W",
           "slot": 4,
-          "room": ""
+          "room": "İB 512"
         }
       ]
     },
@@ -50874,28 +50865,28 @@
           "instructor": "GÜNEŞ ÜNAL",
           "day": "T",
           "slot": 7,
-          "room": "VB 201"
+          "room": "HH 103"
         },
         {
           "type": "LECT",
           "instructor": "GÜNEŞ ÜNAL",
           "day": "T",
           "slot": 8,
-          "room": "VB 201"
+          "room": "HH 103"
         },
         {
           "type": "LECT",
           "instructor": "GÜNEŞ ÜNAL",
           "day": "T",
           "slot": 9,
-          "room": "VB 201"
+          "room": "HH 103"
         },
         {
           "type": "LECT",
           "instructor": "GÜNEŞ ÜNAL",
           "day": "T",
           "slot": 10,
-          "room": "VB 201"
+          "room": "HH 103"
         }
       ]
     },
@@ -52157,14 +52148,14 @@
           "instructor": "PINAR TANKUT",
           "day": "T",
           "slot": 5,
-          "room": "VB 201"
+          "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "PINAR TANKUT",
           "day": "T",
           "slot": 6,
-          "room": "VB 201"
+          "room": "VB 100"
         },
         {
           "type": "LECT",
@@ -53631,14 +53622,14 @@
           "instructor": "MERVE KOCA",
           "day": "Th",
           "slot": 5,
-          "room": "VB 201"
+          "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "MERVE KOCA",
           "day": "Th",
           "slot": 6,
-          "room": "VB 201"
+          "room": "VB 100"
         }
       ]
     },
@@ -53684,14 +53675,14 @@
           "instructor": "MERVE KOCA",
           "day": "Th",
           "slot": 7,
-          "room": "VB 201"
+          "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "MERVE KOCA",
           "day": "Th",
           "slot": 8,
-          "room": "VB 201"
+          "room": "VB 100"
         }
       ]
     },
@@ -55077,28 +55068,28 @@
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "Th",
           "slot": 1,
-          "room": "EF 02"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "Th",
           "slot": 2,
-          "room": "EF 02"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "Th",
           "slot": 3,
-          "room": "EF 02"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "Th",
           "slot": 4,
-          "room": "EF 02"
+          "room": "EF 03"
         }
       ]
     },
@@ -56592,14 +56583,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 1,
-          "room": "VB 201"
+          "room": "KP 05"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 2,
-          "room": "VB 201"
+          "room": "KP 05"
         },
         {
           "type": "LECT",
@@ -56645,14 +56636,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 3,
-          "room": "VB 201"
+          "room": "KP 05"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 4,
-          "room": "VB 201"
+          "room": "KP 05"
         },
         {
           "type": "LECT",
@@ -61257,14 +61248,14 @@
           "instructor": "CEYDA ELGÜL",
           "day": "Th",
           "slot": 3,
-          "room": "VB 201"
+          "room": "VB 100"
         },
         {
           "type": "LECT",
           "instructor": "CEYDA ELGÜL",
           "day": "Th",
           "slot": 4,
-          "room": "VB 201"
+          "room": "VB 100"
         }
       ]
     },
@@ -65944,14 +65935,14 @@
           "instructor": "ÖZLEM ÖĞÜT",
           "day": "W",
           "slot": 7,
-          "room": "VB 200"
+          "room": "M 2180"
         },
         {
           "type": "LECT",
           "instructor": "ÖZLEM ÖĞÜT",
           "day": "W",
           "slot": 8,
-          "room": "VB 200"
+          "room": "M 2180"
         },
         {
           "type": "LECT",
