@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-01T19:22:33",
+  "generatedAt": "2026-09-02T07:48:10",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -87,38 +87,6 @@
           "type": "LECT",
           "instructor": "NADİR ÖZBEK",
           "day": "W",
-          "slot": 4,
-          "room": "ATA SEM"
-        }
-      ]
-    },
-    {
-      "code": "ATA 557",
-      "section": "01",
-      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
-      "departmentCode": "ATA",
-      "name": "IMPERIAL RUSSIA 1725-1917",
-      "credit": 3,
-      "ects": 9,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ONUR İŞÇİ",
-          "day": "T",
-          "slot": 2,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ONUR İŞÇİ",
-          "day": "T",
-          "slot": 3,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ONUR İŞÇİ",
-          "day": "T",
           "slot": 4,
           "room": "ATA SEM"
         }
@@ -258,38 +226,6 @@
           "instructor": "ASIM KARAÖMERLİOĞLU",
           "day": "Th",
           "slot": 8,
-          "room": "ATA SEM"
-        }
-      ]
-    },
-    {
-      "code": "ATA 661",
-      "section": "01",
-      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
-      "departmentCode": "ATA",
-      "name": "TOPICS ON THE LATE OTTOMAN ERA",
-      "credit": 3,
-      "ects": 9,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "FARUK YASLIÇİMEN",
-          "day": "Th",
-          "slot": 1,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "FARUK YASLIÇİMEN",
-          "day": "Th",
-          "slot": 2,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "FARUK YASLIÇİMEN",
-          "day": "Th",
-          "slot": 3,
           "room": "ATA SEM"
         }
       ]
@@ -12951,14 +12887,14 @@
           "instructor": "ERCAN ATAM",
           "day": "M",
           "slot": 7,
-          "room": "VB 200"
+          "room": "M 2180"
         },
         {
           "type": "LECT",
           "instructor": "ERCAN ATAM",
           "day": "M",
           "slot": 8,
-          "room": "VB 200"
+          "room": "M 2180"
         },
         {
           "type": "LECT",
@@ -25875,21 +25811,21 @@
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 3,
-          "room": ""
+          "room": "HH 207"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 4,
-          "room": ""
+          "room": "HH 207"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK ESENBEL",
           "day": "Th",
           "slot": 5,
-          "room": ""
+          "room": "HH 207"
         }
       ]
     },
@@ -53846,21 +53782,21 @@
           "instructor": "SENİHA SIRMA FURTUN",
           "day": "Th",
           "slot": 3,
-          "room": "HH 207"
+          "room": "KP 02"
         },
         {
           "type": "LECT",
           "instructor": "SENİHA SIRMA FURTUN",
           "day": "Th",
           "slot": 4,
-          "room": "HH 207"
+          "room": "KP 02"
         },
         {
           "type": "LECT",
           "instructor": "SENİHA SIRMA FURTUN",
           "day": "Th",
           "slot": 5,
-          "room": "HH 207"
+          "room": "KP 02"
         }
       ]
     },
