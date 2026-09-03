@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-02T07:48:10",
+  "generatedAt": "2026-09-03T07:56:43",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -1574,6 +1574,31 @@
           "day": "Th",
           "slot": 7,
           "room": "NH 304"
+        }
+      ]
+    },
+    {
+      "code": "HTR 311",
+      "section": "48",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "HISTORY OF THE TURKISH REPUBLIC I",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SEVTAP DEMİRCİ",
+          "day": "T",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SEVTAP DEMİRCİ",
+          "day": "T",
+          "slot": 3,
+          "room": ""
         }
       ]
     },
@@ -8424,28 +8449,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EŞREF SEĞMEN",
           "day": "F",
           "slot": 1,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EŞREF SEĞMEN",
           "day": "F",
           "slot": 2,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EŞREF SEĞMEN",
           "day": "F",
           "slot": 3,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EŞREF SEĞMEN",
           "day": "F",
           "slot": 4,
           "room": "EF 406 (LAB)"
@@ -8463,28 +8488,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HÜSEYİN ŞİMŞEK",
           "day": "M",
           "slot": 5,
           "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HÜSEYİN ŞİMŞEK",
           "day": "M",
           "slot": 6,
           "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HÜSEYİN ŞİMŞEK",
           "day": "M",
           "slot": 7,
           "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HÜSEYİN ŞİMŞEK",
           "day": "M",
           "slot": 8,
           "room": "EF 402 (LAB)"
@@ -8649,45 +8674,6 @@
     },
     {
       "code": "CET 360",
-      "section": "03",
-      "department": "COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY",
-      "departmentCode": "CET",
-      "name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "M",
-          "slot": 1,
-          "room": "EF 416 (LAB)"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "M",
-          "slot": 2,
-          "room": "EF 416 (LAB)"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "M",
-          "slot": 3,
-          "room": "EF 416 (LAB)"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "M",
-          "slot": 4,
-          "room": "EF 416 (LAB)"
-        }
-      ]
-    },
-    {
-      "code": "CET 360",
       "section": "04",
       "department": "COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY",
       "departmentCode": "CET",
@@ -8697,28 +8683,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NESLİHAN ER AMUCE",
           "day": "M",
           "slot": 5,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NESLİHAN ER AMUCE",
           "day": "M",
           "slot": 6,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NESLİHAN ER AMUCE",
           "day": "M",
           "slot": 7,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NESLİHAN ER AMUCE",
           "day": "M",
           "slot": 8,
           "room": "EF 406 (LAB)"
@@ -12901,14 +12887,14 @@
           "instructor": "ERCAN ATAM",
           "day": "W",
           "slot": 7,
-          "room": "VB 200"
+          "room": "HH Z07"
         },
         {
           "type": "P.S.",
           "instructor": "ERCAN ATAM",
           "day": "W",
           "slot": 8,
-          "room": "VB 200"
+          "room": "HH Z07"
         }
       ]
     },
@@ -21445,16 +21431,6 @@
       ]
     },
     {
-      "code": "FILM474",
-      "section": "01",
-      "department": "FILM AND MEDIA STUDIES",
-      "departmentCode": "FILM",
-      "name": "CHINESE CINEMA",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
       "code": "FILM48C",
       "section": "01",
       "department": "FILM AND MEDIA STUDIES",
@@ -21549,16 +21525,6 @@
           "room": "JF 108"
         }
       ]
-    },
-    {
-      "code": "FILM48G",
-      "section": "01",
-      "department": "FILM AND MEDIA STUDIES",
-      "departmentCode": "FILM",
-      "name": "SPECIAL TOPICS: MAKING OF A DOCUMENTARY FILM",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
     },
     {
       "code": "FLED103",
@@ -22048,9 +22014,9 @@
         {
           "type": "LECT",
           "instructor": "ŞEBNEM YALÇIN",
-          "day": "Th",
-          "slot": 8,
-          "room": "EF 216"
+          "day": "W",
+          "slot": 1,
+          "room": "EF 07"
         }
       ]
     },
@@ -31173,28 +31139,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MICHAEL BRUCE FIDDLER",
           "day": "M",
           "slot": 5,
           "room": "NH 002"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MICHAEL BRUCE FIDDLER",
           "day": "M",
           "slot": 6,
           "room": "NH 002"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MICHAEL BRUCE FIDDLER",
           "day": "W",
           "slot": 5,
           "room": "EF 116"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MICHAEL BRUCE FIDDLER",
           "day": "W",
           "slot": 6,
           "room": "EF 116"
@@ -31517,28 +31483,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 4,
           "room": "EF 203"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 5,
           "room": "EF 203"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 4,
           "room": "TB 415"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 5,
           "room": "TB 415"
@@ -50839,23 +50805,23 @@
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
-          "day": "W",
-          "slot": 5,
-          "room": "TB 155"
+          "day": "T",
+          "slot": 2,
+          "room": "KP 06"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
-          "day": "W",
-          "slot": 6,
-          "room": "TB 155"
+          "day": "T",
+          "slot": 3,
+          "room": "KP 06"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
-          "day": "W",
-          "slot": 7,
-          "room": "TB 155"
+          "day": "T",
+          "slot": 4,
+          "room": "KP 06"
         }
       ]
     },
@@ -61896,9 +61862,9 @@
         {
           "type": "LECT",
           "instructor": "ŞEHNAZ TAHİR GÜRÇAĞLAR",
-          "day": "M",
-          "slot": 8,
-          "room": "TB 260A"
+          "day": "T",
+          "slot": 5,
+          "room": "TB 155"
         }
       ]
     },
@@ -65353,7 +65319,7 @@
       "section": "01",
       "department": "UNDERGRADUATE PROGRAM IN PRESCHOOL EDUCATION",
       "departmentCode": "PRSO",
-      "name": "SPECIAL EDUCATION IN EARLY AND PRIMARY Y",
+      "name": "SPECIAL EDUCATION IN EARLY CHILDHOOD",
       "credit": 3,
       "ects": 8,
       "meetings": [
@@ -65385,7 +65351,7 @@
       "section": "02",
       "department": "UNDERGRADUATE PROGRAM IN PRESCHOOL EDUCATION",
       "departmentCode": "PRSO",
-      "name": "SPECIAL EDUCATION IN EARLY AND PRIMARY Y",
+      "name": "SPECIAL EDUCATION IN EARLY CHILDHOOD",
       "credit": 3,
       "ects": 8,
       "meetings": [
