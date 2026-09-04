@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-03T07:56:43",
+  "generatedAt": "2026-09-04T07:52:14",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -4402,7 +4402,7 @@
       "section": "01",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
-      "name": "SURVEY OF CHEMISTRY I",
+      "name": "SURVEY OF CHEMISTRY",
       "credit": 3,
       "ects": 4,
       "meetings": [
@@ -17732,20 +17732,27 @@
           "instructor": "MUTLU KOCA",
           "day": "M",
           "slot": 5,
-          "room": "N/A"
+          "room": "KB DAĞÖZAY-234"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU KOCA",
           "day": "M",
           "slot": 6,
-          "room": "KB MAXWELL-251"
+          "room": "KB DAĞÖZAY-234"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU KOCA",
-          "day": "Th",
-          "slot": 7,
+          "day": "T",
+          "slot": 5,
+          "room": "KB MAXWELL-251"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "MUTLU KOCA",
+          "day": "T",
+          "slot": 6,
           "room": "KB MAXWELL-251"
         }
       ]
@@ -42923,7 +42930,29 @@
       "name": "INTRODUCTION TO CELL BIOLOGY",
       "credit": 3,
       "ects": 5,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ERHAN KELEŞ",
+          "day": "Th",
+          "slot": 3,
+          "room": "EF 116"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ERHAN KELEŞ",
+          "day": "Th",
+          "slot": 4,
+          "room": "EF 116"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ERHAN KELEŞ",
+          "day": "F",
+          "slot": 7,
+          "room": "EF 116"
+        }
+      ]
     },
     {
       "code": "BIO 201",
@@ -42965,7 +42994,29 @@
       "name": "EVOLUTION AND BIODIVERSITY",
       "credit": 3,
       "ects": 6,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "İBRAHİM ÇAĞRI KURT",
+          "day": "M",
+          "slot": 7,
+          "room": "KP 08"
+        },
+        {
+          "type": "LECT",
+          "instructor": "İBRAHİM ÇAĞRI KURT",
+          "day": "M",
+          "slot": 8,
+          "room": "KP 08"
+        },
+        {
+          "type": "LECT",
+          "instructor": "İBRAHİM ÇAĞRI KURT",
+          "day": "W",
+          "slot": 6,
+          "room": "KP 03"
+        }
+      ]
     },
     {
       "code": "BIO 203",
@@ -47989,35 +48040,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 1,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 2,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 3,
           "room": "EF 204"
@@ -48035,35 +48086,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "F",
           "slot": 9,
           "room": "EF 204"
@@ -48081,35 +48132,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 1,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 2,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 3,
           "room": "EF 204"
@@ -48127,35 +48178,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "Th",
           "slot": 9,
           "room": "EF 204"
@@ -48173,35 +48224,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "T",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "W",
           "slot": 7,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "W",
           "slot": 8,
           "room": "EF 204"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "YANI SKARLATOS",
           "day": "W",
           "slot": 9,
           "room": "EF 204"
@@ -48261,21 +48312,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 7,
           "room": "EF 101"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 8,
           "room": "EF 101"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 9,
           "room": "EF 101"
@@ -48582,48 +48633,6 @@
           "room": "NH 104"
         }
       ]
-    },
-    {
-      "code": "PHYS472",
-      "section": "01",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "ELEMENTARY PARTICLE PHYSICS",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BORA AKGÜN",
-          "day": "F",
-          "slot": 6,
-          "room": "KB Z01"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BORA AKGÜN",
-          "day": "F",
-          "slot": 7,
-          "room": "KB Z01"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BORA AKGÜN",
-          "day": "F",
-          "slot": 8,
-          "room": "KB Z01"
-        }
-      ]
-    },
-    {
-      "code": "PHYS48Z",
-      "section": "01",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "SELECTED TOPICS IN PHYSICS:GROUP THEORY FOR PHYSICIST",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
     },
     {
       "code": "PHYS490",
@@ -49185,6 +49194,16 @@
           "room": "NH 302"
         }
       ]
+    },
+    {
+      "code": "STS 421",
+      "section": "01",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "HISTORY OF MATHEMATICS",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
     },
     {
       "code": "POLS101",
@@ -60514,21 +60533,21 @@
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 4,
-          "room": "NH 203"
+          "room": "EF 06"
         },
         {
           "type": "LECT",
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 5,
-          "room": "NH 203"
+          "room": "EF 06"
         },
         {
           "type": "LECT",
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "Th",
           "slot": 7,
-          "room": "NH 102"
+          "room": "NH 101"
         }
       ]
     },
