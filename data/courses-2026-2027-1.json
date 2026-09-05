@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-04T07:52:14",
+  "generatedAt": "2026-09-05T07:33:44",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -4411,21 +4411,21 @@
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "W",
           "slot": 6,
-          "room": "KB 126"
+          "room": "KB 125"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "W",
           "slot": 7,
-          "room": "KB 126"
+          "room": "KB 125"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "Th",
           "slot": 3,
-          "room": "NH 403"
+          "room": "nh 403"
         }
       ]
     },
@@ -4984,14 +4984,14 @@
           "instructor": "OKTAY DEMİRCAN",
           "day": "W",
           "slot": 6,
-          "room": "KB 125"
+          "room": "KB 126"
         },
         {
           "type": "LECT",
           "instructor": "OKTAY DEMİRCAN",
           "day": "W",
           "slot": 7,
-          "room": "KB 125"
+          "room": "KB 126"
         },
         {
           "type": "P.S.",
@@ -27654,8 +27654,8 @@
           "type": "LECT",
           "instructor": "MUSTAFA NECATİ ARAS",
           "day": "F",
-          "slot": 2,
-          "room": "M 1170"
+          "slot": 6,
+          "room": "M 1171"
         }
       ]
     },
@@ -27891,15 +27891,15 @@
           "type": "LECT",
           "instructor": "MUSTAFA NECATİ ARAS",
           "day": "F",
-          "slot": 6,
-          "room": "M 3120"
+          "slot": 3,
+          "room": "M 1100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA NECATİ ARAS",
           "day": "F",
-          "slot": 7,
-          "room": "M 3120"
+          "slot": 4,
+          "room": "M 1100"
         }
       ]
     },
@@ -41268,21 +41268,21 @@
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 7,
-          "room": "VYKM3"
+          "room": "M 2152"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 8,
-          "room": "VYKM3"
+          "room": "M 2152"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "Th",
           "slot": 6,
-          "room": "VYKM3"
+          "room": "M 1169"
         }
       ]
     },
@@ -44608,21 +44608,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
+          "instructor": "CEM ŞİŞKOLAR",
           "day": "T",
           "slot": 6,
           "room": "M 2152"
         },
         {
           "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
+          "instructor": "CEM ŞİŞKOLAR",
           "day": "Th",
           "slot": 7,
           "room": "M 2170"
         },
         {
           "type": "LECT",
-          "instructor": "SUN DEMİRLİ",
+          "instructor": "CEM ŞİŞKOLAR",
           "day": "Th",
           "slot": 8,
           "room": "M 2170"
