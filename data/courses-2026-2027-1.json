@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-05T07:33:44",
+  "generatedAt": "2026-09-07T08:07:51",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -30656,16 +30656,16 @@
         {
           "type": "LECT",
           "instructor": "MUSTAFA AKGÜN",
-          "day": "W",
-          "slot": 6,
-          "room": "M 2152"
+          "day": "T",
+          "slot": 2,
+          "room": "EF 106"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA AKGÜN",
-          "day": "W",
-          "slot": 7,
-          "room": "M 2152"
+          "day": "T",
+          "slot": 3,
+          "room": "EF 106"
         }
       ]
     },
