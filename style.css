@@ -39,7 +39,8 @@ body {
 .app-header {
   display: flex;
   align-items: center;
-  gap: 24px;
+  flex-wrap: wrap;      /* on narrow screens the totals wrap instead of overflowing */
+  gap: 8px 24px;
   padding: 14px 20px;
   background: var(--panel-bg);
   border-bottom: 1px solid var(--border);
@@ -120,6 +121,16 @@ body {
   overflow-y: auto;
 }
 
+/* The search panel is the scrolling box, so pinning the field to its top keeps
+   it reachable no matter how far down the result list you are. */
+.search-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: var(--panel-bg);
+  padding-bottom: 10px;
+}
+
 #searchInput {
   width: 100%;
   padding: 9px 12px;
@@ -128,7 +139,6 @@ body {
   background: var(--bg);
   color: var(--text);
   font-size: 14px;
-  margin-bottom: 10px;
 }
 
 .results { display: flex; flex-direction: column; gap: 8px; }
@@ -161,12 +171,25 @@ body {
 .add-btn {
   background: var(--accent);
   color: white;
+  white-space: nowrap;
 }
-.add-btn:disabled {
+
+/* Once added the button stays live and becomes the way to undo, so it reads
+   "Added" at rest and "Remove" under the cursor. */
+.add-btn.added {
   background: var(--border);
   color: var(--text-dim);
-  cursor: default;
 }
+.add-btn.added:hover,
+.add-btn.added:focus-visible {
+  background: var(--conflict-bg);
+  color: var(--conflict);
+}
+.add-btn .lbl-remove { display: none; }
+.add-btn.added:hover .lbl-added,
+.add-btn.added:focus-visible .lbl-added { display: none; }
+.add-btn.added:hover .lbl-remove,
+.add-btn.added:focus-visible .lbl-remove { display: inline; }
 
 .remove-btn {
   background: var(--conflict-bg);
@@ -176,20 +199,31 @@ body {
 .empty-note { color: var(--text-dim); font-size: 13px; padding: 8px 2px; }
 
 /* schedule grid */
-.grid-wrap { overflow-x: auto; }
+/* No overflow here on purpose: any scroll container between the sticky day
+   headers and the viewport would make them stick to this box (which has no
+   height limit) instead of to the page. The table is table-layout:fixed at
+   width:100%, so it never overflows horizontally anyway. */
+.grid-wrap { }
 
 table.grid {
-  border-collapse: collapse;
+  border-collapse: separate;   /* collapsed borders don't travel with sticky cells */
+  border-spacing: 0;
   width: 100%;
   table-layout: fixed;
 }
 
+/* With separate borders each cell draws only two sides, so lines stay single
+   width and travel correctly with the sticky header row. */
 table.grid th, table.grid td {
-  border: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
   padding: 0;
   vertical-align: top;
   height: 52px;
 }
+
+table.grid tr > *:first-child { border-left: 1px solid var(--border); }
+table.grid thead th { border-top: 1px solid var(--border); }
 
 .cell-stack {
   display: flex;
@@ -204,6 +238,12 @@ table.grid th {
   padding: 6px 4px;
   color: var(--text-dim);
   height: auto;
+  /* Day names stay visible while scrolling the timetable. --header-h is the
+     live height of the page header, measured in app.js, so the row parks
+     directly beneath it instead of behind it. */
+  position: sticky;
+  top: var(--header-h, 52px);
+  z-index: 4;
 }
 
 .time-col { width: 76px; font-size: 11px; color: var(--text-dim); padding: 4px 6px !important; text-align: right; }
@@ -229,8 +269,37 @@ table.grid th {
 .cell-block .cb-code { font-weight: 600; }
 .cell-block .cb-room { color: var(--text-dim); }
 
+/* LAB / P.S. sessions are flagged so a lab hour isn't mistaken for the lecture. */
+.cb-type {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 4px;
+  border-radius: 3px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  vertical-align: 1px;
+  background: var(--text-dim);
+  color: var(--panel-bg);
+}
+
+/* Hover preview: what the timetable would look like with this course added. */
+.cell-block.preview {
+  border-style: dashed;
+  border-left-style: dashed;
+  opacity: 0.85;
+  outline: 1px dashed var(--text-dim);
+  outline-offset: -3px;
+}
+
+.result-card.hovering {
+  border-color: var(--accent);
+}
+
 .conflicts { margin-top: 10px; font-size: 13px; }
 .conflicts .conflict-line { color: var(--conflict); margin-bottom: 4px; }
+/* A clash caused by the hovered course only - it disappears with the cursor. */
+.conflicts .conflict-line.preview { color: var(--text-dim); font-style: italic; }
 
 .selected-panel h2 { font-size: 14px; margin: 0 0 10px; }
 

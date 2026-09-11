@@ -27,6 +27,17 @@
   let currentData = null;      // { semester, slotTimes, sections }
   let bySectionKey = {};       // "CODE.SECTION" -> section
   let selections = {};         // "CODE.SECTION" -> section (subset of bySectionKey)
+  let previewSection = null;   // hovered in the results list, drawn but not added
+
+  // "LECT" is the default and would just be noise on every block; anything else
+  // (LAB, P.S., ...) is worth calling out.
+  function meetingTypeLabel(type) {
+    const t = (type || "").trim();
+    if (!t || t.toUpperCase() === "LECT") return "";
+    // The registrar writes problem sessions as "P.S."; drop the dots so the
+    // badge reads "PS" rather than the half-punctuated "P.S".
+    return t.replace(/\./g, "").toUpperCase();
+  }
 
   const el = {
     semesterSelect: document.getElementById("semesterSelect"),
@@ -135,12 +146,20 @@
             <div class="rc-code">${s.code}.${s.section}</div>
             <div class="rc-name">${escapeHtml(s.name)} · ${escapeHtml(s.department)}</div>
           </div>
-          <button class="add-btn" data-key="${key}">${isSelected ? "Added" : "Add"}</button>
+          <button class="add-btn${isSelected ? " added" : ""}" data-key="${key}"
+                  title="${isSelected ? "Click to remove from your schedule" : "Add to your schedule"}">
+            <span class="lbl-added">${isSelected ? "Added" : "Add"}</span><span class="lbl-remove">Remove</span>
+          </button>
         </div>
         <div class="rc-meta">${s.meetings.map(formatMeeting).map(escapeHtml).join("<br>") || "No fixed meeting time"}</div>
       `;
-      card.querySelector(".add-btn").disabled = isSelected;
+      // The button stays enabled once added so a second click undoes it.
       card.querySelector(".add-btn").addEventListener("click", () => toggleSelect(s));
+
+      // Preview on hover. Only the grid is redrawn - re-rendering the results
+      // would tear out the card under the cursor and fire mouseleave in a loop.
+      card.addEventListener("mouseenter", () => setPreview(s, card));
+      card.addEventListener("mouseleave", () => setPreview(null, card));
       frag.appendChild(card);
     }
     el.results.appendChild(frag);
@@ -153,6 +172,14 @@
     }
   }
 
+  function setPreview(section, card) {
+    if (section === null && previewSection === null) return;
+    if (section && previewSection === section) return;
+    previewSection = section;
+    if (card) card.classList.toggle("hovering", !!section);
+    renderGrid();
+  }
+
   function toggleSelect(section) {
     const key = sectionKey(section);
     if (selections[key]) {
@@ -160,6 +187,8 @@
     } else {
       selections[key] = section;
     }
+    // A course that's just been added shouldn't also render as a ghost preview.
+    previewSection = null;
     saveSelectedKeys();
     renderAll();
   }
@@ -173,17 +202,24 @@
   function renderGrid() {
     const slots = Object.keys(currentData.slotTimes).map(Number).sort((a, b) => a - b);
 
-    // occupancy[day][slot] = array of {section, meeting}
+    // occupancy[day][slot] = array of {section, meeting, preview}
     const occupancy = {};
     for (const d of DAY_ORDER) occupancy[d] = {};
 
+    const place = (s, m, preview) => {
+      if (!occupancy[m.day]) occupancy[m.day] = {};
+      if (!occupancy[m.day][m.slot]) occupancy[m.day][m.slot] = [];
+      occupancy[m.day][m.slot].push({ section: s, meeting: m, preview });
+    };
+
     for (const key in selections) {
-      const s = selections[key];
-      for (const m of s.meetings) {
-        if (!occupancy[m.day]) occupancy[m.day] = {};
-        if (!occupancy[m.day][m.slot]) occupancy[m.day][m.slot] = [];
-        occupancy[m.day][m.slot].push({ section: s, meeting: m });
-      }
+      for (const m of selections[key].meetings) place(selections[key], m, false);
+    }
+
+    // The hovered course is drawn alongside the real ones so a clash is visible
+    // before committing to it. Already-added courses need no preview.
+    if (previewSection && !selections[sectionKey(previewSection)]) {
+      for (const m of previewSection.meetings) place(previewSection, m, true);
     }
 
     let html = "<thead><tr><th></th>" + DAY_ORDER.map(d => `<th>${DAY_LABELS[d]}</th>`).join("") + "</tr></thead><tbody>";
@@ -197,11 +233,15 @@
           html += "<td></td>";
         } else {
           const conflict = entries.length > 1;
-          const blocks = entries.map(({ section, meeting }) => {
+          const blocks = entries.map(({ section, meeting, preview }) => {
             const color = courseColor(sectionKey(section));
+            const type = meetingTypeLabel(meeting.type);
+            const classes = ["cell-block"];
+            if (conflict) classes.push("conflict");
+            if (preview) classes.push("preview");
             return `
-            <div class="cell-block ${conflict ? "conflict" : ""}" style="background:${color.bg}; border-left-color:${color.border};">
-              <div class="cb-code">${section.code}.${section.section}</div>
+            <div class="${classes.join(" ")}" style="background:${color.bg}; border-left-color:${color.border};">
+              <div class="cb-code">${section.code}.${section.section}${type ? `<span class="cb-type">${escapeHtml(type)}</span>` : ""}</div>
               <div class="cb-room">${escapeHtml(meeting.room || "TBA")}</div>
             </div>`;
           }).join("");
@@ -223,13 +263,19 @@
         const entries = (occupancy[day] && occupancy[day][slot]) || [];
         if (entries.length > 1) {
           const t = currentData.slotTimes[String(slot)];
-          const names = entries.map(e => `${e.section.code}.${e.section.section}`).join(" vs ");
-          lines.push(`${DAY_LABELS[day]} ${t.start}-${t.end}: ${names}`);
+          const names = entries
+            .map(e => `${e.section.code}.${e.section.section}${e.preview ? " (preview)" : ""}`)
+            .join(" vs ");
+          lines.push({
+            text: `${DAY_LABELS[day]} ${t.start}-${t.end}: ${names}`,
+            preview: entries.some(e => e.preview),
+          });
         }
       }
     }
     el.conflicts.innerHTML = lines.length
-      ? lines.map(l => `<div class="conflict-line">⚠ Conflict — ${escapeHtml(l)}</div>`).join("")
+      ? lines.map(l => `<div class="conflict-line${l.preview ? " preview" : ""}">` +
+          `${l.preview ? "◇ Would clash" : "⚠ Conflict"} — ${escapeHtml(l.text)}</div>`).join("")
       : "";
   }
 
@@ -277,6 +323,11 @@
     renderSelectedList();
     renderSummary();
     renderResults();
+    // The header can change height without a resize event - the totals in it
+    // grow ("9 courses" -> "10 courses") and can tip onto a second line - and
+    // the sticky day row is offset by that height, so re-measure after every
+    // render rather than trusting ResizeObserver alone.
+    syncHeaderHeight();
   }
 
   function populateSemesterDropdown() {
@@ -324,6 +375,21 @@
       el.results.innerHTML = `<div class="empty-note">${escapeHtml(err.message)}</div>`;
     });
   }
+
+  // The sticky day-name row parks below the page header, whose height changes
+  // with viewport width (the header wraps on narrow screens), so measure it
+  // rather than hard-coding an offset that would overlap or leave a gap.
+  function syncHeaderHeight() {
+    const header = document.querySelector(".app-header");
+    if (!header) return;
+    const h = Math.round(header.getBoundingClientRect().height);
+    document.documentElement.style.setProperty("--header-h", h + "px");
+  }
+
+  syncHeaderHeight();
+  window.addEventListener("resize", syncHeaderHeight);
+  // Web fonts and late layout can change the height after first paint.
+  window.addEventListener("load", syncHeaderHeight);
 
   el.searchInput.addEventListener("input", renderResults);
   el.semesterSelect.addEventListener("change", () => switchSemester(el.semesterSelect.value));
