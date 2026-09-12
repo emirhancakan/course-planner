@@ -417,6 +417,14 @@ table.grid th {
 
 .sv-rail.sv-not-scrollable { display: none; }
 
+/* Reserve room on the right of element scrollers so content - in particular a
+   card's Add/Remove button - stops before the knob instead of sitting under it.
+   scrollview.js then pushes the slot out into this gutter. Declared after
+   .panel so the longhand wins over its padding shorthand. */
+.sv-viewport-element {
+  padding-right: calc(var(--sv-size) + 5px);
+}
+
 .sv-slot {
   position: absolute;
   top: 0;

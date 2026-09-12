@@ -138,6 +138,9 @@
       // rail would sit at the bottom of the content and the knob would only
       // appear once you had scrolled all the way down.
       viewport.insertBefore(rail, viewport.firstChild);
+      // Element scrollers reserve a gutter for the knob (see the CSS) so cards
+      // and their buttons stop before it rather than running underneath.
+      viewport.classList.add("sv-viewport-element");
     }
     scrollHost.classList.add("sv-viewport");
 
@@ -163,8 +166,15 @@
         // padding amount even when its content fits. Pulling it up by the top
         // padding makes it span exactly the visible box, and overflow above the
         // top edge doesn't grow scrollHeight.
-        const padTop = parseFloat(getComputedStyle(viewport).paddingTop) || 0;
+        const cs = getComputedStyle(viewport);
+        const padTop = parseFloat(cs.paddingTop) || 0;
+        const padRight = parseFloat(cs.paddingRight) || 0;
         slot.style.top = -padTop + "px";
+        // The rail is a block element, so its right edge is the content edge -
+        // right where a card's Add/Remove button sits. Push the slot out into
+        // the reserved gutter instead, keeping 2px off the panel's rounded
+        // corner.
+        slot.style.right = -Math.max(0, padRight - 2) + "px";
         slot.style.height = client + "px";
         if (edgeTop) {
           edgeTop.style.top = -padTop + "px";
