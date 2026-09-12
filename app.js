@@ -328,6 +328,10 @@
     // the sticky day row is offset by that height, so re-measure after every
     // render rather than trusting ResizeObserver alone.
     syncHeaderHeight();
+    // Rendering changes how tall the scrollable content is, which resizes the
+    // scroll knobs. Same reasoning: measure explicitly instead of relying on
+    // ResizeObserver.
+    if (window.ScrollViews) window.ScrollViews.refresh();
   }
 
   function populateSemesterDropdown() {

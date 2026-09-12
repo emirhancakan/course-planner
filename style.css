@@ -86,7 +86,9 @@ body {
 
 .app-main {
   display: grid;
-  grid-template-columns: 340px 1fr;
+  /* The timetable has room to spare, so the course list gets the extra width -
+     long course names and instructor lines wrap far less. */
+  grid-template-columns: 420px 1fr;
   gap: 16px;
   padding: 16px;
   align-items: start;
@@ -115,19 +117,19 @@ body {
   overflow-y: auto;
 }
 
+/* The panel itself no longer scrolls. The field sits in a fixed row and only
+   the result list below it scrolls, so the list slides past the search box
+   rather than underneath it. */
 .search-panel {
   flex: 1 1 auto;
   min-height: 0;
-  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
-/* The search panel is the scrolling box, so pinning the field to its top keeps
-   it reachable no matter how far down the result list you are. */
-.search-sticky {
-  position: sticky;
-  top: 0;
-  z-index: 3;
-  background: var(--panel-bg);
+.search-bar {
+  flex: 0 0 auto;
   padding-bottom: 10px;
 }
 
@@ -139,6 +141,12 @@ body {
   background: var(--bg);
   color: var(--text);
   font-size: 14px;
+}
+
+.results-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
 }
 
 .results { display: flex; flex-direction: column; gap: 8px; }
@@ -246,7 +254,18 @@ table.grid th {
   z-index: 4;
 }
 
-.time-col { width: 76px; font-size: 11px; color: var(--text-dim); padding: 4px 6px !important; text-align: right; }
+/* Hours read as labels for the row, so they are bold and centred, and the
+   column is only as wide as "09:00" needs - it has no reason to match the
+   width of a course cell. */
+.time-col {
+  width: 52px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text);
+  padding: 4px 2px !important;
+  text-align: center;
+  vertical-align: middle;
+}
 
 .cell-block {
   flex: 1 1 0;
@@ -331,4 +350,151 @@ table.grid th {
   .sidebar { position: static; height: auto; }
   .selected-panel { max-height: 240px; }
   .search-panel { overflow-y: visible; }
+}
+
+/* ---------------------------------------------------------------------------
+   Scroll views: a draggable knob in a knob slot, drawn over the real scroller.
+
+   The native scroller still does the scrolling, so macOS elasticity at the
+   content boundaries is preserved - note there is deliberately no
+   overscroll-behavior declaration anywhere in this file.
+
+   [data-scroller-style] is set by scrollview.js: "overlay" when the platform
+   draws scrollbars over content (macOS default, 0px of reserved layout) and
+   "legacy" when it reserves a gutter.
+   --------------------------------------------------------------------------- */
+:root {
+  --sv-overlay-size: 11px;
+  --sv-legacy-size: 15px;
+  --sv-knob-thickness: 7px;
+  --sv-knob-thickness-hover: 9px;
+  --sv-knob: rgba(0, 0, 0, 0.40);
+  --sv-knob-strong: rgba(0, 0, 0, 0.62);
+  --sv-slot-bg: rgba(0, 0, 0, 0.06);
+  --sv-slot-line: rgba(0, 0, 0, 0.11);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sv-knob: rgba(255, 255, 255, 0.34);
+    --sv-knob-strong: rgba(255, 255, 255, 0.58);
+    --sv-slot-bg: rgba(255, 255, 255, 0.05);
+    --sv-slot-line: rgba(255, 255, 255, 0.09);
+  }
+}
+
+:root[data-scroller-style="overlay"] { --sv-size: var(--sv-overlay-size); }
+:root[data-scroller-style="legacy"]  { --sv-size: var(--sv-legacy-size); }
+
+/* Hide the platform scrollbar. Applied from JS, so the native one survives if
+   scrollview.js never runs. */
+.sv-viewport {
+  scrollbar-width: none;      /* Firefox */
+  -ms-overflow-style: none;   /* old Edge */
+}
+.sv-viewport::-webkit-scrollbar { width: 0; height: 0; }
+
+.sv-rail {
+  position: sticky;
+  top: 0;
+  height: 0;
+  z-index: 6;
+  pointer-events: none;       /* only the slot and knob are interactive */
+}
+
+.sv-rail-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;                    /* spans the window so the edge glow can too */
+  right: 0;
+  bottom: 0;
+  height: auto;
+  z-index: 50;                /* above the sticky page header */
+}
+
+.sv-rail-fixed .sv-edge-top { top: 0; }
+.sv-rail-fixed .sv-edge-bottom { top: auto; bottom: 0; transform: none; }
+
+.sv-rail.sv-not-scrollable { display: none; }
+
+.sv-slot {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: var(--sv-size);
+  pointer-events: auto;
+}
+
+.sv-rail-fixed .sv-slot { top: 0; bottom: 0; height: auto; }
+
+.sv-knob {
+  position: absolute;
+  top: 0;
+  right: calc((var(--sv-size) - var(--sv-knob-thickness)) / 2);
+  width: var(--sv-knob-thickness);
+  min-height: 24px;
+  border-radius: 999px;
+  background: var(--sv-knob);
+  will-change: transform;
+  transition: opacity 160ms ease, background-color 120ms ease, width 120ms ease;
+}
+
+.sv-slot:hover .sv-knob,
+.sv-rail.sv-dragging .sv-knob {
+  background: var(--sv-knob-strong);
+  width: var(--sv-knob-thickness-hover);
+  right: calc((var(--sv-size) - var(--sv-knob-thickness-hover)) / 2);
+}
+
+/* Overlay: floats over content and fades out shortly after use, revealing
+   itself again on scroll or when the pointer approaches the slot. */
+:root[data-scroller-style="overlay"] .sv-knob { opacity: 0; }
+:root[data-scroller-style="overlay"] .sv-rail.sv-active .sv-knob,
+:root[data-scroller-style="overlay"] .sv-slot:hover .sv-knob { opacity: 1; }
+:root[data-scroller-style="overlay"] .sv-slot:hover { background: var(--sv-slot-bg); }
+
+/* Legacy: permanently visible, in a drawn slot, as classic scrollbars are.
+   The panels already carry 14px of padding and the grid 16px, so content stays
+   clear of the slot without reserving an extra gutter. */
+:root[data-scroller-style="legacy"] .sv-knob { opacity: 1; }
+:root[data-scroller-style="legacy"] .sv-slot {
+  background: var(--sv-slot-bg);
+  border-left: 1px solid var(--sv-slot-line);
+}
+
+/* Boundary feedback for platforms without native scroll elasticity (Windows,
+   most Linux). macOS rubber-bands for real, so scrollview.js doesn't create
+   these elements there at all. */
+.sv-edge {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease, height 180ms ease;
+}
+
+.sv-edge-top    { background: linear-gradient(to bottom, var(--text), transparent); }
+.sv-edge-bottom { background: linear-gradient(to top, var(--text), transparent);
+                  transform: translateY(-100%); }
+
+.sv-rail.sv-glow-top .sv-edge-top,
+.sv-rail.sv-glow-bottom .sv-edge-bottom {
+  opacity: 0.22;
+  height: 12px;
+}
+
+/* Dragging the knob shouldn't select the text it passes over. */
+.sv-drag-active,
+.sv-drag-active * {
+  user-select: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sv-edge { transition: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sv-knob { transition: none; }
 }
