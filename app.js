@@ -222,7 +222,12 @@
       for (const m of previewSection.meetings) place(previewSection, m, true);
     }
 
-    let html = "<thead><tr><th></th>" + DAY_ORDER.map(d => `<th>${DAY_LABELS[d]}</th>`).join("") + "</tr></thead><tbody>";
+    // The hour column's width has to be declared on this header cell: with
+    // table-layout:fixed the browser takes column widths from the first row, so
+    // a width set only on the tbody cells is ignored and the column falls back
+    // to an equal share.
+    let html = '<thead><tr><th class="time-col"></th>' +
+      DAY_ORDER.map(d => `<th>${DAY_LABELS[d]}</th>`).join("") + "</tr></thead><tbody>";
 
     for (const slot of slots) {
       const t = currentData.slotTimes[String(slot)];
