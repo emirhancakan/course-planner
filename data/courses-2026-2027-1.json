@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-12T07:49:17",
+  "generatedAt": "2026-09-14T08:44:57",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -132,29 +132,7 @@
       "name": "GUIDED RESEARCH IN WORLD HISTORY-I",
       "credit": 3,
       "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BERNA YAZICI",
-          "day": "M",
-          "slot": 6,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERNA YAZICI",
-          "day": "M",
-          "slot": 7,
-          "room": "ATA SEM"
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERNA YAZICI",
-          "day": "M",
-          "slot": 8,
-          "room": "ATA SEM"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ATA 579",
@@ -259,6 +237,38 @@
           "day": "M",
           "slot": 4,
           "room": "ATA SEM"
+        }
+      ]
+    },
+    {
+      "code": "ATA 689",
+      "section": "01",
+      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
+      "departmentCode": "ATA",
+      "name": "SP.TOP IN MODERN TURKISH HISTORY",
+      "credit": 3,
+      "ects": 9,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "BERNA YAZICI",
+          "day": "M",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "BERNA YAZICI",
+          "day": "M",
+          "slot": 7,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "BERNA YAZICI",
+          "day": "M",
+          "slot": 8,
+          "room": ""
         }
       ]
     },
@@ -13080,7 +13090,29 @@
       "name": "ADVANCED QUANTITATIVE RESEARCH METHODS",
       "credit": 3,
       "ects": 8,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "Th",
+          "slot": 2,
+          "room": "ET B407"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "Th",
+          "slot": 3,
+          "room": "ET B407"
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "Th",
+          "slot": 4,
+          "room": "ET B407"
+        }
+      ]
     },
     {
       "code": "PRED521",
@@ -13090,7 +13122,29 @@
       "name": "POLICIES, TRENDS & ISSUES IN EARLY CHILDHOOD EDUCATION",
       "credit": 3,
       "ects": 8,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "day": "Th",
+          "slot": 5,
+          "room": "ET B407"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "day": "Th",
+          "slot": 6,
+          "room": "ET B407"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "day": "Th",
+          "slot": 7,
+          "room": "ET B407"
+        }
+      ]
     },
     {
       "code": "PRED690",
@@ -23345,28 +23399,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "GAMZE İNAN",
+          "instructor": "BURAK AYDIN",
           "day": "T",
           "slot": 4,
           "room": "NH 302"
         },
         {
           "type": "LECT",
-          "instructor": "GAMZE İNAN",
+          "instructor": "BURAK AYDIN",
           "day": "W",
           "slot": 6,
           "room": "EF 06"
         },
         {
           "type": "LECT",
-          "instructor": "GAMZE İNAN",
+          "instructor": "BURAK AYDIN",
           "day": "W",
           "slot": 7,
           "room": "EF 06"
         },
         {
           "type": "LECT",
-          "instructor": "GAMZE İNAN",
+          "instructor": "BURAK AYDIN",
           "day": "W",
           "slot": 8,
           "room": "EF 06"
@@ -32923,7 +32977,7 @@
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 3,
-          "room": "NH 201"
+          "room": "M 2230"
         },
         {
           "type": "LECT",
@@ -35441,10 +35495,10 @@
         },
         {
           "type": "P.S.",
-          "instructor": "MARIA DOLORES ALVAREZ",
-          "day": "T",
-          "slot": 6,
-          "room": "ET 01"
+          "instructor": "STAFF STAFF",
+          "day": "W",
+          "slot": 4,
+          "room": "İB 201"
         }
       ]
     },
@@ -38759,21 +38813,21 @@
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 4,
+          "slot": 1,
           "room": "EF 304"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 5,
+          "slot": 2,
           "room": "EF 304"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 6,
+          "slot": 3,
           "room": "EF 304"
         },
         {
@@ -39050,6 +39104,13 @@
           "type": "LECT",
           "instructor": "EBRU KAYA",
           "day": "T",
+          "slot": 2,
+          "room": "EF 304"
+        },
+        {
+          "type": "LECT",
+          "instructor": "EBRU KAYA",
+          "day": "T",
           "slot": 3,
           "room": "EF 304"
         },
@@ -39058,13 +39119,6 @@
           "instructor": "EBRU KAYA",
           "day": "T",
           "slot": 4,
-          "room": "EF 304"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EBRU KAYA",
-          "day": "W",
-          "slot": 2,
           "room": "EF 304"
         }
       ]
@@ -65279,6 +65333,66 @@
           "day": "T",
           "slot": 4,
           "room": "EF 506"
+        }
+      ]
+    },
+    {
+      "code": "PRED413",
+      "section": "03",
+      "department": "UNDERGRADUATE PROGRAM IN PRESCHOOL EDUCATION",
+      "departmentCode": "PRSO",
+      "name": "EARLY CHILDHOOD EDUCATION TEACHING PRACTICES I",
+      "credit": 4,
+      "ects": 8,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "M",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "M",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "AYŞE ÇOBANOĞLU",
+          "day": "T",
+          "slot": 4,
+          "room": ""
         }
       ]
     },
