@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-14T08:44:57",
+  "generatedAt": "2026-09-15T08:33:04",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -73,22 +73,22 @@
           "type": "LECT",
           "instructor": "NADİR ÖZBEK",
           "day": "W",
-          "slot": 2,
-          "room": "ATA SEM"
+          "slot": 6,
+          "room": "ATA SEM."
         },
         {
           "type": "LECT",
           "instructor": "NADİR ÖZBEK",
           "day": "W",
-          "slot": 3,
-          "room": "ATA SEM"
+          "slot": 7,
+          "room": "ATA SEM."
         },
         {
           "type": "LECT",
           "instructor": "NADİR ÖZBEK",
           "day": "W",
-          "slot": 4,
-          "room": "ATA SEM"
+          "slot": 8,
+          "room": "ATA SEM."
         }
       ]
     },
@@ -1039,56 +1039,6 @@
     },
     {
       "code": "HTR 311",
-      "section": "28",
-      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
-      "departmentCode": "ATA",
-      "name": "HISTORY OF THE TURKISH REPUBLIC I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
-          "day": "Th",
-          "slot": 2,
-          "room": "NH 402"
-        },
-        {
-          "type": "LECT",
-          "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
-          "day": "Th",
-          "slot": 3,
-          "room": "NH 402"
-        }
-      ]
-    },
-    {
-      "code": "HTR 311",
-      "section": "29",
-      "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
-      "departmentCode": "ATA",
-      "name": "HISTORY OF THE TURKISH REPUBLIC I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
-          "day": "Th",
-          "slot": 4,
-          "room": "NH 402"
-        },
-        {
-          "type": "LECT",
-          "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
-          "day": "Th",
-          "slot": 5,
-          "room": "NH 402"
-        }
-      ]
-    },
-    {
-      "code": "HTR 311",
       "section": "30",
       "department": "ATATURK INSTITUTE FOR MODERN TURKISH HISTORY",
       "departmentCode": "ATA",
@@ -1401,14 +1351,14 @@
           "instructor": "SEVTAP DEMİRCİ",
           "day": "T",
           "slot": 2,
-          "room": "NH 405"
+          "room": "İB 204"
         },
         {
           "type": "LECT",
           "instructor": "SEVTAP DEMİRCİ",
           "day": "T",
           "slot": 3,
-          "room": "NH 405"
+          "room": "İB 204"
         }
       ]
     },
@@ -2774,6 +2724,13 @@
           "day": "W",
           "slot": 2,
           "room": "KB 401"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SEZEN SOYER UZUN",
+          "day": "W",
+          "slot": 7,
+          "room": "KB 401"
         }
       ]
     },
@@ -3815,6 +3772,126 @@
       ]
     },
     {
+      "code": "CHE 690",
+      "section": "01",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "02",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "03",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "04",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "05",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "06",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "07",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "09",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "10",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "11",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "12",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHE 690",
+      "section": "13",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
       "code": "CHE 700",
       "section": "01",
       "department": "CHEMICAL ENGINEERING",
@@ -3831,6 +3908,106 @@
           "room": "KB 432"
         }
       ]
+    },
+    {
+      "code": "CHE 790",
+      "section": "01",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "02",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "03",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "04",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "07",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "09",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "10",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "11",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "12",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "CHE 790",
+      "section": "13",
+      "department": "CHEMICAL ENGINEERING",
+      "departmentCode": "CHE",
+      "name": "Ph.D. THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
     },
     {
       "code": "CHEM100",
@@ -6864,28 +7041,28 @@
           "instructor": "ILGIN GÖKAŞAR",
           "day": "Th",
           "slot": 1,
-          "room": ""
+          "room": "NH 304"
         },
         {
           "type": "LAB",
           "instructor": "ILGIN GÖKAŞAR",
           "day": "Th",
           "slot": 2,
-          "room": ""
+          "room": "NH 304"
         },
         {
           "type": "LAB",
           "instructor": "ILGIN GÖKAŞAR",
           "day": "Th",
           "slot": 3,
-          "room": ""
+          "room": "NH 304"
         },
         {
           "type": "LAB",
           "instructor": "ILGIN GÖKAŞAR",
           "day": "Th",
           "slot": 4,
-          "room": ""
+          "room": "NH 304"
         }
       ]
     },
@@ -8168,35 +8345,35 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 7,
           "room": "ET B509"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 8,
           "room": "ET B509"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 9,
           "room": "ET B509"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "W",
           "slot": 5,
           "room": "EF 416 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "W",
           "slot": 6,
           "room": "EF 416 (LAB)"
@@ -8654,21 +8831,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 3,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 5,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 6,
           "room": ""
@@ -8686,21 +8863,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 3,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 7,
           "room": "ET B509"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 8,
           "room": "ET B509"
@@ -19992,26 +20169,6 @@
       "meetings": []
     },
     {
-      "code": "ADEX501",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "FINANCIAL ACCOUNTING",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX501",
-      "section": "04",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "FINANCIAL ACCOUNTING",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
       "code": "ADEX502",
       "section": "01",
       "department": "EXECUTIVE MBA",
@@ -20024,26 +20181,6 @@
     {
       "code": "ADEX502",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MACROECONOMICS FOR GLOBAL ECONOMY",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX502",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MACROECONOMICS FOR GLOBAL ECONOMY",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX502",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "MACROECONOMICS FOR GLOBAL ECONOMY",
@@ -20082,16 +20219,6 @@
       "meetings": []
     },
     {
-      "code": "ADEX503",
-      "section": "04",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "CORPORATE FINANCE I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
       "code": "ADEX522",
       "section": "01",
       "department": "EXECUTIVE MBA",
@@ -20104,26 +20231,6 @@
     {
       "code": "ADEX522",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MARKETING MANAGEMENT",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX522",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MARKETING MANAGEMENT",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX522",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "MARKETING MANAGEMENT",
@@ -20144,26 +20251,6 @@
     {
       "code": "ADEX523",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MARKETING STRATEGY",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX523",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MARKETING STRATEGY",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX523",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "MARKETING STRATEGY",
@@ -20184,26 +20271,6 @@
     {
       "code": "ADEX525",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MANAGERIAL STATISTICS",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX525",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MANAGERIAL STATISTICS",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX525",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "MANAGERIAL STATISTICS",
@@ -20224,26 +20291,6 @@
     {
       "code": "ADEX538",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MANAGING ORGANIZATIONS",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX538",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "MANAGING ORGANIZATIONS",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX538",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "MANAGING ORGANIZATIONS",
@@ -20264,26 +20311,6 @@
     {
       "code": "ADEX549",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "OPERATIONS MANAGEMENT",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX549",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "OPERATIONS MANAGEMENT",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX549",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "OPERATIONS MANAGEMENT",
@@ -20304,26 +20331,6 @@
     {
       "code": "ADEX580",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "ORIENTATION",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX580",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "ORIENTATION",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX580",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "ORIENTATION",
@@ -20344,26 +20351,6 @@
     {
       "code": "ADEX591",
       "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "BUSINESS CASE WRITING SEMINAR",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX591",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "BUSINESS CASE WRITING SEMINAR",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX591",
-      "section": "04",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "BUSINESS CASE WRITING SEMINAR",
@@ -23679,7 +23666,7 @@
           "instructor": "ZEYNEP HANDE SART",
           "day": "W",
           "slot": 4,
-          "room": "EF 302"
+          "room": "EF 116"
         },
         {
           "type": "LECT",
@@ -25612,16 +25599,6 @@
     },
     {
       "code": "HIST495",
-      "section": "01",
-      "department": "HISTORY",
-      "departmentCode": "HIST",
-      "name": "THESIS I",
-      "credit": 3,
-      "ects": 7,
-      "meetings": []
-    },
-    {
-      "code": "HIST495",
       "section": "02",
       "department": "HISTORY",
       "departmentCode": "HIST",
@@ -25686,16 +25663,6 @@
       "department": "HISTORY",
       "departmentCode": "HIST",
       "name": "THESIS I",
-      "credit": 3,
-      "ects": 7,
-      "meetings": []
-    },
-    {
-      "code": "HIST496",
-      "section": "01",
-      "department": "HISTORY",
-      "departmentCode": "HIST",
-      "name": "THESIS II",
       "credit": 3,
       "ects": 7,
       "meetings": []
@@ -26293,6 +26260,16 @@
           "room": ""
         }
       ]
+    },
+    {
+      "code": "HIST601",
+      "section": "01",
+      "department": "HISTORY",
+      "departmentCode": "HIST",
+      "name": "HISTORY SEMINAR",
+      "credit": 3,
+      "ects": 7,
+      "meetings": []
     },
     {
       "code": "HIST601",
@@ -26996,14 +26973,14 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 1,
-          "room": "EF 04"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 2,
-          "room": "EF 04"
+          "room": "NH 404"
         }
       ]
     },
@@ -27035,14 +27012,14 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 3,
-          "room": "EF 04"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 4,
-          "room": "EF 04"
+          "room": "NH 404"
         }
       ]
     },
@@ -27081,7 +27058,7 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 5,
-          "room": "EF 302"
+          "room": "NH 404"
         }
       ]
     },
@@ -27306,16 +27283,16 @@
         {
           "type": "LECT",
           "instructor": "GÖNENÇ YÜCEL",
-          "day": "Th",
+          "day": "W",
           "slot": 7,
-          "room": "VYKM1"
+          "room": "M 2152"
         },
         {
           "type": "LECT",
           "instructor": "GÖNENÇ YÜCEL",
-          "day": "Th",
+          "day": "W",
           "slot": 8,
-          "room": "VYKM1"
+          "room": "M 2152"
         },
         {
           "type": "LECT",
@@ -27573,14 +27550,14 @@
           "instructor": "MAHMUT EKŞİOĞLU",
           "day": "Th",
           "slot": 7,
-          "room": "VYKM4"
+          "room": "VYKM1"
         },
         {
           "type": "LECT",
           "instructor": "MAHMUT EKŞİOĞLU",
           "day": "Th",
           "slot": 8,
-          "room": "VYKM4"
+          "room": "VYKM1"
         }
       ]
     },
@@ -27936,56 +27913,24 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MAHMUT EKŞİOĞLU",
           "day": "M",
           "slot": 7,
           "room": "M 1169"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MAHMUT EKŞİOĞLU",
           "day": "M",
           "slot": 8,
           "room": "M 1169"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MAHMUT EKŞİOĞLU",
           "day": "M",
           "slot": 9,
           "room": "M 1169"
-        }
-      ]
-    },
-    {
-      "code": "IE  587",
-      "section": "01",
-      "department": "INDUSTRIAL ENGINEERING",
-      "departmentCode": "IE",
-      "name": "SPECIAL TOPICS OPTIMAL CONTROL THEORY",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKAN",
-          "day": "T",
-          "slot": 4,
-          "room": "VYKM5"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKAN",
-          "day": "T",
-          "slot": 5,
-          "room": "VYKM5"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKAN",
-          "day": "T",
-          "slot": 6,
-          "room": "VYKM5"
         }
       ]
     },
@@ -29359,6 +29304,16 @@
     {
       "code": "INTT591",
       "section": "09",
+      "department": "INTERNATIONAL TRADE MANAGEMENT",
+      "departmentCode": "INTT",
+      "name": "DIRECTED READINGS IN INTERNATIONAL TRADE MANAGEMENT I",
+      "credit": 2,
+      "ects": 4,
+      "meetings": []
+    },
+    {
+      "code": "INTT591",
+      "section": "10",
       "department": "INTERNATIONAL TRADE MANAGEMENT",
       "departmentCode": "INTT",
       "name": "DIRECTED READINGS IN INTERNATIONAL TRADE MANAGEMENT I",
@@ -37349,28 +37304,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "M",
           "slot": 3,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "M",
           "slot": 4,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 3,
           "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 4,
           "room": "HD 301 (SALON1)"
@@ -37654,28 +37609,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "STAFF STAFF",
           "day": "M",
           "slot": 1,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "STAFF STAFF",
           "day": "M",
           "slot": 2,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 1,
           "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
-          "instructor": "SAADET ÖYKÜ YURTTAŞ",
+          "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 2,
           "room": "HD 301 (SALON1)"
@@ -38118,6 +38073,45 @@
       ]
     },
     {
+      "code": "MATH58B",
+      "section": "01",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "SPECIAL TOPICS IN MATHEMATICS:CATEGORY THEORY",
+      "credit": 3,
+      "ects": 7,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "OLCAY COŞKUN",
+          "day": "T",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "OLCAY COŞKUN",
+          "day": "T",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "OLCAY COŞKUN",
+          "day": "Th",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "OLCAY COŞKUN",
+          "day": "Th",
+          "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
       "code": "MATH58C",
       "section": "01",
       "department": "MATHEMATICS",
@@ -38393,6 +38387,16 @@
       "meetings": []
     },
     {
+      "code": "MATH790",
+      "section": "07",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "Ph.D.THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
       "code": "SCED120",
       "section": "01",
       "department": "MATHEMATICS AND SCIENCE EDUCATION",
@@ -38643,14 +38647,14 @@
           "type": "LECT",
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "M",
-          "slot": 7,
+          "slot": 3,
           "room": "EF 304"
         },
         {
           "type": "LECT",
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "M",
-          "slot": 8,
+          "slot": 4,
           "room": "EF 304"
         },
         {
@@ -39794,22 +39798,22 @@
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 1,
-          "room": "EF 03"
+          "slot": 4,
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 2,
-          "room": "EF 03"
+          "slot": 5,
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
-          "slot": 3,
-          "room": "EF 03"
+          "slot": 6,
+          "room": "EF 302"
         }
       ]
     },
@@ -40013,7 +40017,15 @@
       "name": "GRADUATE SEMINAR",
       "credit": 0,
       "ects": 3,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "OĞUZ KÖKLÜ",
+          "day": "T",
+          "slot": 9,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "SCED610",
@@ -40543,58 +40555,26 @@
       ]
     },
     {
-      "code": "ME  303",
+      "code": "ME  244",
       "section": "01",
       "department": "MECHANICAL ENGINEERING",
       "departmentCode": "ME",
-      "name": "COMPUTER APPLICATIONS IN MECHANICAL ENG",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ALİ ECDER",
-          "day": "M",
-          "slot": 2,
-          "room": "M 3160 CAD LAB"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ALİ ECDER",
-          "day": "W",
-          "slot": 1,
-          "room": "VYKM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ALİ ECDER",
-          "day": "W",
-          "slot": 2,
-          "room": "VYKM1"
-        },
-        {
-          "type": "LAB",
-          "instructor": "ALİ ECDER",
-          "day": "M",
-          "slot": 1,
-          "room": "M 3160 CAD LAB"
-        }
-      ]
-    },
-    {
-      "code": "ME  303",
-      "section": "02",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "COMPUTER APPLICATIONS IN MECHANICAL ENG",
-      "credit": 3,
-      "ects": 5,
+      "name": "MECHANICS OF MATERIALS",
+      "credit": 4,
+      "ects": 6,
       "meetings": [
         {
           "type": "LECT",
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 3,
+          "room": "M 2171"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞEBNEM ÖZÜPEK",
+          "day": "T",
+          "slot": 4,
           "room": "M 2171"
         },
         {
@@ -40610,12 +40590,51 @@
           "day": "Th",
           "slot": 4,
           "room": "M 2230"
+        }
+      ]
+    },
+    {
+      "code": "ME  303",
+      "section": "01",
+      "department": "MECHANICAL ENGINEERING",
+      "departmentCode": "ME",
+      "name": "COMPUTER APPLICATIONS IN MECHANICAL ENG",
+      "credit": 3,
+      "ects": 5,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ALİ ECDER",
+          "day": "W",
+          "slot": 1,
+          "room": "VYKM1"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ALİ ECDER",
+          "day": "W",
+          "slot": 2,
+          "room": "VYKM1"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ALİ ECDER",
+          "day": "Th",
+          "slot": 1,
+          "room": "M 1171"
         },
         {
           "type": "LAB",
-          "instructor": "ŞEBNEM ÖZÜPEK",
-          "day": "T",
-          "slot": 4,
+          "instructor": "ALİ ECDER",
+          "day": "M",
+          "slot": 1,
+          "room": "M 3160 CAD LAB"
+        },
+        {
+          "type": "LAB",
+          "instructor": "ALİ ECDER",
+          "day": "M",
+          "slot": 2,
           "room": "M 3160 CAD LAB"
         }
       ]
@@ -44629,6 +44648,26 @@
       "meetings": []
     },
     {
+      "code": "PHIL499",
+      "section": "11",
+      "department": "PHILOSOPHY",
+      "departmentCode": "PHIL",
+      "name": "INDEPENDENT STUDY",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "PHIL499",
+      "section": "12",
+      "department": "PHILOSOPHY",
+      "departmentCode": "PHIL",
+      "name": "INDEPENDENT STUDY",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
       "code": "PHIL49O",
       "section": "01",
       "department": "PHILOSOPHY",
@@ -44816,6 +44855,38 @@
           "instructor": "BARRY STOCKER",
           "day": "M",
           "slot": 8,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "PHIL58P",
+      "section": "01",
+      "department": "PHILOSOPHY",
+      "departmentCode": "PHIL",
+      "name": "SPECIAL TOPICS EXPRESSIVISM&THE POSSIBILITY OF EXPLANATION.BRIAN CLACK ON WITTGENSTEIN AND FRAZER",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "CHRYSSI SIDIROPOULOU",
+          "day": "T",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CHRYSSI SIDIROPOULOU",
+          "day": "T",
+          "slot": 6,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CHRYSSI SIDIROPOULOU",
+          "day": "T",
+          "slot": 7,
           "room": ""
         }
       ]
@@ -46921,28 +46992,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "M",
           "slot": 3,
           "room": "KB Z01"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "M",
           "slot": 4,
           "room": "KB Z01"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "W",
           "slot": 3,
           "room": "EF 206"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "W",
           "slot": 4,
           "room": "EF 206"
@@ -46960,28 +47031,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "M",
           "slot": 5,
           "room": "KB Z01"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "M",
           "slot": 6,
           "room": "KB Z01"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "W",
           "slot": 5,
           "room": "EF 206"
         },
         {
           "type": "LECT",
-          "instructor": "AŞKIN ANKAY",
+          "instructor": "ÖZGÜR BURAK ASLAN",
           "day": "W",
           "slot": 6,
           "room": "EF 206"
@@ -47920,42 +47991,42 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "W",
           "slot": 9,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "W",
           "slot": 10,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 1,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 2,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 3,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 4,
           "room": ""
@@ -47973,42 +48044,42 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "W",
           "slot": 9,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "W",
           "slot": 10,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 6,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 7,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 8,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ÖZGÜR BURAK ASLAN",
+          "instructor": "BORA AKGÜN",
           "day": "F",
           "slot": 9,
           "room": ""
@@ -48156,6 +48227,16 @@
     },
     {
       "code": "PHYS491",
+      "section": "10",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "INTRODUCTION TO RESEARCH IN PHYSICS I",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "PHYS491",
       "section": "13",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
@@ -48202,7 +48283,36 @@
       "name": "CLASSICAL DYNAMICS",
       "credit": 4,
       "ects": 10,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "M",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "PHYS511",
@@ -48261,7 +48371,36 @@
       "name": "SPECIAL TOPICS INTRODUCTION TO QUANTUM FIELD THEORY I",
       "credit": 4,
       "ects": 10,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "M",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "M",
+          "slot": 11,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "T",
+          "slot": 10,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "CAN KOZÇAZ",
+          "day": "T",
+          "slot": 11,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "PHYS58E",
@@ -48336,6 +48475,16 @@
     {
       "code": "PHYS681",
       "section": "02",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "DIRECTED STUDIES I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "PHYS681",
+      "section": "03",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "DIRECTED STUDIES I",
@@ -49172,7 +49321,7 @@
           "instructor": "FIRAT KİMYA",
           "day": "T",
           "slot": 2,
-          "room": "İB 204"
+          "room": "İB 301"
         }
       ]
     },
@@ -49271,6 +49420,16 @@
           "room": ""
         }
       ]
+    },
+    {
+      "code": "POLS525",
+      "section": "01",
+      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
+      "departmentCode": "POLS",
+      "name": "CURRENT ISSUES IN WORLD POLITICS I",
+      "credit": 3,
+      "ects": 7,
+      "meetings": []
     },
     {
       "code": "POLS527",
@@ -51026,6 +51185,26 @@
     {
       "code": "PSY 790",
       "section": "01",
+      "department": "PSYCHOLOGY",
+      "departmentCode": "PSY",
+      "name": "DOCTORAL DISSERTATION",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "PSY 790",
+      "section": "02",
+      "department": "PSYCHOLOGY",
+      "departmentCode": "PSY",
+      "name": "DOCTORAL DISSERTATION",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "PSY 790",
+      "section": "03",
       "department": "PSYCHOLOGY",
       "departmentCode": "PSY",
       "name": "DOCTORAL DISSERTATION",
@@ -54823,6 +55002,38 @@
           "day": "W",
           "slot": 4,
           "room": "ET 02"
+        }
+      ]
+    },
+    {
+      "code": "HEB 101",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "ELEMENTARY HEBREW I",
+      "credit": 3,
+      "ects": 5,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "FATİH ŞEMSETTİN IŞIK",
+          "day": "F",
+          "slot": 7,
+          "room": "TB 121"
+        },
+        {
+          "type": "LECT",
+          "instructor": "FATİH ŞEMSETTİN IŞIK",
+          "day": "F",
+          "slot": 8,
+          "room": "TB 121"
+        },
+        {
+          "type": "LECT",
+          "instructor": "FATİH ŞEMSETTİN IŞIK",
+          "day": "F",
+          "slot": 9,
+          "room": "TB 121"
         }
       ]
     },
@@ -60217,28 +60428,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "EVİNÇ DOĞAN",
+          "instructor": "FANİ EFTHYMIADOU",
           "day": "Th",
           "slot": 5,
           "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
-          "instructor": "EVİNÇ DOĞAN",
+          "instructor": "FANİ EFTHYMIADOU",
           "day": "Th",
           "slot": 6,
           "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
-          "instructor": "EVİNÇ DOĞAN",
+          "instructor": "FANİ EFTHYMIADOU",
           "day": "Th",
           "slot": 7,
           "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
-          "instructor": "EVİNÇ DOĞAN",
+          "instructor": "FANİ EFTHYMIADOU",
           "day": "Th",
           "slot": 8,
           "room": "HH Z06-SEM1"
@@ -60694,6 +60905,16 @@
     {
       "code": "INT 419",
       "section": "01",
+      "department": "TRANSLATION AND INTERPRETING STUDIES",
+      "departmentCode": "TR",
+      "name": "INTERPRETING PROJECT DESIGN",
+      "credit": 1,
+      "ects": 3,
+      "meetings": []
+    },
+    {
+      "code": "INT 419",
+      "section": "02",
       "department": "TRANSLATION AND INTERPRETING STUDIES",
       "departmentCode": "TR",
       "name": "INTERPRETING PROJECT DESIGN",
@@ -61679,14 +61900,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "M",
           "slot": 3,
           "room": "KP 02"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "M",
           "slot": 4,
           "room": "KP 02"
@@ -61704,14 +61925,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "M",
           "slot": 5,
           "room": "KP 02"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "M",
           "slot": 6,
           "room": "KP 02"
@@ -61904,14 +62125,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "T",
           "slot": 1,
           "room": "KP 03"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "T",
           "slot": 2,
           "room": "KP 03"
@@ -61929,14 +62150,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "T",
           "slot": 3,
           "room": "KP 03"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "T",
           "slot": 4,
           "room": "KP 03"
@@ -62579,14 +62800,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "Th",
           "slot": 5,
           "room": "KP 05"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "Th",
           "slot": 6,
           "room": "KP 05"
@@ -62604,14 +62825,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "Th",
           "slot": 7,
           "room": "KP 05"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "FATİH AŞAN",
           "day": "Th",
           "slot": 8,
           "room": "KP 05"
@@ -62776,7 +62997,22 @@
       "name": "TURKISH FOR NATIVE SPEAKERS I",
       "credit": 2,
       "ects": 3,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
+          "day": "Th",
+          "slot": 1,
+          "room": "KP 02"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
+          "day": "Th",
+          "slot": 2,
+          "room": "KP 02"
+        }
+      ]
     },
     {
       "code": "TK  221",
@@ -62786,7 +63022,22 @@
       "name": "TURKISH FOR NATIVE SPEAKERS I",
       "credit": 2,
       "ects": 3,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
+          "day": "Th",
+          "slot": 3,
+          "room": "KP 02"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
+          "day": "Th",
+          "slot": 4,
+          "room": "KP 02"
+        }
+      ]
     },
     {
       "code": "TK  221",
@@ -62871,7 +63122,22 @@
       "name": "TURKISH FOR NATIVE SPEAKERS I",
       "credit": 2,
       "ects": 3,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "HÜLYA BULUT",
+          "day": "Th",
+          "slot": 5,
+          "room": "KP 02"
+        },
+        {
+          "type": "LECT",
+          "instructor": "HÜLYA BULUT",
+          "day": "Th",
+          "slot": 6,
+          "room": "KP 02"
+        }
+      ]
     },
     {
       "code": "TK  221",
@@ -62881,7 +63147,22 @@
       "name": "TURKISH FOR NATIVE SPEAKERS I",
       "credit": 2,
       "ects": 3,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "HÜLYA BULUT",
+          "day": "Th",
+          "slot": 7,
+          "room": "KP 02"
+        },
+        {
+          "type": "LECT",
+          "instructor": "HÜLYA BULUT",
+          "day": "Th",
+          "slot": 8,
+          "room": "KP 02"
+        }
+      ]
     },
     {
       "code": "TK  221",
@@ -66265,45 +66546,6 @@
           "day": "F",
           "slot": 7,
           "room": "M 2230"
-        }
-      ]
-    },
-    {
-      "code": "ENGL105",
-      "section": "03",
-      "department": "WESTERN LANGUAGES & LITERATURES",
-      "departmentCode": "LL",
-      "name": "INTRODUCTION TO LITERARY FORMS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "W",
-          "slot": 7,
-          "room": "M 2171"
-        },
-        {
-          "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "W",
-          "slot": 8,
-          "room": "M 2171"
-        },
-        {
-          "type": "LECT",
-          "instructor": "KIM FORTUNY",
-          "day": "F",
-          "slot": 6,
-          "room": "M 2181"
-        },
-        {
-          "type": "P.S.",
-          "instructor": "KIM FORTUNY",
-          "day": "F",
-          "slot": 7,
-          "room": "M 2181"
         }
       ]
     },
