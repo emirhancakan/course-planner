@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-17T08:33:01",
+  "generatedAt": "2026-09-18T08:07:22",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -6024,6 +6024,36 @@
       "meetings": []
     },
     {
+      "code": "CHEM599",
+      "section": "01",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
+      "code": "CHEM599",
+      "section": "02",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
+      "code": "CHEM599",
+      "section": "03",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
       "code": "CHEM601",
       "section": "01",
       "department": "CHEMISTRY",
@@ -6171,6 +6201,16 @@
       "name": "M.S. THESIS",
       "credit": 0,
       "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "CHEM699",
+      "section": "01",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "GUIDED RESEARCH",
+      "credit": 4,
+      "ects": 8,
       "meetings": []
     },
     {
@@ -20000,7 +20040,15 @@
       "name": "GRADUATE SEMINAR",
       "credit": 0,
       "ects": 2,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "TURGUT TÜZÜN ONAY",
+          "day": "M",
+          "slot": 5,
+          "room": "HC 214"
+        }
+      ]
     },
     {
       "code": "ESC 790",
@@ -20406,23 +20454,23 @@
         {
           "type": "LECT",
           "instructor": "HASAN FEHMİ TOPAL",
-          "day": "M",
+          "day": "Th",
           "slot": 2,
-          "room": "HC 214"
+          "room": "HC 105"
         },
         {
           "type": "LECT",
           "instructor": "HASAN FEHMİ TOPAL",
-          "day": "M",
+          "day": "Th",
           "slot": 3,
-          "room": "HC 214"
+          "room": "HC 105"
         },
         {
           "type": "LECT",
           "instructor": "HASAN FEHMİ TOPAL",
-          "day": "M",
+          "day": "Th",
           "slot": 4,
-          "room": "HC 214"
+          "room": "HC 105"
         }
       ]
     },
@@ -21720,7 +21768,7 @@
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 8,
-          "room": "EF 103"
+          "room": "EF 106"
         }
       ]
     },
@@ -26181,21 +26229,21 @@
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 7,
-          "room": "TB 415"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 8,
-          "room": "TB 415"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
           "instructor": "PAOLO MARANZANA",
           "day": "W",
           "slot": 9,
-          "room": "TB 415"
+          "room": "TB 240"
         }
       ]
     },
@@ -33100,14 +33148,14 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "W",
           "slot": 4,
-          "room": "İB 100"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "W",
           "slot": 5,
-          "room": "İB 100"
+          "room": "İB 312"
         }
       ]
     },
@@ -33718,21 +33766,21 @@
           "instructor": "YAVUZ ACAR",
           "day": "W",
           "slot": 3,
-          "room": "İB 312"
+          "room": "İB 100"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ ACAR",
           "day": "W",
           "slot": 4,
-          "room": "İB 312"
+          "room": "İB 100"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ ACAR",
           "day": "W",
           "slot": 5,
-          "room": "İB 312"
+          "room": "İB 100"
         }
       ]
     },
@@ -38895,6 +38943,16 @@
       "meetings": []
     },
     {
+      "code": "MATH690",
+      "section": "07",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "M.S. THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
       "code": "MATH700",
       "section": "01",
       "department": "MATHEMATICS",
@@ -38967,6 +39025,16 @@
     {
       "code": "MATH790",
       "section": "07",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "Ph.D.THESIS",
+      "credit": 0,
+      "ects": 120,
+      "meetings": []
+    },
+    {
+      "code": "MATH790",
+      "section": "08",
       "department": "MATHEMATICS",
       "departmentCode": "MATH",
       "name": "Ph.D.THESIS",
@@ -48995,28 +49063,28 @@
           "instructor": "CAN KOZÇAZ",
           "day": "M",
           "slot": 10,
-          "room": ""
+          "room": "N/A"
         },
         {
           "type": "LECT",
           "instructor": "CAN KOZÇAZ",
           "day": "M",
           "slot": 11,
-          "room": ""
+          "room": "KB SHANNON-232"
         },
         {
           "type": "LECT",
           "instructor": "CAN KOZÇAZ",
           "day": "T",
           "slot": 10,
-          "room": ""
+          "room": "KB SHANNON-232"
         },
         {
           "type": "LECT",
           "instructor": "CAN KOZÇAZ",
           "day": "T",
           "slot": 11,
-          "room": ""
+          "room": "KB SHANNON-232"
         }
       ]
     },
@@ -49733,7 +49801,7 @@
           "instructor": "ZÜHRE AKSOY",
           "day": "W",
           "slot": 3,
-          "room": "İB 100"
+          "room": "İB 312"
         },
         {
           "type": "LECT",
