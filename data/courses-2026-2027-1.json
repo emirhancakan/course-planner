@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-18T08:07:22",
+  "generatedAt": "2026-09-19T07:56:51",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -726,14 +726,14 @@
           "instructor": "BERNA YAZICI",
           "day": "W",
           "slot": 7,
-          "room": "NH 002"
+          "room": "NH 303"
         },
         {
           "type": "LECT",
           "instructor": "BERNA YAZICI",
           "day": "W",
           "slot": 8,
-          "room": "NH 002"
+          "room": "NH 303"
         }
       ]
     },
@@ -4172,7 +4172,7 @@
           "instructor": "AYŞENUR İŞCEN AKATAY",
           "day": "W",
           "slot": 5,
-          "room": "NH 001"
+          "room": "NH 301"
         },
         {
           "type": "LAB",
@@ -4225,14 +4225,14 @@
           "instructor": "FETTAH ERDOĞAN",
           "day": "W",
           "slot": 3,
-          "room": "NH 001"
+          "room": "KB Z01"
         },
         {
           "type": "LECT",
           "instructor": "FETTAH ERDOĞAN",
           "day": "W",
           "slot": 4,
-          "room": "NH 001"
+          "room": "KB Z01"
         },
         {
           "type": "LAB",
@@ -8832,28 +8832,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 6,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 7,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 8,
           "room": "ET B513"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "SUAT GENÇ",
           "day": "F",
           "slot": 9,
           "room": "ET B513"
@@ -9002,14 +9002,14 @@
           "instructor": "DUYGU UMUTLU",
           "day": "W",
           "slot": 6,
-          "room": "ET B509"
+          "room": "ET B513"
         },
         {
           "type": "LECT",
           "instructor": "DUYGU UMUTLU",
           "day": "W",
           "slot": 7,
-          "room": "ET B509"
+          "room": "ET B513"
         },
         {
           "type": "LECT",
@@ -14242,14 +14242,14 @@
           "instructor": "OZAN HATİPOĞLU",
           "day": "Th",
           "slot": 3,
-          "room": "NH 401"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "OZAN HATİPOĞLU",
           "day": "Th",
           "slot": 4,
-          "room": "NH 401"
+          "room": "NH 001"
         }
       ]
     },
@@ -14274,14 +14274,14 @@
           "instructor": "OZAN HATİPOĞLU",
           "day": "Th",
           "slot": 1,
-          "room": "NH 401"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "OZAN HATİPOĞLU",
           "day": "Th",
           "slot": 2,
-          "room": "NH 401"
+          "room": "NH 001"
         }
       ]
     },
@@ -21690,14 +21690,14 @@
           "instructor": "AYŞE GÜREL",
           "day": "T",
           "slot": 5,
-          "room": "NH 102"
+          "room": "EF 116"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE GÜREL",
           "day": "T",
           "slot": 6,
-          "room": "NH 102"
+          "room": "EF 116"
         },
         {
           "type": "LECT",
@@ -23342,21 +23342,21 @@
           "instructor": "RAHŞAN NAZLI SOMEL",
           "day": "W",
           "slot": 5,
-          "room": "NH 301"
+          "room": "EF 106"
         },
         {
           "type": "LECT",
           "instructor": "RAHŞAN NAZLI SOMEL",
           "day": "W",
           "slot": 6,
-          "room": "NH 301"
+          "room": "EF 106"
         },
         {
           "type": "LECT",
           "instructor": "RAHŞAN NAZLI SOMEL",
           "day": "W",
           "slot": 7,
-          "room": "NH 301"
+          "room": "EF 106"
         }
       ]
     },
@@ -23431,14 +23431,14 @@
           "instructor": "BENGÜ BÖRKAN",
           "day": "W",
           "slot": 6,
-          "room": "EF 106"
+          "room": "NH 002"
         },
         {
           "type": "LECT",
           "instructor": "BENGÜ BÖRKAN",
           "day": "W",
           "slot": 7,
-          "room": "EF 106"
+          "room": "NH 002"
         },
         {
           "type": "LECT",
@@ -24389,21 +24389,21 @@
           "instructor": "BENGÜ BÖRKAN",
           "day": "T",
           "slot": 8,
-          "room": "EF 104"
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "BENGÜ BÖRKAN",
           "day": "T",
           "slot": 9,
-          "room": "EF 104"
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "BENGÜ BÖRKAN",
           "day": "T",
           "slot": 10,
-          "room": "EF 104"
+          "room": "EF 302"
         }
       ]
     },
@@ -27498,28 +27498,28 @@
           "instructor": "KEREM DEMİRTAŞ",
           "day": "T",
           "slot": 1,
-          "room": "VYKM3"
+          "room": "M 1171"
         },
         {
           "type": "LECT",
           "instructor": "KEREM DEMİRTAŞ",
           "day": "T",
           "slot": 2,
-          "room": "VYKM3"
+          "room": "M 1171"
         },
         {
           "type": "LECT",
           "instructor": "KEREM DEMİRTAŞ",
           "day": "Th",
           "slot": 7,
-          "room": "VYKM3"
+          "room": "M 1171"
         },
         {
           "type": "LECT",
           "instructor": "KEREM DEMİRTAŞ",
           "day": "Th",
           "slot": 8,
-          "room": "VYKM3"
+          "room": "M 1171"
         }
       ]
     },
@@ -27675,14 +27675,14 @@
           "instructor": "GÖNENÇ YÜCEL",
           "day": "W",
           "slot": 7,
-          "room": "M 2152"
+          "room": "M 1170"
         },
         {
           "type": "LECT",
           "instructor": "GÖNENÇ YÜCEL",
           "day": "W",
           "slot": 8,
-          "room": "M 2152"
+          "room": "M 1170"
         },
         {
           "type": "LECT",
@@ -27855,28 +27855,28 @@
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
           "day": "T",
           "slot": 1,
-          "room": "VYKM4"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
           "day": "T",
           "slot": 2,
-          "room": "VYKM4"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
           "day": "F",
           "slot": 7,
-          "room": "M 2180"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
           "day": "F",
           "slot": 8,
-          "room": "M 2180"
+          "room": "M 1100"
         }
       ]
     },
@@ -30229,21 +30229,21 @@
           "instructor": "CİHAT BÖRKLÜCE",
           "day": "M",
           "slot": 2,
-          "room": "HH Z04"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "CİHAT BÖRKLÜCE",
           "day": "M",
           "slot": 3,
-          "room": "HH Z04"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "CİHAT BÖRKLÜCE",
           "day": "W",
           "slot": 2,
-          "room": "TB 415"
+          "room": "NH 103"
         }
       ]
     },
@@ -30293,14 +30293,14 @@
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "T",
           "slot": 1,
-          "room": "NH 104"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "T",
           "slot": 2,
-          "room": "NH 104"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
@@ -30709,21 +30709,21 @@
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "T",
           "slot": 5,
-          "room": "NH 404"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "Th",
           "slot": 6,
-          "room": "NH 302"
+          "room": "İB 100"
         },
         {
           "type": "LECT",
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "Th",
           "slot": 7,
-          "room": "NH 302"
+          "room": "İB 100"
         }
       ]
     },
@@ -31157,21 +31157,21 @@
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 5,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 6,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 7,
-          "room": ""
+          "room": "EF 111"
         }
       ]
     },
@@ -31189,21 +31189,21 @@
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "ET B513"
         },
         {
           "type": "LECT",
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 9,
-          "room": ""
+          "room": "ET B513"
         },
         {
           "type": "LECT",
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 10,
-          "room": ""
+          "room": "ET B513"
         }
       ]
     },
@@ -31221,28 +31221,28 @@
           "instructor": "MUHAMMET ARICAN",
           "day": "W",
           "slot": 1,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "W",
           "slot": 2,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "W",
           "slot": 3,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "W",
           "slot": 4,
-          "room": ""
+          "room": "ET B715-1"
         }
       ]
     },
@@ -31736,7 +31736,7 @@
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 8,
-          "room": "EF 116"
+          "room": "NH 304"
         }
       ]
     },
@@ -33141,7 +33141,7 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 2,
-          "room": "M 1100"
+          "room": "HH Z17"
         },
         {
           "type": "LECT",
@@ -38166,28 +38166,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "M",
           "slot": 1,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "M",
           "slot": 2,
           "room": "NH 105"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 1,
           "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 2,
           "room": "HD 301 (SALON1)"
@@ -38387,6 +38387,16 @@
     {
       "code": "MATH490",
       "section": "04",
+      "department": "MATHEMATICS",
+      "departmentCode": "MATH",
+      "name": "PROJECT",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "MATH490",
+      "section": "05",
       "department": "MATHEMATICS",
       "departmentCode": "MATH",
       "name": "PROJECT",
@@ -40117,14 +40127,14 @@
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "M",
           "slot": 5,
-          "room": ""
+          "room": "EF 304"
         },
         {
           "type": "LECT",
           "instructor": "GAYE DEFNE CEYHAN",
           "day": "M",
           "slot": 6,
-          "room": ""
+          "room": "EF 304"
         }
       ]
     },
@@ -40192,14 +40202,14 @@
           "instructor": "MUHAMMET ARICAN",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 304"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "EF 304"
         }
       ]
     },
@@ -40217,14 +40227,14 @@
           "instructor": "ENGİN ADER",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "ENGİN ADER",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "EF 03"
         }
       ]
     },
@@ -40242,14 +40252,14 @@
           "instructor": "SERKAN ÖZEL",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "ET B415"
         },
         {
           "type": "LECT",
           "instructor": "SERKAN ÖZEL",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "ET B415"
         }
       ]
     },
@@ -40267,14 +40277,14 @@
           "instructor": "SERKAN ARIKAN",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "SERKAN ARIKAN",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "ET B715-2"
         }
       ]
     },
@@ -40292,14 +40302,14 @@
           "instructor": "KEMAL AKOĞLU",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 02"
         },
         {
           "type": "LECT",
           "instructor": "KEMAL AKOĞLU",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "EF 02"
         }
       ]
     },
@@ -40317,14 +40327,14 @@
           "instructor": "YEŞİM İMAMOĞLU",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "YEŞİM İMAMOĞLU",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "ET B715-1"
         }
       ]
     },
@@ -40342,14 +40352,14 @@
           "instructor": "GÜLSEREN KARAGÖZ AKAR",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 316"
         },
         {
           "type": "LECT",
           "instructor": "GÜLSEREN KARAGÖZ AKAR",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "EF 316"
         }
       ]
     },
@@ -40445,21 +40455,21 @@
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
           "slot": 4,
-          "room": "EF 302"
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
           "slot": 5,
-          "room": "EF 302"
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "DEVRİM GÜVEN",
           "day": "W",
           "slot": 6,
-          "room": "EF 302"
+          "room": "ET B715-2"
         }
       ]
     },
@@ -40509,21 +40519,21 @@
           "instructor": "EMİNE ADADAN",
           "day": "T",
           "slot": 1,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE ADADAN",
           "day": "T",
           "slot": 2,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE ADADAN",
           "day": "T",
           "slot": 3,
-          "room": ""
+          "room": "EF 111"
         }
       ]
     },
@@ -40541,21 +40551,21 @@
           "instructor": "MUHAMMET ARICAN",
           "day": "T",
           "slot": 2,
-          "room": ""
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "T",
           "slot": 3,
-          "room": ""
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "MUHAMMET ARICAN",
           "day": "T",
           "slot": 4,
-          "room": ""
+          "room": "ET B715-2"
         }
       ]
     },
@@ -40573,21 +40583,21 @@
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 5,
-          "room": ""
+          "room": "EF 306"
         },
         {
           "type": "LECT",
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 6,
-          "room": ""
+          "room": "EF 306"
         },
         {
           "type": "LECT",
           "instructor": "İBRAHİM DELEN",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 306"
         }
       ]
     },
@@ -40605,21 +40615,21 @@
           "instructor": "SERKAN ARIKAN",
           "day": "W",
           "slot": 6,
-          "room": ""
+          "room": "ET B509"
         },
         {
           "type": "LECT",
           "instructor": "SERKAN ARIKAN",
           "day": "W",
           "slot": 7,
-          "room": ""
+          "room": "ET B509"
         },
         {
           "type": "LECT",
           "instructor": "SERKAN ARIKAN",
           "day": "W",
           "slot": 8,
-          "room": ""
+          "room": "ET B509"
         }
       ]
     },
@@ -40637,21 +40647,21 @@
           "instructor": "HAKAN AKÇAY",
           "day": "M",
           "slot": 3,
-          "room": ""
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "HAKAN AKÇAY",
           "day": "M",
           "slot": 4,
-          "room": ""
+          "room": "ET B715-2"
         },
         {
           "type": "LECT",
           "instructor": "HAKAN AKÇAY",
           "day": "M",
           "slot": 5,
-          "room": ""
+          "room": "ET B715-2"
         }
       ]
     },
@@ -40669,7 +40679,7 @@
           "instructor": "OĞUZ KÖKLÜ",
           "day": "T",
           "slot": 9,
-          "room": ""
+          "room": "EF 306"
         }
       ]
     },
@@ -40687,21 +40697,21 @@
           "instructor": "KEMAL AKOĞLU",
           "day": "T",
           "slot": 2,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "KEMAL AKOĞLU",
           "day": "T",
           "slot": 3,
-          "room": ""
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "KEMAL AKOĞLU",
           "day": "T",
           "slot": 4,
-          "room": ""
+          "room": "ET B715-1"
         }
       ]
     },
@@ -40719,21 +40729,21 @@
           "instructor": "SEVDA YERDELEN DAMAR",
           "day": "T",
           "slot": 5,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "SEVDA YERDELEN DAMAR",
           "day": "T",
           "slot": 6,
-          "room": ""
+          "room": "EF 111"
         },
         {
           "type": "LECT",
           "instructor": "SEVDA YERDELEN DAMAR",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "EF 111"
         }
       ]
     },
@@ -40981,7 +40991,7 @@
           "instructor": "OĞUZ KÖKLÜ",
           "day": "T",
           "slot": 10,
-          "room": ""
+          "room": "EF 306"
         }
       ]
     },
@@ -41214,14 +41224,14 @@
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 3,
-          "room": "M 2171"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 4,
-          "room": "M 2171"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
@@ -41370,7 +41380,7 @@
           "instructor": "OSMAN SAFA ÇİFÇİ",
           "day": "T",
           "slot": 2,
-          "room": "M 2171"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
@@ -41416,14 +41426,14 @@
           "instructor": "KUNT ATALIK",
           "day": "W",
           "slot": 7,
-          "room": "M 1170"
+          "room": "M 2152"
         },
         {
           "type": "LECT",
           "instructor": "KUNT ATALIK",
           "day": "W",
           "slot": 8,
-          "room": "M 1170"
+          "room": "M 2152"
         }
       ]
     },
@@ -47525,28 +47535,28 @@
           "instructor": "HAKAN  ERKOL",
           "day": "M",
           "slot": 1,
-          "room": "NH 001"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "HAKAN  ERKOL",
           "day": "M",
           "slot": 2,
-          "room": "NH 001"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "HAKAN  ERKOL",
           "day": "W",
           "slot": 1,
-          "room": "KB Z01"
+          "room": "NH 105"
         },
         {
           "type": "LECT",
           "instructor": "HAKAN  ERKOL",
           "day": "W",
           "slot": 2,
-          "room": "KB Z01"
+          "room": "NH 105"
         }
       ]
     },
@@ -47890,14 +47900,14 @@
           "instructor": "EMRE KUŞAKCI",
           "day": "Th",
           "slot": 1,
-          "room": "NH 001"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "EMRE KUŞAKCI",
           "day": "Th",
           "slot": 2,
-          "room": "NH 001"
+          "room": "NH 401"
         }
       ]
     },
@@ -47929,14 +47939,14 @@
           "instructor": "EMRE KUŞAKCI",
           "day": "Th",
           "slot": 3,
-          "room": "NH 001"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "EMRE KUŞAKCI",
           "day": "Th",
           "slot": 4,
-          "room": "NH 001"
+          "room": "NH 401"
         }
       ]
     },
@@ -48181,14 +48191,14 @@
           "instructor": "LEVENT AKANT",
           "day": "T",
           "slot": 5,
-          "room": "NH 401"
+          "room": "NH 102"
         },
         {
           "type": "LECT",
           "instructor": "LEVENT AKANT",
           "day": "T",
           "slot": 6,
-          "room": "NH 401"
+          "room": "NH 102"
         },
         {
           "type": "LECT",
@@ -50714,14 +50724,14 @@
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "T",
           "slot": 1,
-          "room": "M 1171"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "T",
           "slot": 2,
-          "room": "M 1171"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
@@ -64560,7 +64570,7 @@
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 7,
-          "room": "EF 116"
+          "room": "NH 304"
         }
       ]
     },
@@ -65969,21 +65979,21 @@
           "instructor": "MACİD AYHAN MELEKOĞLU",
           "day": "T",
           "slot": 5,
-          "room": "EF 116"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "MACİD AYHAN MELEKOĞLU",
           "day": "T",
           "slot": 6,
-          "room": "EF 116"
+          "room": "NH 401"
         },
         {
           "type": "LECT",
           "instructor": "MACİD AYHAN MELEKOĞLU",
           "day": "Th",
           "slot": 7,
-          "room": "EF 106"
+          "room": "NH 401"
         }
       ]
     },
