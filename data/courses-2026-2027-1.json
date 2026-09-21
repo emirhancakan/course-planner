@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-19T07:56:51",
+  "generatedAt": "2026-09-21T08:46:47",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -10057,7 +10057,7 @@
           "instructor": "BAHRİ ATAY ÖZGÖVDE",
           "day": "W",
           "slot": 4,
-          "room": "BM A6"
+          "room": "BM A4"
         }
       ]
     },
@@ -15708,28 +15708,28 @@
           "instructor": "ŞEYDA ERUYAR",
           "day": "T",
           "slot": 4,
-          "room": ""
+          "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "T",
           "slot": 5,
-          "room": ""
+          "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "Th",
           "slot": 5,
-          "room": ""
+          "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "Th",
           "slot": 6,
-          "room": ""
+          "room": "EF 402 (LAB)"
         }
       ]
     },
@@ -29842,21 +29842,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "HARUN MURATOĞULLARI",
+          "instructor": "HASAN BASRİ BÜLBÜL",
           "day": "M",
           "slot": 7,
           "room": "M 3100"
         },
         {
           "type": "LECT",
-          "instructor": "HARUN MURATOĞULLARI",
+          "instructor": "HASAN BASRİ BÜLBÜL",
           "day": "M",
           "slot": 8,
           "room": "M 3100"
         },
         {
           "type": "LECT",
-          "instructor": "HARUN MURATOĞULLARI",
+          "instructor": "HASAN BASRİ BÜLBÜL",
           "day": "W",
           "slot": 9,
           "room": "JF 333"
@@ -30066,21 +30066,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUSTAFA AKGÜN",
           "day": "T",
           "slot": 3,
           "room": "M 2180"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUSTAFA AKGÜN",
           "day": "T",
           "slot": 4,
           "room": "M 2180"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUSTAFA AKGÜN",
           "day": "F",
           "slot": 3,
           "room": "M 2180"
@@ -30098,21 +30098,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HARUN MURATOĞULLARI",
           "day": "M",
           "slot": 7,
           "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HARUN MURATOĞULLARI",
           "day": "M",
           "slot": 8,
           "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "HARUN MURATOĞULLARI",
           "day": "W",
           "slot": 9,
           "room": "HH Z04"
@@ -30997,7 +30997,7 @@
           "instructor": "SERKAN KAYA",
           "day": "T",
           "slot": 4,
-          "room": "NH 404"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
@@ -39130,21 +39130,21 @@
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 3,
-          "room": "EF 216"
+          "room": "EF 07"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 4,
-          "room": "EF 216"
+          "room": "EF 07"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 8,
-          "room": "EF 204"
+          "room": "EF 07"
         }
       ]
     },
@@ -39914,28 +39914,28 @@
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 1,
-          "room": "ET B415"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 2,
-          "room": "ET B415"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 1,
-          "room": "ET B415"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 2,
-          "room": "ET B415"
+          "room": "ET 01"
         }
       ]
     },
@@ -43390,28 +43390,28 @@
           "instructor": "ARZU ÇELİK",
           "day": "M",
           "slot": 1,
-          "room": ""
+          "room": "KP 01"
         },
         {
           "type": "LECT",
           "instructor": "ARZU ÇELİK",
           "day": "M",
           "slot": 2,
-          "room": ""
+          "room": "KP 01"
         },
         {
           "type": "LECT",
           "instructor": "ARZU ÇELİK",
           "day": "W",
           "slot": 1,
-          "room": ""
+          "room": "KP 01"
         },
         {
           "type": "LECT",
           "instructor": "ARZU ÇELİK",
           "day": "W",
           "slot": 2,
-          "room": ""
+          "room": "KP 01"
         }
       ]
     },
@@ -43429,7 +43429,7 @@
           "instructor": "ARZU ÇELİK",
           "day": "W",
           "slot": 6,
-          "room": ""
+          "room": "ET 01"
         }
       ]
     },
@@ -43812,14 +43812,14 @@
           "instructor": "STEVEN FOOTITT",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "KP 06"
         },
         {
           "type": "LECT",
           "instructor": "STEVEN FOOTITT",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "KP 06"
         }
       ]
     },
@@ -53074,21 +53074,21 @@
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 7,
-          "room": "EF 03"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 8,
-          "room": "EF 03"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 9,
-          "room": "EF 03"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
