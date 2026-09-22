@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-21T08:46:47",
+  "generatedAt": "2026-09-22T08:25:06",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5081,35 +5081,35 @@
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "W",
           "slot": 3,
-          "room": "KB 126"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "W",
           "slot": 4,
-          "room": "KB 126"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "F",
           "slot": 3,
-          "room": "KB 126"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "F",
           "slot": 4,
-          "room": "KB 126"
+          "room": "NH 001"
         },
         {
           "type": "P.S.",
           "instructor": "ZEYNEP ATAY GÖK",
           "day": "F",
           "slot": 2,
-          "room": "KB 126"
+          "room": "NH 001"
         }
       ]
     },
@@ -6046,6 +6046,16 @@
     {
       "code": "CHEM599",
       "section": "03",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
+      "code": "CHEM599",
+      "section": "04",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
@@ -7724,21 +7734,21 @@
           "instructor": "BELİZ ÖZORHON",
           "day": "M",
           "slot": 2,
-          "room": "M 2231"
+          "room": "M 2170"
         },
         {
           "type": "LECT",
           "instructor": "BELİZ ÖZORHON",
           "day": "M",
           "slot": 3,
-          "room": "M 2231"
+          "room": "M 2170"
         },
         {
           "type": "LECT",
           "instructor": "BELİZ ÖZORHON",
           "day": "M",
           "slot": 4,
-          "room": "M 2231"
+          "room": "M 2170"
         }
       ]
     },
@@ -9317,21 +9327,21 @@
           "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 3,
-          "room": "BM B4"
+          "room": ""
         },
         {
           "type": "LAB",
           "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 4,
-          "room": "BM B4"
+          "room": ""
         },
         {
           "type": "LAB",
           "instructor": "STAFF STAFF",
           "day": "W",
           "slot": 5,
-          "room": "BM B4"
+          "room": ""
         },
         {
           "type": "P.S.",
@@ -10011,14 +10021,14 @@
           "instructor": "BERK GÖKBERK",
           "day": "M",
           "slot": 5,
-          "room": "BM B4"
+          "room": "BM B5"
         },
         {
           "type": "LECT",
           "instructor": "BERK GÖKBERK",
           "day": "M",
           "slot": 6,
-          "room": "BM B4"
+          "room": "BM B5"
         },
         {
           "type": "LECT",
@@ -10043,21 +10053,21 @@
           "instructor": "BAHRİ ATAY ÖZGÖVDE",
           "day": "M",
           "slot": 5,
-          "room": "BM A6"
+          "room": "BM B3"
         },
         {
           "type": "LECT",
           "instructor": "BAHRİ ATAY ÖZGÖVDE",
           "day": "M",
           "slot": 6,
-          "room": "BM A6"
+          "room": "BM B3"
         },
         {
           "type": "LECT",
           "instructor": "BAHRİ ATAY ÖZGÖVDE",
           "day": "W",
           "slot": 4,
-          "room": "BM A4"
+          "room": "BM B3"
         }
       ]
     },
@@ -10593,7 +10603,7 @@
           "instructor": "ŞEFİK ŞUAYB ARSLAN",
           "day": "M",
           "slot": 5,
-          "room": "BM B3"
+          "room": "BM A6"
         },
         {
           "type": "LECT",
@@ -11247,6 +11257,59 @@
           "instructor": "HÜSEYİN BİRKAN YILMAZ",
           "day": "F",
           "slot": 4,
+          "room": ""
+        }
+      ]
+    },
+    {
+      "code": "CMPE599",
+      "section": "16",
+      "department": "COMPUTER ENGINEERING",
+      "departmentCode": "CMPE",
+      "name": "GUIDED RESEARCH IN MS-I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 3,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 4,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 5,
+          "room": ""
+        },
+        {
+          "type": "LAB",
+          "instructor": "BAHRİ ATAY ÖZGÖVDE",
+          "day": "F",
+          "slot": 6,
           "room": ""
         }
       ]
@@ -14012,38 +14075,6 @@
       ]
     },
     {
-      "code": "EC  101",
-      "section": "10",
-      "department": "ECONOMICS",
-      "departmentCode": "EC",
-      "name": "PRINCIPLES OF MICROECONOMICS",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 5,
-          "room": "HD 101 (SALON3)"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 6,
-          "room": "HD 101 (SALON3)"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "Th",
-          "slot": 5,
-          "room": "NH 105"
-        }
-      ]
-    },
-    {
       "code": "EC  103",
       "section": "01",
       "department": "ECONOMICS",
@@ -15708,28 +15739,28 @@
           "instructor": "ŞEYDA ERUYAR",
           "day": "T",
           "slot": 4,
-          "room": "EF 402 (LAB)"
+          "room": "EF 303"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "T",
           "slot": 5,
-          "room": "EF 402 (LAB)"
+          "room": "EF 303"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "Th",
           "slot": 5,
-          "room": "EF 402 (LAB)"
+          "room": "EF 303"
         },
         {
           "type": "LECT",
           "instructor": "ŞEYDA ERUYAR",
           "day": "Th",
           "slot": 6,
-          "room": "EF 402 (LAB)"
+          "room": "EF 303"
         }
       ]
     },
@@ -19102,7 +19133,7 @@
           "instructor": "NADİM COPTY",
           "day": "M",
           "slot": 3,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 101 (SALON3)"
         },
         {
           "type": "LECT",
@@ -19760,21 +19791,21 @@
           "instructor": "BERAT HAZNEDAROĞLU",
           "day": "F",
           "slot": 6,
-          "room": "HC 201"
+          "room": "HC 214"
         },
         {
           "type": "LECT",
           "instructor": "BERAT HAZNEDAROĞLU",
           "day": "F",
           "slot": 7,
-          "room": "HC 201"
+          "room": "HC 214"
         },
         {
           "type": "LECT",
           "instructor": "BERAT HAZNEDAROĞLU",
           "day": "F",
           "slot": 8,
-          "room": "HC 201"
+          "room": "HC 214"
         }
       ]
     },
@@ -30517,7 +30548,7 @@
           "instructor": "RAMI KOUJAH",
           "day": "M",
           "slot": 4,
-          "room": "M 2170"
+          "room": "İB 201"
         },
         {
           "type": "LECT",
@@ -31108,38 +31139,6 @@
           "day": "W",
           "slot": 3,
           "room": "İB 103"
-        }
-      ]
-    },
-    {
-      "code": "LAW 483",
-      "section": "01",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "SPECİAL TOPICS LEGAL SOCIOLOGY",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "RAMI KOUJAH",
-          "day": "M",
-          "slot": 2,
-          "room": "M 2170"
-        },
-        {
-          "type": "LECT",
-          "instructor": "RAMI KOUJAH",
-          "day": "M",
-          "slot": 3,
-          "room": "M 2170"
-        },
-        {
-          "type": "LECT",
-          "instructor": "RAMI KOUJAH",
-          "day": "W",
-          "slot": 2,
-          "room": "JF 334"
         }
       ]
     },
@@ -31793,14 +31792,14 @@
           "instructor": "ÖMER DEMİROK",
           "day": "M",
           "slot": 7,
-          "room": "TB 121"
+          "room": "NH 103"
         },
         {
           "type": "LECT",
           "instructor": "ÖMER DEMİROK",
           "day": "M",
           "slot": 8,
-          "room": "TB 121"
+          "room": "NH 103"
         },
         {
           "type": "LECT",
@@ -33638,14 +33637,14 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 4,
-          "room": "NH 303"
+          "room": "İB 204"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 5,
-          "room": "NH 303"
+          "room": "İB 204"
         },
         {
           "type": "LECT",
@@ -37393,28 +37392,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "T",
           "slot": 1,
           "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "T",
           "slot": 2,
           "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "Th",
           "slot": 1,
           "room": "NH 301"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "Th",
           "slot": 2,
           "room": "NH 301"
@@ -37744,28 +37743,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "REDI HADERI",
           "day": "M",
           "slot": 3,
           "room": "TB 310"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "REDI HADERI",
           "day": "M",
           "slot": 4,
           "room": "TB 310"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "REDI HADERI",
           "day": "W",
           "slot": 3,
           "room": "TB 310"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "REDI HADERI",
           "day": "W",
           "slot": 4,
           "room": "TB 310"
@@ -37783,28 +37782,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "CRAIG CHARLES  VAN COEVERING",
+          "instructor": "REDI HADERI",
           "day": "M",
           "slot": 1,
           "room": "NH 301"
         },
         {
           "type": "LECT",
-          "instructor": "CRAIG CHARLES  VAN COEVERING",
+          "instructor": "REDI HADERI",
           "day": "M",
           "slot": 2,
           "room": "NH 301"
         },
         {
           "type": "LECT",
-          "instructor": "CRAIG CHARLES  VAN COEVERING",
+          "instructor": "REDI HADERI",
           "day": "W",
           "slot": 1,
           "room": "NH 101"
         },
         {
           "type": "LECT",
-          "instructor": "CRAIG CHARLES  VAN COEVERING",
+          "instructor": "REDI HADERI",
           "day": "W",
           "slot": 2,
           "room": "NH 101"
@@ -38851,7 +38850,29 @@
       "name": "SELECTED TOPİCS İN MATHEMATİCS:AN İNTRODUCTİON TO CONDENSED MATHEMATİCS",
       "credit": 3,
       "ects": 10,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "KAZIM İLHAN İKEDA",
+          "day": "M",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "KAZIM İLHAN İKEDA",
+          "day": "M",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "KAZIM İLHAN İKEDA",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "MATH68G",
@@ -39605,7 +39626,7 @@
           "instructor": "SERKAN ARIKAN",
           "day": "T",
           "slot": 2,
-          "room": "EF 102"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
@@ -40227,14 +40248,14 @@
           "instructor": "ENGİN ADER",
           "day": "T",
           "slot": 7,
-          "room": "EF 03"
+          "room": "ET B407"
         },
         {
           "type": "LECT",
           "instructor": "ENGİN ADER",
           "day": "T",
           "slot": 8,
-          "room": "EF 03"
+          "room": "ET B407"
         }
       ]
     },
@@ -42756,6 +42777,16 @@
       "meetings": []
     },
     {
+      "code": "ME  69A",
+      "section": "01",
+      "department": "MECHANICAL ENGINEERING",
+      "departmentCode": "ME",
+      "name": "GUIDED RESEARCH II",
+      "credit": 0,
+      "ects": 8,
+      "meetings": []
+    },
+    {
       "code": "ME  700",
       "section": "01",
       "department": "MECHANICAL ENGINEERING",
@@ -44869,7 +44900,7 @@
           "instructor": "BARRY STOCKER",
           "day": "M",
           "slot": 4,
-          "room": "HD 101 (SALON3)"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
@@ -48074,14 +48105,14 @@
           "instructor": "ERSAN DEMİRALP",
           "day": "T",
           "slot": 7,
-          "room": "NH 002"
+          "room": "NH 105"
         },
         {
           "type": "LECT",
           "instructor": "ERSAN DEMİRALP",
           "day": "T",
           "slot": 8,
-          "room": "NH 002"
+          "room": "NH 105"
         },
         {
           "type": "LECT",
@@ -50067,21 +50098,21 @@
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "T",
           "slot": 4,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "T",
           "slot": 5,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "T",
           "slot": 6,
-          "room": ""
+          "room": "İB 512"
         }
       ]
     },
@@ -50125,7 +50156,29 @@
       "name": "CURRENT ISSUES IN WORLD POLITICS I",
       "credit": 3,
       "ects": 7,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "GÜLNUR AYBET",
+          "day": "Th",
+          "slot": 7,
+          "room": "İB 512"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GÜLNUR AYBET",
+          "day": "Th",
+          "slot": 8,
+          "room": "İB 512"
+        },
+        {
+          "type": "LECT",
+          "instructor": "GÜLNUR AYBET",
+          "day": "Th",
+          "slot": 9,
+          "room": "İB 512"
+        }
+      ]
     },
     {
       "code": "POLS527",
@@ -50173,21 +50226,21 @@
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 4,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 5,
-          "room": ""
+          "room": "İB 512"
         },
         {
           "type": "LECT",
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 6,
-          "room": ""
+          "room": "İB 512"
         }
       ]
     },
@@ -50788,14 +50841,14 @@
           "instructor": "SAFA KEMAL KAPTAN",
           "day": "T",
           "slot": 7,
-          "room": "NH 105"
+          "room": "EF 106"
         },
         {
           "type": "LECT",
           "instructor": "SAFA KEMAL KAPTAN",
           "day": "T",
           "slot": 8,
-          "room": "NH 105"
+          "room": "EF 106"
         },
         {
           "type": "LECT",
@@ -55502,14 +55555,14 @@
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 1,
-          "room": "JF 331"
+          "room": "JF 332"
         },
         {
           "type": "LECT",
           "instructor": "FİGEN STEINECKE",
           "day": "Th",
           "slot": 2,
-          "room": "JF 331"
+          "room": "JF 332"
         }
       ]
     },
@@ -55676,14 +55729,14 @@
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "M",
           "slot": 3,
-          "room": "KP 03"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "M",
           "slot": 4,
-          "room": "KP 03"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
@@ -57067,14 +57120,14 @@
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "M",
           "slot": 5,
-          "room": "KP 03"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
           "instructor": "EMİNE CEYLAN TÖZEREN YILMAZ",
           "day": "M",
           "slot": 6,
-          "room": "KP 03"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
@@ -57872,6 +57925,106 @@
           "room": "ET 03"
         }
       ]
+    },
+    {
+      "code": "SFL RL1",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL LISTENING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RL1",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL LISTENING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RL1",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL LISTENING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RL1",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL LISTENING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RL1",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL LISTENING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RR1",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL READING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RR1",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL READING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RR1",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL READING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RR1",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL READING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL RR1",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "REMEDIAL READING",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
     },
     {
       "code": "SPA 101",
@@ -58838,21 +58991,21 @@
           "instructor": "AYŞE POLAT",
           "day": "M",
           "slot": 2,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE POLAT",
           "day": "M",
           "slot": 3,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 301 (SALON1)"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE POLAT",
           "day": "Th",
           "slot": 5,
-          "room": "NH 405"
+          "room": "HD 301 (SALON1)"
         }
       ]
     },
@@ -64279,14 +64432,14 @@
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 3,
-          "room": "EF 02"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 4,
-          "room": "EF 02"
+          "room": "M 2171"
         }
       ]
     },
@@ -64311,21 +64464,21 @@
           "instructor": "Z.CEYDA ARSLAN",
           "day": "T",
           "slot": 6,
-          "room": "EF 202"
+          "room": "JF 333"
         },
         {
           "type": "LECT",
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 5,
-          "room": "EF 02"
+          "room": "TB 155"
         },
         {
           "type": "LECT",
           "instructor": "Z.CEYDA ARSLAN",
           "day": "W",
           "slot": 6,
-          "room": "EF 02"
+          "room": "TB 155"
         }
       ]
     },
