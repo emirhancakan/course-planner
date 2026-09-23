@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-22T08:25:06",
+  "generatedAt": "2026-09-23T08:26:40",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5873,21 +5873,21 @@
           "instructor": "SAMİM SANER",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "KB 126"
         },
         {
           "type": "LECT",
           "instructor": "SAMİM SANER",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "KB 126"
         },
         {
           "type": "LECT",
           "instructor": "SAMİM SANER",
           "day": "T",
           "slot": 9,
-          "room": ""
+          "room": "KB 126"
         }
       ]
     },
@@ -9628,7 +9628,7 @@
           "instructor": "CEM ERSOY",
           "day": "T",
           "slot": 6,
-          "room": "KB Z01"
+          "room": "BM A2"
         },
         {
           "type": "LECT",
@@ -14650,7 +14650,7 @@
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
           "slot": 5,
-          "room": "İB 201"
+          "room": "HH Z07"
         },
         {
           "type": "LECT",
@@ -14714,21 +14714,21 @@
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
           "slot": 7,
-          "room": "İB 211"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
           "slot": 8,
-          "room": "İB 211"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
           "slot": 9,
-          "room": "İB 211"
+          "room": "HH 120"
         }
       ]
     },
@@ -14760,7 +14760,7 @@
           "instructor": "BEGÜM ÖZKAYNAK",
           "day": "W",
           "slot": 4,
-          "room": "NH 401"
+          "room": "EF 302"
         }
       ]
     },
@@ -22037,7 +22037,7 @@
           "instructor": "ŞEBNEM YALÇIN",
           "day": "W",
           "slot": 1,
-          "room": "EF 07"
+          "room": "EF 116"
         }
       ]
     },
@@ -22650,14 +22650,14 @@
           "instructor": "YASSER TEIMOURI",
           "day": "W",
           "slot": 1,
-          "room": "EF 103"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "YASSER TEIMOURI",
           "day": "W",
           "slot": 2,
-          "room": "EF 103"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
@@ -25680,7 +25680,7 @@
           "instructor": "YÜCEL TERZİBAŞOĞLU",
           "day": "T",
           "slot": 7,
-          "room": "M 1100"
+          "room": "TB 490"
         },
         {
           "type": "LECT",
@@ -29972,14 +29972,14 @@
           "instructor": "TÜRKAN GÜLCE BUDAK",
           "day": "T",
           "slot": 7,
-          "room": "EF 206"
+          "room": "NH 102"
         },
         {
           "type": "LECT",
           "instructor": "TÜRKAN GÜLCE BUDAK",
           "day": "T",
           "slot": 8,
-          "room": "EF 206"
+          "room": "NH 102"
         },
         {
           "type": "LECT",
@@ -30708,7 +30708,7 @@
           "instructor": "AYŞE DİDEM SEZGİN",
           "day": "T",
           "slot": 3,
-          "room": "NH 404"
+          "room": "İB 201"
         },
         {
           "type": "LECT",
@@ -31028,7 +31028,7 @@
           "instructor": "SERKAN KAYA",
           "day": "T",
           "slot": 4,
-          "room": "M 2171"
+          "room": "HH Z08"
         },
         {
           "type": "LECT",
@@ -31060,7 +31060,7 @@
           "instructor": "ÖMER ERKUT BULUT",
           "day": "T",
           "slot": 7,
-          "room": "TB 490"
+          "room": "TB 240"
         },
         {
           "type": "LECT",
@@ -31863,28 +31863,28 @@
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 4,
-          "room": "EF 203"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 5,
-          "room": "EF 203"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 4,
-          "room": "TB 415"
+          "room": "HH Z08"
         },
         {
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 5,
-          "room": "TB 415"
+          "room": "HH Z08"
         }
       ]
     },
@@ -37980,28 +37980,28 @@
           "instructor": "ARZU BOYSAL",
           "day": "T",
           "slot": 1,
-          "room": "M 2170"
+          "room": "VYKM1"
         },
         {
           "type": "LECT",
           "instructor": "ARZU BOYSAL",
           "day": "T",
           "slot": 2,
-          "room": "M 2170"
+          "room": "VYKM1"
         },
         {
           "type": "LECT",
           "instructor": "ARZU BOYSAL",
           "day": "Th",
           "slot": 1,
-          "room": "M 2170"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
           "instructor": "ARZU BOYSAL",
           "day": "Th",
           "slot": 2,
-          "room": "M 2170"
+          "room": "M 1100"
         }
       ]
     },
@@ -39633,14 +39633,14 @@
           "instructor": "SERKAN ARIKAN",
           "day": "W",
           "slot": 3,
-          "room": "EF 103"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "SERKAN ARIKAN",
           "day": "W",
           "slot": 4,
-          "room": "EF 103"
+          "room": "EF 104"
         }
       ]
     },
@@ -41245,14 +41245,14 @@
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 3,
-          "room": "VYKM3"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM ÖZÜPEK",
           "day": "T",
           "slot": 4,
-          "room": "VYKM3"
+          "room": "M 2171"
         },
         {
           "type": "LECT",
@@ -48533,21 +48533,21 @@
           "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 7,
-          "room": "EF 101"
+          "room": "KB 316"
         },
         {
           "type": "LECT",
           "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 8,
-          "room": "EF 101"
+          "room": "KB 316"
         },
         {
           "type": "LECT",
           "instructor": "B.GÜLEN AKTAŞ",
           "day": "W",
           "slot": 9,
-          "room": "EF 101"
+          "room": "KB 316"
         }
       ]
     },
@@ -49473,7 +49473,7 @@
           "instructor": "LEVENT KURNAZ",
           "day": "T",
           "slot": 7,
-          "room": "NH 302"
+          "room": "NH 402"
         },
         {
           "type": "LECT",
@@ -55143,59 +55143,6 @@
       ]
     },
     {
-      "code": "GER 101",
-      "section": "04",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "ELEMENTARY GERMAN I",
-      "credit": 3,
-      "ects": 7,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 3,
-          "room": "KB SHANNON-232"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 4,
-          "room": "KB SHANNON-232"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 5,
-          "room": "KB SHANNON-232"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "W",
-          "slot": 3,
-          "room": "HH 207"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "W",
-          "slot": 4,
-          "room": "HH 207"
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "W",
-          "slot": 5,
-          "room": "HH 207"
-        }
-      ]
-    },
-    {
       "code": "GER 102",
       "section": "01",
       "department": "SCHOOL OF FOREIGN LANGUAGES",
@@ -57173,14 +57120,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 1,
-          "room": "EF 104"
+          "room": "EF 103"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 2,
-          "room": "EF 104"
+          "room": "EF 103"
         },
         {
           "type": "LECT",
@@ -57226,14 +57173,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 3,
-          "room": "EF 104"
+          "room": "EF 103"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 4,
-          "room": "EF 104"
+          "room": "EF 103"
         },
         {
           "type": "LECT",
