@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-23T08:26:40",
+  "generatedAt": "2026-09-24T08:19:02",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5310,7 +5310,7 @@
           "instructor": "AYŞE NEREN ÖKTE",
           "day": "T",
           "slot": 5,
-          "room": "EF 101"
+          "room": "EF 205"
         }
       ]
     },
@@ -14330,14 +14330,14 @@
           "instructor": "MURAT KOYUNCU",
           "day": "M",
           "slot": 4,
-          "room": "EF 116"
+          "room": "NH 302"
         },
         {
           "type": "LECT",
           "instructor": "MURAT KOYUNCU",
           "day": "M",
           "slot": 5,
-          "room": "EF 116"
+          "room": "NH 302"
         },
         {
           "type": "LECT",
@@ -15041,14 +15041,14 @@
           "instructor": "MURAT KOYUNCU",
           "day": "M",
           "slot": 2,
-          "room": "EF 103"
+          "room": "NH 302"
         },
         {
           "type": "LECT",
           "instructor": "MURAT KOYUNCU",
           "day": "M",
           "slot": 3,
-          "room": "EF 103"
+          "room": "NH 302"
         },
         {
           "type": "LECT",
@@ -21785,14 +21785,14 @@
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 6,
-          "room": "NH 203"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 7,
-          "room": "NH 203"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
@@ -22119,14 +22119,14 @@
           "instructor": "SUMRU AKCAN",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 205"
         },
         {
           "type": "LECT",
           "instructor": "SUMRU AKCAN",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "EF 205"
         },
         {
           "type": "LAB",
@@ -22165,14 +22165,14 @@
           "instructor": "BELMA HAZNEDAR",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 206"
         },
         {
           "type": "LECT",
           "instructor": "BELMA HAZNEDAR",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "EF 206"
         },
         {
           "type": "LAB",
@@ -22257,14 +22257,14 @@
           "instructor": "SİBEL TATAR",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 02"
         },
         {
           "type": "LECT",
           "instructor": "SİBEL TATAR",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "EF 02"
         },
         {
           "type": "LAB",
@@ -22395,14 +22395,14 @@
           "instructor": "ŞEBNEM YALÇIN",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 202"
         },
         {
           "type": "LECT",
           "instructor": "ŞEBNEM YALÇIN",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "EF 202"
         },
         {
           "type": "LAB",
@@ -22441,14 +22441,14 @@
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 204"
         },
         {
           "type": "LECT",
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "Th",
           "slot": 8,
-          "room": ""
+          "room": "EF 204"
         },
         {
           "type": "LAB",
@@ -22533,28 +22533,28 @@
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "T",
           "slot": 6,
-          "room": "EF 201"
+          "room": "EF 416 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "T",
           "slot": 7,
-          "room": "EF 201"
+          "room": "EF 416 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "Th",
           "slot": 2,
-          "room": "EF 05"
+          "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "Th",
           "slot": 3,
-          "room": "EF 05"
+          "room": "EF 402 (LAB)"
         }
       ]
     },
@@ -22572,28 +22572,28 @@
           "instructor": "YASSER TEIMOURI",
           "day": "T",
           "slot": 2,
-          "room": "EF 101"
+          "room": "EF 404 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "YASSER TEIMOURI",
           "day": "T",
           "slot": 3,
-          "room": "EF 101"
+          "room": "EF 404 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "YASSER TEIMOURI",
           "day": "Th",
           "slot": 2,
-          "room": "EF 201"
+          "room": "EF 404 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "YASSER TEIMOURI",
           "day": "Th",
           "slot": 3,
-          "room": "EF 201"
+          "room": "EF 404 (LAB)"
         }
       ]
     },
@@ -22906,21 +22906,21 @@
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "Th",
           "slot": 5,
-          "room": ""
+          "room": "EF 416 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "Th",
           "slot": 6,
-          "room": ""
+          "room": "EF 416 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "SENEM YILDIZ ERSOY",
           "day": "Th",
           "slot": 7,
-          "room": ""
+          "room": "EF 416 (LAB)"
         }
       ]
     },
@@ -24094,14 +24094,14 @@
           "instructor": "ZEYNEP HANDE SART",
           "day": "Th",
           "slot": 7,
-          "room": "EF 06"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP HANDE SART",
           "day": "Th",
           "slot": 8,
-          "room": "EF 06"
+          "room": "EF 104"
         }
       ]
     },
@@ -25616,21 +25616,21 @@
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "T",
           "slot": 7,
-          "room": "NH 304"
+          "room": "HD 101 (SALON3)"
         },
         {
           "type": "LECT",
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "T",
           "slot": 8,
-          "room": "NH 304"
+          "room": "HD 101 (SALON3)"
         },
         {
           "type": "LECT",
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "W",
           "slot": 6,
-          "room": "NH 404"
+          "room": "HD 101 (SALON3)"
         }
       ]
     },
@@ -26471,6 +26471,38 @@
       ]
     },
     {
+      "code": "HIST573",
+      "section": "01",
+      "department": "HISTORY",
+      "departmentCode": "HIST",
+      "name": "SEMINAR ON CHINA&CENTRAL ASIA",
+      "credit": 3,
+      "ects": 7,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP HALE EROĞLU SAGER",
+          "day": "W",
+          "slot": 1,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP HALE EROĞLU SAGER",
+          "day": "W",
+          "slot": 2,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "ZEYNEP HALE EROĞLU SAGER",
+          "day": "W",
+          "slot": 3,
+          "room": ""
+        }
+      ]
+    },
+    {
       "code": "HIST574",
       "section": "01",
       "department": "HISTORY",
@@ -26846,6 +26878,16 @@
     },
     {
       "code": "HIST690",
+      "section": "11",
+      "department": "HISTORY",
+      "departmentCode": "HIST",
+      "name": "MASTER THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "HIST690",
       "section": "12",
       "department": "HISTORY",
       "departmentCode": "HIST",
@@ -26932,6 +26974,16 @@
       "name": "MASTER THESIS",
       "credit": 0,
       "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "HIST700",
+      "section": "01",
+      "department": "HISTORY",
+      "departmentCode": "HIST",
+      "name": "GRADUATE SEMINAR",
+      "credit": 0,
+      "ects": null,
       "meetings": []
     },
     {
@@ -28389,16 +28441,6 @@
     },
     {
       "code": "IE  690",
-      "section": "01",
-      "department": "INDUSTRIAL ENGINEERING",
-      "departmentCode": "IE",
-      "name": "M.S. THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "IE  690",
       "section": "02",
       "department": "INDUSTRIAL ENGINEERING",
       "departmentCode": "IE",
@@ -28505,16 +28547,6 @@
       "name": "M.S. THESIS",
       "credit": 0,
       "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "IE  790",
-      "section": "01",
-      "department": "INDUSTRIAL ENGINEERING",
-      "departmentCode": "IE",
-      "name": "Ph.D. THESIS",
-      "credit": 0,
-      "ects": 120,
       "meetings": []
     },
     {
@@ -29510,21 +29542,21 @@
           "instructor": "MEHTAP IŞIK",
           "day": "T",
           "slot": 3,
-          "room": "HH 208-SEM2"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
           "instructor": "MEHTAP IŞIK",
           "day": "T",
           "slot": 4,
-          "room": "HH 208-SEM2"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
           "instructor": "MEHTAP IŞIK",
           "day": "T",
           "slot": 5,
-          "room": "HH 208-SEM2"
+          "room": "EF 101"
         }
       ]
     },
@@ -30228,21 +30260,21 @@
           "instructor": "CÜNEYT PEKMEZ",
           "day": "W",
           "slot": 4,
-          "room": "M 1200"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "CÜNEYT PEKMEZ",
           "day": "W",
           "slot": 5,
-          "room": "M 1200"
+          "room": "NH 203"
         },
         {
           "type": "LECT",
           "instructor": "CÜNEYT PEKMEZ",
           "day": "W",
           "slot": 6,
-          "room": "M 1200"
+          "room": "NH 203"
         }
       ]
     },
@@ -30452,14 +30484,14 @@
           "instructor": "MEHMET ARTEMEL",
           "day": "T",
           "slot": 7,
-          "room": "NH 001"
+          "room": "NH 105"
         },
         {
           "type": "LECT",
           "instructor": "MEHMET ARTEMEL",
           "day": "T",
           "slot": 8,
-          "room": "NH 001"
+          "room": "NH 105"
         },
         {
           "type": "LECT",
@@ -31753,14 +31785,14 @@
           "instructor": "STEFANO CANALIS",
           "day": "T",
           "slot": 7,
-          "room": "M 2181"
+          "room": "JF 102"
         },
         {
           "type": "LECT",
           "instructor": "STEFANO CANALIS",
           "day": "T",
           "slot": 8,
-          "room": "M 2181"
+          "room": "JF 102"
         },
         {
           "type": "LECT",
@@ -33875,7 +33907,7 @@
           "instructor": "NEBAHAT NİSAN GÖKŞEN",
           "day": "W",
           "slot": 4,
-          "room": "NH 203"
+          "room": "NH 401"
         }
       ]
     },
@@ -42373,14 +42405,14 @@
           "instructor": "ÇETİN YILMAZ",
           "day": "W",
           "slot": 2,
-          "room": "M 1200"
+          "room": "VYKM6"
         },
         {
           "type": "LECT",
           "instructor": "ÇETİN YILMAZ",
           "day": "W",
           "slot": 3,
-          "room": "M 1200"
+          "room": "VYKM6"
         }
       ]
     },
@@ -45427,6 +45459,16 @@
       ]
     },
     {
+      "code": "PHIL579",
+      "section": "01",
+      "department": "PHILOSOPHY",
+      "departmentCode": "PHIL",
+      "name": "GRADUATE SEMINAR",
+      "credit": 0,
+      "ects": 10,
+      "meetings": []
+    },
+    {
       "code": "PHIL58E",
       "section": "01",
       "department": "PHILOSOPHY",
@@ -48105,14 +48147,14 @@
           "instructor": "ERSAN DEMİRALP",
           "day": "T",
           "slot": 7,
-          "room": "NH 105"
+          "room": "KB Z01"
         },
         {
           "type": "LECT",
           "instructor": "ERSAN DEMİRALP",
           "day": "T",
           "slot": 8,
-          "room": "NH 105"
+          "room": "KB Z01"
         },
         {
           "type": "LECT",
@@ -51894,6 +51936,26 @@
     {
       "code": "PSY 690",
       "section": "11",
+      "department": "PSYCHOLOGY",
+      "departmentCode": "PSY",
+      "name": "MASTER THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "PSY 690",
+      "section": "12",
+      "department": "PSYCHOLOGY",
+      "departmentCode": "PSY",
+      "name": "MASTER THESIS",
+      "credit": 0,
+      "ects": 60,
+      "meetings": []
+    },
+    {
+      "code": "PSY 690",
+      "section": "13",
       "department": "PSYCHOLOGY",
       "departmentCode": "PSY",
       "name": "MASTER THESIS",
@@ -57874,6 +57936,1046 @@
       ]
     },
     {
+      "code": "SFL 11A",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11A",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 11B",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 1 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "14",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "15",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "16",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
+      "section": "17",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "13",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "14",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "15",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "16",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21B",
+      "section": "17",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "13",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "14",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "15",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "16",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31A",
+      "section": "17",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "13",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "14",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "15",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "16",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "17",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 32B",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 SPRING B",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "01",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "02",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "03",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "04",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "05",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "06",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "07",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "09",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "10",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "11",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "12",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "SFL 41A",
+      "section": "13",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 4 FALL A",
+      "credit": 0,
+      "ects": 6,
+      "meetings": []
+    },
+    {
       "code": "SFL RL1",
       "section": "01",
       "department": "SCHOOL OF FOREIGN LANGUAGES",
@@ -59048,7 +60150,7 @@
           "instructor": "BİRAY KOLLUOĞLU",
           "day": "Th",
           "slot": 4,
-          "room": "NB B10"
+          "room": "İB 312"
         }
       ]
     },
