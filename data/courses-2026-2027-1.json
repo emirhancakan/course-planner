@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-24T08:19:02",
+  "generatedAt": "2026-09-25T08:41:48",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -4795,7 +4795,7 @@
           "instructor": "DUYGU AVCI SEMİZ",
           "day": "F",
           "slot": 4,
-          "room": "NH 103"
+          "room": "NH 105"
         },
         {
           "type": "LAB",
@@ -9246,14 +9246,14 @@
         },
         {
           "type": "LAB",
-          "instructor": "EMRE UĞUR",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
           "day": "F",
           "slot": 3,
           "room": "BM A4"
         },
         {
           "type": "LAB",
-          "instructor": "EMRE UĞUR",
+          "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
           "day": "F",
           "slot": 4,
           "room": "BM A4"
@@ -9278,28 +9278,28 @@
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "T",
           "slot": 6,
           "room": "BM A4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "T",
           "slot": 7,
           "room": "BM A4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "T",
           "slot": 8,
           "room": "BM A4"
         },
         {
           "type": "P.S.",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "M",
           "slot": 6,
           "room": "NH 401"
@@ -9324,70 +9324,70 @@
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "W",
           "slot": 3,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "W",
           "slot": 4,
           "room": ""
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "W",
           "slot": 5,
           "room": ""
         },
         {
           "type": "P.S.",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "M",
           "slot": 8,
           "room": "NH 401"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 1,
           "room": "BM B4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 2,
           "room": "BM B4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 3,
           "room": "BM B4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 6,
           "room": "BM B4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 7,
           "room": "BM B4"
         },
         {
           "type": "LAB",
-          "instructor": "STAFF STAFF",
+          "instructor": "MUHAMMED GÖLEÇ",
           "day": "F",
           "slot": 8,
           "room": "BM B4"
@@ -12663,14 +12663,14 @@
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 3,
-          "room": "M 1211"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 4,
-          "room": "M 1211"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
@@ -12691,7 +12691,7 @@
           "instructor": "MUSTAFA TAHA KOÇYİĞİT",
           "day": "M",
           "slot": 5,
-          "room": "M 1211"
+          "room": "HH 301"
         }
       ]
     },
@@ -12819,7 +12819,7 @@
           "instructor": "HÜSEYİN OKTAY ALTUN",
           "day": "W",
           "slot": 4,
-          "room": "M 1211"
+          "room": "VB 200"
         }
       ]
     },
@@ -12837,21 +12837,21 @@
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 7,
-          "room": "M 1211"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 8,
-          "room": "M 1211"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "BAŞAK TARAKTAŞ",
           "day": "M",
           "slot": 9,
-          "room": "M 1211"
+          "room": "VB 200"
         }
       ]
     },
@@ -13498,7 +13498,7 @@
           "instructor": "HÜSEYİN OKTAY ALTUN",
           "day": "W",
           "slot": 5,
-          "room": "M 1211"
+          "room": "VB 200"
         }
       ]
     },
@@ -14344,7 +14344,7 @@
           "instructor": "MURAT KOYUNCU",
           "day": "W",
           "slot": 5,
-          "room": "M 2152"
+          "room": "M 2230"
         }
       ]
     },
@@ -15055,14 +15055,14 @@
           "instructor": "MURAT KOYUNCU",
           "day": "W",
           "slot": 3,
-          "room": "HH Z07"
+          "room": "M 2230"
         },
         {
           "type": "LECT",
           "instructor": "MURAT KOYUNCU",
           "day": "W",
           "slot": 4,
-          "room": "HH Z07"
+          "room": "M 2230"
         }
       ]
     },
@@ -15697,28 +15697,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SÜMEYYE ÖZKAYA",
+          "instructor": "BURAK AYDIN",
           "day": "T",
           "slot": 1,
           "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "SÜMEYYE ÖZKAYA",
+          "instructor": "BURAK AYDIN",
           "day": "T",
           "slot": 2,
           "room": "EF 402 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "SÜMEYYE ÖZKAYA",
+          "instructor": "BURAK AYDIN",
           "day": "Th",
           "slot": 7,
           "room": "EF 406 (LAB)"
         },
         {
           "type": "LECT",
-          "instructor": "SÜMEYYE ÖZKAYA",
+          "instructor": "BURAK AYDIN",
           "day": "Th",
           "slot": 8,
           "room": "EF 406 (LAB)"
@@ -16536,7 +16536,15 @@
       "name": "MASTER'S THESIS",
       "credit": 0,
       "ects": 30,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "GÜNİZİ KARTAL",
+          "day": "Th",
+          "slot": 5,
+          "room": ""
+        }
+      ]
     },
     {
       "code": "CET 690",
@@ -21799,7 +21807,7 @@
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
           "slot": 8,
-          "room": "EF 106"
+          "room": "NH 404"
         }
       ]
     },
@@ -27446,14 +27454,14 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 1,
-          "room": "NH 404"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 2,
-          "room": "NH 404"
+          "room": "HH 301"
         }
       ]
     },
@@ -27485,14 +27493,14 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 3,
-          "room": "NH 404"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 4,
-          "room": "NH 404"
+          "room": "HH 301"
         }
       ]
     },
@@ -27531,7 +27539,7 @@
           "instructor": "EDWARD RYAN MOAD",
           "day": "W",
           "slot": 5,
-          "room": "NH 404"
+          "room": "HH 301"
         }
       ]
     },
@@ -28339,7 +28347,7 @@
           "instructor": "ALİ RIZA KAYLAN",
           "day": "W",
           "slot": 5,
-          "room": "M 2230"
+          "room": "M 2152"
         }
       ]
     },
@@ -31188,21 +31196,21 @@
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 5,
-          "room": "EF 111"
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 6,
-          "room": "EF 111"
+          "room": "ET B715-1"
         },
         {
           "type": "LECT",
           "instructor": "MUTLU ŞEN AKBULUT",
           "day": "W",
           "slot": 7,
-          "room": "EF 111"
+          "room": "ET B715-1"
         }
       ]
     },
@@ -31668,28 +31676,28 @@
           "instructor": "ÖMER DEMİROK",
           "day": "M",
           "slot": 3,
-          "room": "NH 202"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ÖMER DEMİROK",
           "day": "M",
           "slot": 4,
-          "room": "NH 202"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ÖMER DEMİROK",
           "day": "W",
           "slot": 7,
-          "room": "NH 202"
+          "room": "NH 001"
         },
         {
           "type": "LECT",
           "instructor": "ÖMER DEMİROK",
           "day": "W",
           "slot": 8,
-          "room": "NH 202"
+          "room": "NH 001"
         }
       ]
     },
@@ -31895,14 +31903,14 @@
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 4,
-          "room": "ET 01"
+          "room": "M 1200"
         },
         {
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "W",
           "slot": 5,
-          "room": "ET 01"
+          "room": "M 1200"
         },
         {
           "type": "LECT",
@@ -33481,7 +33489,7 @@
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 3,
-          "room": "M 2230"
+          "room": "HH 207"
         },
         {
           "type": "LECT",
@@ -40444,14 +40452,14 @@
           "instructor": "KEMAL AKOĞLU",
           "day": "Th",
           "slot": 3,
-          "room": "EF 101"
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "KEMAL AKOĞLU",
           "day": "Th",
           "slot": 4,
-          "room": "EF 101"
+          "room": "EF 04"
         }
       ]
     },
@@ -44085,14 +44093,14 @@
           "instructor": "FATİH YANAR",
           "day": "M",
           "slot": 7,
-          "room": "KP 03"
+          "room": "KP 02"
         },
         {
           "type": "LECT",
           "instructor": "FATİH YANAR",
           "day": "M",
           "slot": 8,
-          "room": "KP 03"
+          "room": "KP 02"
         },
         {
           "type": "LECT",
@@ -51245,28 +51253,28 @@
           "instructor": "YASEMİN SOHTORİK İLKMEN",
           "day": "W",
           "slot": 5,
-          "room": "NB B10"
+          "room": "LAB"
         },
         {
           "type": "LECT",
           "instructor": "YASEMİN SOHTORİK İLKMEN",
           "day": "W",
           "slot": 6,
-          "room": "NB B10"
+          "room": "LAB"
         },
         {
           "type": "LECT",
           "instructor": "YASEMİN SOHTORİK İLKMEN",
           "day": "W",
           "slot": 7,
-          "room": "NB B10"
+          "room": "LAB"
         },
         {
           "type": "LECT",
           "instructor": "YASEMİN SOHTORİK İLKMEN",
           "day": "W",
           "slot": 8,
-          "room": "NB B10"
+          "room": "LAB"
         }
       ]
     },
@@ -51601,6 +51609,16 @@
     {
       "code": "PSY 504",
       "section": "03",
+      "department": "PSYCHOLOGY",
+      "departmentCode": "PSY",
+      "name": "RESEARCH PROJECT IN PSYCHOLOGY I",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
+      "code": "PSY 504",
+      "section": "04",
       "department": "PSYCHOLOGY",
       "departmentCode": "PSY",
       "name": "RESEARCH PROJECT IN PSYCHOLOGY I",
@@ -53189,21 +53207,21 @@
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 7,
-          "room": "M 2231"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 8,
-          "room": "M 2231"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
           "instructor": "ASUMAN EMİN",
           "day": "W",
           "slot": 9,
-          "room": "M 2231"
+          "room": "HH 218"
         },
         {
           "type": "LECT",
@@ -57288,14 +57306,14 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 6,
-          "room": "HH 218"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 7,
-          "room": "HH 218"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
@@ -58297,6 +58315,16 @@
     },
     {
       "code": "SFL 21A",
+      "section": "13",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 2 FALL A",
+      "credit": 0,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 21A",
       "section": "14",
       "department": "SCHOOL OF FOREIGN LANGUAGES",
       "departmentCode": "YADYOK",
@@ -58642,7 +58670,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58652,7 +58680,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58662,7 +58690,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58672,7 +58700,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58682,7 +58710,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58692,7 +58720,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58702,7 +58730,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58712,7 +58740,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58722,7 +58750,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58732,7 +58760,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58742,7 +58770,17 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
+      "meetings": []
+    },
+    {
+      "code": "SFL 31B",
+      "section": "08",
+      "department": "SCHOOL OF FOREIGN LANGUAGES",
+      "departmentCode": "YADYOK",
+      "name": "PROGRAM 3 FALL B",
+      "credit": 0,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58752,7 +58790,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58762,7 +58800,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58772,7 +58810,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58782,7 +58820,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58792,7 +58830,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58802,7 +58840,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58812,7 +58850,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58822,7 +58860,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58831,16 +58869,6 @@
       "department": "SCHOOL OF FOREIGN LANGUAGES",
       "departmentCode": "YADYOK",
       "name": "PROGRAM 3 FALL B",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "SFL 32B",
-      "section": "08",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "PROGRAM 3 SPRING B",
       "credit": 0,
       "ects": null,
       "meetings": []
@@ -58852,7 +58880,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58862,7 +58890,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58872,7 +58900,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58882,7 +58910,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58892,7 +58920,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58902,7 +58930,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58912,7 +58940,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58922,7 +58950,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58932,7 +58960,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58942,7 +58970,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58952,7 +58980,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58962,7 +58990,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -58972,7 +59000,7 @@
       "departmentCode": "YADYOK",
       "name": "PROGRAM 4 FALL A",
       "credit": 0,
-      "ects": 6,
+      "ects": null,
       "meetings": []
     },
     {
@@ -62265,14 +62293,14 @@
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 4,
-          "room": "EF 06"
+          "room": "HH 207"
         },
         {
           "type": "LECT",
           "instructor": "CÜNEYT ARGUN GENÇ",
           "day": "W",
           "slot": 5,
-          "room": "EF 06"
+          "room": "HH 207"
         },
         {
           "type": "LECT",
@@ -63111,14 +63139,14 @@
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 3,
-          "room": "VB 200"
+          "room": "HH 213"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 4,
-          "room": "VB 200"
+          "room": "HH 213"
         }
       ]
     },
@@ -63143,14 +63171,14 @@
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 5,
-          "room": "VB 200"
+          "room": "HH 213"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 6,
-          "room": "VB 200"
+          "room": "HH 213"
         }
       ]
     },
@@ -65918,14 +65946,14 @@
           "instructor": "EROL KÖROĞLU",
           "day": "M",
           "slot": 2,
-          "room": "NH 402"
+          "room": "NH 202"
         },
         {
           "type": "LECT",
           "instructor": "EROL KÖROĞLU",
           "day": "M",
           "slot": 3,
-          "room": "NH 402"
+          "room": "NH 202"
         },
         {
           "type": "LECT",
@@ -67110,28 +67138,28 @@
           "instructor": "AYÇA TEKİN KELEŞOĞLU",
           "day": "F",
           "slot": 1,
-          "room": "ET 01"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "AYÇA TEKİN KELEŞOĞLU",
           "day": "F",
           "slot": 2,
-          "room": "ET 01"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "AYÇA TEKİN KELEŞOĞLU",
           "day": "F",
           "slot": 3,
-          "room": "ET 01"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "AYÇA TEKİN KELEŞOĞLU",
           "day": "F",
           "slot": 4,
-          "room": "ET 01"
+          "room": "EF 104"
         }
       ]
     },
