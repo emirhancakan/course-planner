@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-25T08:41:48",
+  "generatedAt": "2026-09-26T08:28:50",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -22265,14 +22265,14 @@
           "instructor": "SİBEL TATAR",
           "day": "Th",
           "slot": 7,
-          "room": "EF 02"
+          "room": "EF 103"
         },
         {
           "type": "LECT",
           "instructor": "SİBEL TATAR",
           "day": "Th",
           "slot": 8,
-          "room": "EF 02"
+          "room": "EF 103"
         },
         {
           "type": "LAB",
@@ -49860,21 +49860,21 @@
           "instructor": "SELÇUK AYDIN",
           "day": "M",
           "slot": 6,
-          "room": "İB 201"
+          "room": "M 2170"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK AYDIN",
           "day": "T",
           "slot": 5,
-          "room": "İB 301"
+          "room": "HH 213"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK AYDIN",
           "day": "T",
           "slot": 6,
-          "room": "İB 301"
+          "room": "HH 213"
         }
       ]
     },
@@ -55303,14 +55303,14 @@
           "instructor": "ZUHAL ÇETİN",
           "day": "T",
           "slot": 5,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "ZUHAL ÇETİN",
           "day": "T",
           "slot": 6,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
@@ -55462,14 +55462,14 @@
           "instructor": "ZUHAL ÇETİN",
           "day": "T",
           "slot": 7,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "ZUHAL ÇETİN",
           "day": "T",
           "slot": 8,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
@@ -55841,14 +55841,14 @@
           "instructor": "IVANA VIAPPIANI",
           "day": "T",
           "slot": 3,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "IVANA VIAPPIANI",
           "day": "T",
           "slot": 4,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
@@ -56053,14 +56053,14 @@
           "instructor": "IVANA VIAPPIANI",
           "day": "T",
           "slot": 1,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "IVANA VIAPPIANI",
           "day": "T",
           "slot": 2,
-          "room": "EF 04"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
@@ -56707,14 +56707,14 @@
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 5,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 6,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
@@ -56746,14 +56746,14 @@
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 7,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 8,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
@@ -56785,14 +56785,14 @@
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 9,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
           "instructor": "MIRA JEONG",
           "day": "M",
           "slot": 10,
-          "room": "KP 05"
+          "room": "KP 03"
         },
         {
           "type": "LECT",
@@ -57451,14 +57451,14 @@
           "instructor": "YANINA  DOGRUL",
           "day": "M",
           "slot": 7,
-          "room": "HH Z17"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
           "instructor": "YANINA  DOGRUL",
           "day": "M",
           "slot": 8,
-          "room": "HH Z17"
+          "room": "EF 03"
         },
         {
           "type": "LECT",
@@ -63132,21 +63132,21 @@
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "T",
           "slot": 5,
-          "room": "NH 403"
+          "room": "JF 412"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 3,
-          "room": "HH 213"
+          "room": "JF 412"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 4,
-          "room": "HH 213"
+          "room": "JF 412"
         }
       ]
     },
@@ -63164,21 +63164,21 @@
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "T",
           "slot": 6,
-          "room": "NH 403"
+          "room": "JF 412"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 5,
-          "room": "HH 213"
+          "room": "JF 412"
         },
         {
           "type": "LECT",
           "instructor": "SEMA ÜSTÜN KÜLÜNK",
           "day": "W",
           "slot": 6,
-          "room": "HH 213"
+          "room": "JF 412"
         }
       ]
     },
@@ -65705,28 +65705,28 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SİBEL KOCAER",
+          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
           "day": "M",
           "slot": 2,
           "room": "HH Z17"
         },
         {
           "type": "LECT",
-          "instructor": "SİBEL KOCAER",
+          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
           "day": "M",
           "slot": 3,
           "room": "HH Z17"
         },
         {
           "type": "LECT",
-          "instructor": "SİBEL KOCAER",
+          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
           "day": "T",
           "slot": 2,
           "room": "NB B10"
         },
         {
           "type": "LECT",
-          "instructor": "SİBEL KOCAER",
+          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
           "day": "T",
           "slot": 3,
           "room": "NB B10"
