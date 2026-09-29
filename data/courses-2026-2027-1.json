@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-28T09:34:50",
+  "generatedAt": "2026-09-29T09:39:08",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -6224,6 +6224,16 @@
       "meetings": []
     },
     {
+      "code": "CHEM699",
+      "section": "02",
+      "department": "CHEMISTRY",
+      "departmentCode": "CHEM",
+      "name": "GUIDED RESEARCH",
+      "credit": 4,
+      "ects": 8,
+      "meetings": []
+    },
+    {
       "code": "CHEM700",
       "section": "01",
       "department": "CHEMISTRY",
@@ -9794,21 +9804,21 @@
           "instructor": "MEHMET HÜSEYİN TEMEL",
           "day": "Th",
           "slot": 3,
-          "room": "BM B4"
+          "room": "BM A3"
         },
         {
           "type": "LECT",
           "instructor": "MEHMET HÜSEYİN TEMEL",
           "day": "Th",
           "slot": 4,
-          "room": "BM B4"
+          "room": "BM A3"
         },
         {
           "type": "LECT",
           "instructor": "MEHMET HÜSEYİN TEMEL",
           "day": "Th",
           "slot": 5,
-          "room": "BM B4"
+          "room": "BM A3"
         }
       ]
     },
@@ -14650,7 +14660,7 @@
           "instructor": "TALAT ULUSSEVER",
           "day": "M",
           "slot": 5,
-          "room": "HH Z07"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
@@ -21569,21 +21579,21 @@
           "instructor": "AYŞENUR ÜNLÜ",
           "day": "F",
           "slot": 6,
-          "room": "JF 108"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "AYŞENUR ÜNLÜ",
           "day": "F",
           "slot": 7,
-          "room": "JF 108"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "AYŞENUR ÜNLÜ",
           "day": "F",
           "slot": 8,
-          "room": "JF 108"
+          "room": "VB 200"
         }
       ]
     },
@@ -30379,6 +30389,13 @@
           "day": "W",
           "slot": 2,
           "room": "NH 103"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "CİHAT BÖRKLÜCE",
+          "day": "W",
+          "slot": 1,
+          "room": "NH 103"
         }
       ]
     },
@@ -30443,6 +30460,20 @@
           "day": "Th",
           "slot": 3,
           "room": "HH Z08"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
+          "day": "W",
+          "slot": 7,
+          "room": "VB 200"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
+          "day": "W",
+          "slot": 8,
+          "room": "VB 200"
         }
       ]
     },
@@ -31147,6 +31178,13 @@
           "day": "Th",
           "slot": 3,
           "room": "HH Z17"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "SERKAN KAYA",
+          "day": "Th",
+          "slot": 4,
+          "room": "HH Z17"
         }
       ]
     },
@@ -31257,21 +31295,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "RICHARD ANDERSON FALK",
           "day": "Th",
           "slot": 6,
           "room": "NH 302"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "RICHARD ANDERSON FALK",
           "day": "Th",
           "slot": 7,
           "room": "NH 302"
         },
         {
           "type": "LECT",
-          "instructor": "STAFF STAFF",
+          "instructor": "RICHARD ANDERSON FALK",
           "day": "Th",
           "slot": 8,
           "room": "NH 302"
@@ -32238,7 +32276,7 @@
           "instructor": "ÜMİT ATLAMAZ",
           "day": "Th",
           "slot": 5,
-          "room": "JF 331"
+          "room": "M 2231"
         }
       ]
     },
@@ -33837,21 +33875,21 @@
           "instructor": "YAVUZ ACAR",
           "day": "Th",
           "slot": 2,
-          "room": "İB 100"
+          "room": "NH 403"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ ACAR",
           "day": "Th",
           "slot": 3,
-          "room": "İB 100"
+          "room": "NH 403"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ ACAR",
           "day": "Th",
           "slot": 4,
-          "room": "İB 100"
+          "room": "NH 403"
         }
       ]
     },
@@ -34858,22 +34896,22 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
-          "day": "M",
+          "instructor": "YASİN GALİP GENÇER",
+          "day": "F",
           "slot": 6,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
-          "day": "M",
+          "instructor": "YASİN GALİP GENÇER",
+          "day": "F",
           "slot": 7,
           "room": ""
         },
         {
           "type": "LECT",
-          "instructor": "ULAŞ AKKÜÇÜK",
-          "day": "M",
+          "instructor": "YASİN GALİP GENÇER",
+          "day": "F",
           "slot": 8,
           "room": ""
         }
@@ -44023,6 +44061,31 @@
       ]
     },
     {
+      "code": "BIO 407",
+      "section": "08",
+      "department": "MOLECULAR BIOLOGY & GENETICS",
+      "departmentCode": "BIO",
+      "name": "SEMINAR II",
+      "credit": 2,
+      "ects": 3,
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "ARZU ÇELİK",
+          "day": "Th",
+          "slot": 5,
+          "room": "KP 08"
+        },
+        {
+          "type": "LECT",
+          "instructor": "ARZU ÇELİK",
+          "day": "Th",
+          "slot": 6,
+          "room": "KP 08"
+        }
+      ]
+    },
+    {
       "code": "BIO 410",
       "section": "01",
       "department": "MOLECULAR BIOLOGY & GENETICS",
@@ -45253,7 +45316,7 @@
           "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
           "day": "F",
           "slot": 7,
-          "room": "M 2152"
+          "room": "M 1170"
         }
       ]
     },
@@ -49891,21 +49954,21 @@
           "instructor": "SELÇUK AYDIN",
           "day": "M",
           "slot": 6,
-          "room": "M 2170"
+          "room": "İB 103"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK AYDIN",
           "day": "T",
           "slot": 5,
-          "room": "HH 317"
+          "room": "İB 301"
         },
         {
           "type": "LECT",
           "instructor": "SELÇUK AYDIN",
           "day": "T",
           "slot": 6,
-          "room": "HH 317"
+          "room": "İB 301"
         }
       ]
     },
@@ -50307,21 +50370,21 @@
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 4,
-          "room": "İB 512"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 5,
-          "room": "İB 512"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "MERT ARSLANALP",
           "day": "Th",
           "slot": 6,
-          "room": "İB 512"
+          "room": "HH 301"
         }
       ]
     },
@@ -60113,7 +60176,7 @@
           "instructor": "AYŞE POLAT",
           "day": "Th",
           "slot": 5,
-          "room": "HD 301 (SALON1)"
+          "room": "NH 105"
         }
       ]
     },
@@ -61895,7 +61958,7 @@
           "instructor": "EVİNÇ DOĞAN",
           "day": "T",
           "slot": 7,
-          "room": "NH 103"
+          "room": "M 1100"
         },
         {
           "type": "LECT",
@@ -68524,7 +68587,29 @@
       "name": "COPYWRITING FOR MARKETING&ADVERTISING",
       "credit": 3,
       "ects": 6,
-      "meetings": []
+      "meetings": [
+        {
+          "type": "LECT",
+          "instructor": "SAMİ BASUT",
+          "day": "W",
+          "slot": 8,
+          "room": "TB 121"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SAMİ BASUT",
+          "day": "W",
+          "slot": 9,
+          "room": "TB 121"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SAMİ BASUT",
+          "day": "W",
+          "slot": 10,
+          "room": "TB 121"
+        }
+      ]
     },
     {
       "code": "LIT 325",
