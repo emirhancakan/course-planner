@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-29T09:39:08",
+  "generatedAt": "2026-09-30T09:30:57",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5003,28 +5003,28 @@
           "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 5,
-          "room": "EF 202"
+          "room": "KB 314"
         },
         {
           "type": "LAB",
           "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 6,
-          "room": ""
+          "room": "KB 314"
         },
         {
           "type": "LAB",
           "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 7,
-          "room": ""
+          "room": "KB 314"
         },
         {
           "type": "LAB",
           "instructor": "OKTAY DEMİRCAN",
           "day": "T",
           "slot": 8,
-          "room": ""
+          "room": "KB 314"
         }
       ]
     },
@@ -5310,7 +5310,7 @@
           "instructor": "AYŞE NEREN ÖKTE",
           "day": "T",
           "slot": 5,
-          "room": "EF 205"
+          "room": "NH 101"
         }
       ]
     },
@@ -32276,7 +32276,7 @@
           "instructor": "ÜMİT ATLAMAZ",
           "day": "Th",
           "slot": 5,
-          "room": "M 2231"
+          "room": "VB 200"
         }
       ]
     },
@@ -39332,21 +39332,21 @@
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 3,
-          "room": "EF 07"
+          "room": "NH 303"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 4,
-          "room": "EF 07"
+          "room": "NH 303"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 8,
-          "room": "EF 07"
+          "room": "NH 303"
         }
       ]
     },
@@ -42057,7 +42057,7 @@
           "instructor": "MURAT ÇELİK",
           "day": "Th",
           "slot": 6,
-          "room": "VYKM6"
+          "room": "VYKM3"
         }
       ]
     },
@@ -57902,14 +57902,14 @@
           "instructor": "GUNDA ANKVAB",
           "day": "W",
           "slot": 7,
-          "room": "KP 05"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
           "instructor": "GUNDA ANKVAB",
           "day": "W",
           "slot": 8,
-          "room": "KP 05"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
@@ -57955,14 +57955,14 @@
           "instructor": "GUNDA ANKVAB",
           "day": "W",
           "slot": 9,
-          "room": "KP 05"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
           "instructor": "GUNDA ANKVAB",
           "day": "W",
           "slot": 10,
-          "room": "KP 05"
+          "room": "EF 101"
         },
         {
           "type": "LECT",
@@ -60290,14 +60290,14 @@
           "instructor": "SOUAD OSSEIRAN",
           "day": "T",
           "slot": 3,
-          "room": "TB 121"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
           "instructor": "SOUAD OSSEIRAN",
           "day": "T",
           "slot": 4,
-          "room": "TB 121"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
