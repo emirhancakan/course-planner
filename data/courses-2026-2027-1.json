@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-09-30T09:30:57",
+  "generatedAt": "2026-10-01T09:57:46",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -4048,14 +4048,14 @@
           "instructor": "FATMA AHU AKIN",
           "day": "W",
           "slot": 3,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "FATMA AHU AKIN",
           "day": "W",
           "slot": 4,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "P.S.",
@@ -19055,21 +19055,21 @@
           "instructor": "FERHAN ÇEÇEN",
           "day": "T",
           "slot": 2,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "FERHAN ÇEÇEN",
           "day": "T",
           "slot": 3,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "FERHAN ÇEÇEN",
           "day": "Th",
           "slot": 2,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         }
       ]
     },
@@ -19087,21 +19087,21 @@
           "instructor": "BAHAR İNCE KASAPGİL",
           "day": "T",
           "slot": 6,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "BAHAR İNCE KASAPGİL",
           "day": "T",
           "slot": 7,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "BAHAR İNCE KASAPGİL",
           "day": "Th",
           "slot": 5,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19119,21 +19119,21 @@
           "instructor": "MELİKE KİRAZ",
           "day": "M",
           "slot": 2,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "MELİKE KİRAZ",
           "day": "M",
           "slot": 3,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "MELİKE KİRAZ",
           "day": "M",
           "slot": 4,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19151,21 +19151,21 @@
           "instructor": "NADİM COPTY",
           "day": "M",
           "slot": 3,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "NADİM COPTY",
           "day": "Th",
           "slot": 2,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "NADİM COPTY",
           "day": "Th",
           "slot": 3,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19183,21 +19183,21 @@
           "instructor": "İREM DALOĞLU ÇETİNKAYA",
           "day": "W",
           "slot": 6,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "İREM DALOĞLU ÇETİNKAYA",
           "day": "W",
           "slot": 7,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "İREM DALOĞLU ÇETİNKAYA",
           "day": "Th",
           "slot": 4,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19215,21 +19215,21 @@
           "instructor": "FATMA ÖZTÜRK",
           "day": "T",
           "slot": 4,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "FATMA ÖZTÜRK",
           "day": "T",
           "slot": 5,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "FATMA ÖZTÜRK",
           "day": "W",
           "slot": 2,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19261,7 +19261,7 @@
           "instructor": "PINAR ERTÖR AKYAZI",
           "day": "W",
           "slot": 3,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -19311,21 +19311,21 @@
           "instructor": "NİLGÜN CILIZ",
           "day": "T",
           "slot": 3,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "NİLGÜN CILIZ",
           "day": "T",
           "slot": 4,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "NİLGÜN CILIZ",
           "day": "T",
           "slot": 5,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         }
       ]
     },
@@ -19343,21 +19343,21 @@
           "instructor": "TAMER ATABARUT",
           "day": "T",
           "slot": 6,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "TAMER ATABARUT",
           "day": "T",
           "slot": 7,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "TAMER ATABARUT",
           "day": "T",
           "slot": 8,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -24470,21 +24470,21 @@
           "instructor": "ASLIHAN DÖNMEZ",
           "day": "W",
           "slot": 5,
-          "room": "EF 05"
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "ASLIHAN DÖNMEZ",
           "day": "W",
           "slot": 6,
-          "room": "EF 05"
+          "room": "EF 302"
         },
         {
           "type": "LECT",
           "instructor": "ASLIHAN DÖNMEZ",
           "day": "W",
           "slot": 7,
-          "room": "EF 05"
+          "room": "EF 302"
         }
       ]
     },
@@ -25634,21 +25634,21 @@
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "T",
           "slot": 7,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "T",
           "slot": 8,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "ŞEVKİ KORAY DURAK",
           "day": "W",
           "slot": 6,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         }
       ]
     },
@@ -29166,21 +29166,21 @@
           "instructor": "KEVSER ZEYNEP MERAL",
           "day": "Th",
           "slot": 2,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "KEVSER ZEYNEP MERAL",
           "day": "Th",
           "slot": 3,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "KEVSER ZEYNEP MERAL",
           "day": "Th",
           "slot": 4,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         }
       ]
     },
@@ -35727,21 +35727,21 @@
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "W",
           "slot": 5,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "Th",
           "slot": 6,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LECT",
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "Th",
           "slot": 7,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         },
         {
           "type": "LAB",
@@ -36013,14 +36013,14 @@
           "instructor": "BİLGİN METİN",
           "day": "Th",
           "slot": 7,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "BİLGİN METİN",
           "day": "Th",
           "slot": 8,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "P.S.",
@@ -36045,21 +36045,21 @@
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "W",
           "slot": 6,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "W",
           "slot": 7,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "Th",
           "slot": 5,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LAB",
@@ -37374,14 +37374,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 1,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 2,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
@@ -37413,14 +37413,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 3,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 4,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
@@ -37569,14 +37569,14 @@
           "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "T",
           "slot": 1,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "CRAIG CHARLES  VAN COEVERING",
           "day": "T",
           "slot": 2,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
@@ -38012,14 +38012,14 @@
           "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 3,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 4,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         }
       ]
     },
@@ -38356,14 +38356,14 @@
           "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 1,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "KAZIM İLHAN İKEDA",
           "day": "W",
           "slot": 2,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         }
       ]
     },
@@ -39393,24 +39393,24 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "İBRAHİM DELEN",
+          "instructor": "DEVRİM GÜVEN",
           "day": "T",
           "slot": 4,
           "room": "EF 216"
         },
         {
           "type": "LECT",
-          "instructor": "İBRAHİM DELEN",
+          "instructor": "DEVRİM GÜVEN",
           "day": "W",
           "slot": 5,
-          "room": "EF 102"
+          "room": "EF 304"
         },
         {
           "type": "LECT",
-          "instructor": "İBRAHİM DELEN",
+          "instructor": "DEVRİM GÜVEN",
           "day": "W",
           "slot": 6,
-          "room": "EF 102"
+          "room": "EF 304"
         }
       ]
     },
@@ -49324,6 +49324,16 @@
       "meetings": []
     },
     {
+      "code": "PHYS594",
+      "section": "01",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "SP.TOP.IN PHYS MODELLING OF PHYSICAL PH",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
       "code": "PHYS631",
       "section": "01",
       "department": "PHYSICS",
@@ -49356,6 +49366,16 @@
     {
       "code": "PHYS681",
       "section": "03",
+      "department": "PHYSICS",
+      "departmentCode": "PHYS",
+      "name": "DIRECTED STUDIES I",
+      "credit": 4,
+      "ects": 10,
+      "meetings": []
+    },
+    {
+      "code": "PHYS681",
+      "section": "04",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "DIRECTED STUDIES I",
@@ -50747,14 +50767,14 @@
           "instructor": "AYLİN ARAS",
           "day": "F",
           "slot": 6,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "AYLİN ARAS",
           "day": "F",
           "slot": 7,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         }
       ]
     },
@@ -50772,21 +50792,21 @@
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "M",
           "slot": 5,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "M",
           "slot": 6,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         },
         {
           "type": "LECT",
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "W",
           "slot": 5,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -50935,7 +50955,7 @@
           "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
           "day": "W",
           "slot": 4,
-          "room": "HD 201 (SALON2)"
+          "room": "HD 201"
         }
       ]
     },
@@ -50967,7 +50987,7 @@
           "instructor": "NUR SOYLU YALÇINKAYA",
           "day": "Th",
           "slot": 4,
-          "room": "HD 101 (SALON3)"
+          "room": "HD 101"
         }
       ]
     },
@@ -60162,14 +60182,14 @@
           "instructor": "AYŞE POLAT",
           "day": "M",
           "slot": 2,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "AYŞE POLAT",
           "day": "M",
           "slot": 3,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
@@ -61990,21 +62010,21 @@
           "instructor": "YAVUZ SELİM GÜLER",
           "day": "M",
           "slot": 4,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ SELİM GÜLER",
           "day": "M",
           "slot": 5,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ SELİM GÜLER",
           "day": "M",
           "slot": 6,
-          "room": "HD 301 (SALON1)"
+          "room": "HD 301"
         }
       ]
     },
@@ -62902,22 +62922,22 @@
         {
           "type": "LECT",
           "instructor": "SEHA KARADENİZ",
-          "day": "W",
-          "slot": 5,
-          "room": "JF 401"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SEHA KARADENİZ",
-          "day": "W",
+          "day": "F",
           "slot": 6,
           "room": "JF 401"
         },
         {
           "type": "LECT",
           "instructor": "SEHA KARADENİZ",
-          "day": "W",
+          "day": "F",
           "slot": 7,
+          "room": "JF 401"
+        },
+        {
+          "type": "LECT",
+          "instructor": "SEHA KARADENİZ",
+          "day": "F",
+          "slot": 8,
           "room": "JF 401"
         }
       ]
@@ -63584,6 +63604,16 @@
     {
       "code": "TR  428",
       "section": "06",
+      "department": "TRANSLATION AND INTERPRETING STUDIES",
+      "departmentCode": "TR",
+      "name": "TRANSLATION PROJECT",
+      "credit": 3,
+      "ects": 6,
+      "meetings": []
+    },
+    {
+      "code": "TR  428",
+      "section": "07",
       "department": "TRANSLATION AND INTERPRETING STUDIES",
       "departmentCode": "TR",
       "name": "TRANSLATION PROJECT",
