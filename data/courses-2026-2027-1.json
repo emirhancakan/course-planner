@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-01T09:57:46",
+  "generatedAt": "2026-10-02T09:33:49",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -7535,38 +7535,6 @@
           "day": "W",
           "slot": 4,
           "room": "M 1169"
-        }
-      ]
-    },
-    {
-      "code": "CE  554",
-      "section": "01",
-      "department": "CIVIL ENGINEERING",
-      "departmentCode": "CE",
-      "name": "THEORY&DESIGN FOR MEASUREMENTS IN STRUCTURAL ENGINEERING",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "TURAN ÖZTURAN",
-          "day": "W",
-          "slot": 1,
-          "room": "M 2170"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TURAN ÖZTURAN",
-          "day": "W",
-          "slot": 2,
-          "room": "M 2170"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TURAN ÖZTURAN",
-          "day": "W",
-          "slot": 3,
-          "room": "M 2170"
         }
       ]
     },
@@ -21675,21 +21643,21 @@
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "T",
           "slot": 2,
-          "room": "EF 05"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "T",
           "slot": 3,
-          "room": "EF 05"
+          "room": "EF 104"
         },
         {
           "type": "LECT",
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "Th",
           "slot": 6,
-          "room": "EF 203"
+          "room": "HH Z04"
         }
       ]
     },
@@ -21816,8 +21784,8 @@
           "type": "LECT",
           "instructor": "NAZİK DİNÇTOPAL DENİZ",
           "day": "Th",
-          "slot": 8,
-          "room": "NH 404"
+          "slot": 6,
+          "room": "NH 403"
         }
       ]
     },
@@ -24009,21 +23977,21 @@
           "instructor": "GÜLİSTAN GÜRSEL BİLGİN",
           "day": "Th",
           "slot": 3,
-          "room": "EF 204"
+          "room": "NH 402"
         },
         {
           "type": "LECT",
           "instructor": "GÜLİSTAN GÜRSEL BİLGİN",
           "day": "Th",
           "slot": 4,
-          "room": "EF 204"
+          "room": "NH 402"
         },
         {
           "type": "LECT",
           "instructor": "GÜLİSTAN GÜRSEL BİLGİN",
           "day": "Th",
           "slot": 5,
-          "room": "EF 204"
+          "room": "NH 402"
         }
       ]
     },
@@ -30036,7 +30004,7 @@
           "instructor": "TÜRKAN GÜLCE BUDAK",
           "day": "Th",
           "slot": 7,
-          "room": "NH 305"
+          "room": "M 2170"
         }
       ]
     },
@@ -36084,7 +36052,7 @@
           "instructor": "HANDE TÜRKER",
           "day": "T",
           "slot": 6,
-          "room": "İB 103"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
@@ -38285,14 +38253,14 @@
           "instructor": "OLCAY COŞKUN",
           "day": "Th",
           "slot": 1,
-          "room": "JF 108"
+          "room": "TB 260A"
         },
         {
           "type": "LECT",
           "instructor": "OLCAY COŞKUN",
           "day": "Th",
           "slot": 2,
-          "room": "JF 108"
+          "room": "."
         }
       ]
     },
@@ -39807,7 +39775,7 @@
           "instructor": "SERKAN ARIKAN",
           "day": "T",
           "slot": 2,
-          "room": "EF 104"
+          "room": "EF 102"
         },
         {
           "type": "LECT",
@@ -40593,14 +40561,14 @@
           "instructor": "KEMAL AKOĞLU",
           "day": "Th",
           "slot": 3,
-          "room": "EF 04"
+          "room": "EF 204"
         },
         {
           "type": "LECT",
           "instructor": "KEMAL AKOĞLU",
           "day": "Th",
           "slot": 4,
-          "room": "EF 04"
+          "room": "EF 204"
         }
       ]
     },
@@ -42981,7 +42949,7 @@
           "instructor": "KERİM CAN DANSUK",
           "day": "M",
           "slot": 4,
-          "room": "VYKM 5"
+          "room": "VYKM5"
         }
       ]
     },
@@ -57087,21 +57055,21 @@
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 6,
-          "room": "EF 103"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 7,
-          "room": "EF 103"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 8,
-          "room": "EF 103"
+          "room": "JF 108"
         }
       ]
     },
@@ -57151,21 +57119,21 @@
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 9,
-          "room": "EF 103"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 10,
-          "room": "EF 103"
+          "room": "JF 108"
         },
         {
           "type": "LECT",
           "instructor": "CAHİT BENEK",
           "day": "F",
           "slot": 11,
-          "room": "EF 103"
+          "room": "JF 108"
         }
       ]
     },
@@ -57406,42 +57374,42 @@
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 6,
-          "room": "KB SHANNON-232"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "T",
           "slot": 7,
-          "room": "KB SHANNON-232"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 6,
-          "room": "EF 203"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "W",
           "slot": 7,
-          "room": "EF 203"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
           "slot": 6,
-          "room": "TB 230"
+          "room": ""
         },
         {
           "type": "LECT",
           "instructor": "ZEYNEP EDEBALİ",
           "day": "F",
           "slot": 7,
-          "room": "TB 230"
+          "room": ""
         }
       ]
     },
@@ -61932,6 +61900,16 @@
       "name": "GRADUATE SEMINAR",
       "credit": 0,
       "ects": 4,
+      "meetings": []
+    },
+    {
+      "code": "SCO 690",
+      "section": "13",
+      "department": "SYSTEMS & CONTROL ENGINEERING",
+      "departmentCode": "SCO",
+      "name": "THESIS",
+      "credit": 0,
+      "ects": 60,
       "meetings": []
     },
     {
