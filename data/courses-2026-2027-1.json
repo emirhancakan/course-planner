@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-02T09:33:49",
+  "generatedAt": "2026-10-03T09:01:14",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -10389,21 +10389,21 @@
           "instructor": "ÇAĞATAY SÖNMEZ",
           "day": "F",
           "slot": 6,
-          "room": "BM A6"
+          "room": "BM A3"
         },
         {
           "type": "LECT",
           "instructor": "ÇAĞATAY SÖNMEZ",
           "day": "F",
           "slot": 7,
-          "room": "BM A6"
+          "room": "BM A3"
         },
         {
           "type": "LECT",
           "instructor": "ÇAĞATAY SÖNMEZ",
           "day": "F",
           "slot": 8,
-          "room": "BM A6"
+          "room": "BM A3"
         }
       ]
     },
@@ -21593,7 +21593,7 @@
           "instructor": "JUDY MONTHIE DOYUM",
           "day": "Th",
           "slot": 8,
-          "room": "EF 05"
+          "room": "EF 216"
         }
       ]
     },
@@ -21618,14 +21618,14 @@
           "instructor": "JUDY MONTHIE DOYUM",
           "day": "Th",
           "slot": 6,
-          "room": "EF 05"
+          "room": "EF 216"
         },
         {
           "type": "LECT",
           "instructor": "JUDY MONTHIE DOYUM",
           "day": "Th",
           "slot": 7,
-          "room": "EF 05"
+          "room": "EF 216"
         }
       ]
     },
@@ -56386,42 +56386,42 @@
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 7,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 8,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 7,
-          "room": "KGYM2"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 8,
-          "room": "KGYM2"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "W",
           "slot": 7,
-          "room": "KGYM2"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "W",
           "slot": 8,
-          "room": "KGYM2"
+          "room": "HH 317"
         }
       ]
     },
@@ -56545,42 +56545,42 @@
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 4,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 5,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "Th",
           "slot": 4,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "Th",
           "slot": 5,
-          "room": "KGYM1"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "F",
           "slot": 6,
-          "room": "KGYM1"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "F",
           "slot": 7,
-          "room": "KGYM1"
+          "room": "HH 301"
         }
       ]
     },
@@ -56598,42 +56598,42 @@
           "instructor": "RYOKO ASANO",
           "day": "M",
           "slot": 6,
-          "room": "KGYM2"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "RYOKO ASANO",
           "day": "M",
           "slot": 7,
-          "room": "KGYM2"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "RYOKO ASANO",
           "day": "M",
           "slot": 8,
-          "room": "KGYM2"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "RYOKO ASANO",
           "day": "F",
           "slot": 6,
-          "room": "KGYM2"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "RYOKO ASANO",
           "day": "F",
           "slot": 7,
-          "room": "KGYM2"
+          "room": "HH 317"
         },
         {
           "type": "LECT",
           "instructor": "RYOKO ASANO",
           "day": "F",
           "slot": 8,
-          "room": "KGYM2"
+          "room": "HH 317"
         }
       ]
     },
@@ -56651,42 +56651,42 @@
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 9,
-          "room": "KGYM2"
+          "room": "HH Z17"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 10,
-          "room": "KGYM2"
+          "room": "HH Z17"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 9,
-          "room": "KGYM2"
+          "room": "HH 203"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 10,
-          "room": "KGYM2"
+          "room": "HH 203"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "W",
           "slot": 9,
-          "room": "KGYM2"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "W",
           "slot": 10,
-          "room": "KGYM2"
+          "room": "HH 301"
         }
       ]
     },
@@ -56704,42 +56704,42 @@
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 8,
-          "room": "KGYM1"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 9,
-          "room": "KGYM1"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 10,
-          "room": "KGYM1"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 8,
-          "room": "KGYM1"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 9,
-          "room": "KGYM1"
+          "room": "HH 120"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 10,
-          "room": "KGYM1"
+          "room": "HH 120"
         }
       ]
     },
