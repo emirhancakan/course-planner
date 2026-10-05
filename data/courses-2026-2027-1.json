@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-03T09:01:14",
+  "generatedAt": "2026-10-05T10:14:04",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -7417,14 +7417,14 @@
           "instructor": "VEYSEL YILDIZ",
           "day": "T",
           "slot": 7,
-          "room": "VYKM6"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
           "instructor": "VEYSEL YILDIZ",
           "day": "T",
           "slot": 8,
-          "room": "VYKM6"
+          "room": "VYKM3"
         },
         {
           "type": "LECT",
@@ -64591,14 +64591,14 @@
           "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 3,
-          "room": "KP 06"
+          "room": "EF 02"
         },
         {
           "type": "LECT",
           "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 4,
-          "room": "KP 06"
+          "room": "EF 02"
         }
       ]
     },
