@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-05T10:14:04",
+  "generatedAt": "2026-10-06T09:58:26",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -3688,22 +3688,22 @@
           "type": "LECT",
           "instructor": "HİLAL TAYMAZ NİKEREL",
           "day": "W",
+          "slot": 1,
+          "room": "KB 432"
+        },
+        {
+          "type": "LECT",
+          "instructor": "HİLAL TAYMAZ NİKEREL",
+          "day": "W",
           "slot": 2,
           "room": "KB 432"
         },
         {
           "type": "LECT",
           "instructor": "HİLAL TAYMAZ NİKEREL",
-          "day": "Th",
-          "slot": 1,
-          "room": "KB 428"
-        },
-        {
-          "type": "LECT",
-          "instructor": "HİLAL TAYMAZ NİKEREL",
-          "day": "Th",
-          "slot": 2,
-          "room": "KB 428"
+          "day": "W",
+          "slot": 3,
+          "room": "KB 432"
         }
       ]
     },
@@ -40084,28 +40084,28 @@
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 1,
-          "room": "ET 01"
+          "room": "NH 303"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "M",
           "slot": 2,
-          "room": "ET 01"
+          "room": "NH 303"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 1,
-          "room": "ET 01"
+          "room": "NH 201"
         },
         {
           "type": "LECT",
           "instructor": "ÖZDEN ŞENGÜL",
           "day": "Th",
           "slot": 2,
-          "room": "ET 01"
+          "room": "NH 201"
         }
       ]
     },
