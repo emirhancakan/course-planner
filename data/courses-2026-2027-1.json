@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-06T09:58:26",
+  "generatedAt": "2026-10-07T10:04:01",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -36052,7 +36052,7 @@
           "instructor": "HANDE TÜRKER",
           "day": "T",
           "slot": 6,
-          "room": "HH 317"
+          "room": "İB 103"
         },
         {
           "type": "LECT",
@@ -53501,21 +53501,21 @@
           "instructor": "GUFRAN TÜFEKÇİ ASAD",
           "day": "W",
           "slot": 7,
-          "room": "EF 02"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
           "instructor": "GUFRAN TÜFEKÇİ ASAD",
           "day": "W",
           "slot": 8,
-          "room": "EF 02"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
           "instructor": "GUFRAN TÜFEKÇİ ASAD",
           "day": "W",
           "slot": 9,
-          "room": "EF 02"
+          "room": "M 2231"
         },
         {
           "type": "LECT",
@@ -56651,28 +56651,28 @@
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 9,
-          "room": "HH Z17"
+          "room": "JF 334"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "M",
           "slot": 10,
-          "room": "HH Z17"
+          "room": "JF 334"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 9,
-          "room": "HH 203"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "YURIKO ÖNCÜ",
           "day": "T",
           "slot": 10,
-          "room": "HH 203"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
