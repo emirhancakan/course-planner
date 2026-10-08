@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-07T10:04:01",
+  "generatedAt": "2026-10-08T10:17:32",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -25794,21 +25794,21 @@
           "instructor": "NEVRA NECİPOĞLU",
           "day": "T",
           "slot": 8,
-          "room": "TB 260A"
+          "room": "TB 490"
         },
         {
           "type": "LECT",
           "instructor": "NEVRA NECİPOĞLU",
           "day": "T",
           "slot": 9,
-          "room": "TB 260A"
+          "room": "TB 490"
         },
         {
           "type": "LECT",
           "instructor": "NEVRA NECİPOĞLU",
           "day": "T",
           "slot": 10,
-          "room": "TB 260A"
+          "room": "TB 490"
         }
       ]
     },
@@ -55874,21 +55874,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "MUHAMMET TARIK ÖZKAN",
+          "instructor": "MUHAMMED TARIK ÖZKAN",
           "day": "F",
           "slot": 7,
           "room": "TB 121"
         },
         {
           "type": "LECT",
-          "instructor": "MUHAMMET TARIK ÖZKAN",
+          "instructor": "MUHAMMED TARIK ÖZKAN",
           "day": "F",
           "slot": 8,
           "room": "TB 121"
         },
         {
           "type": "LECT",
-          "instructor": "MUHAMMET TARIK ÖZKAN",
+          "instructor": "MUHAMMED TARIK ÖZKAN",
           "day": "F",
           "slot": 9,
           "room": "TB 121"
