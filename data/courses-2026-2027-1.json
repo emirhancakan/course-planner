@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-08T10:17:32",
+  "generatedAt": "2026-10-09T10:18:46",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -52905,14 +52905,14 @@
           "instructor": "GÖZDE HAN",
           "day": "W",
           "slot": 7,
-          "room": "JF 334"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "GÖZDE HAN",
           "day": "W",
           "slot": 8,
-          "room": "JF 334"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
@@ -53001,14 +53001,14 @@
           "instructor": "GÖZDE HAN",
           "day": "W",
           "slot": 5,
-          "room": "JF 334"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
           "instructor": "GÖZDE HAN",
           "day": "W",
           "slot": 6,
-          "room": "JF 334"
+          "room": "TB 415"
         },
         {
           "type": "LECT",
