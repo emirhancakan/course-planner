@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-09T10:18:46",
+  "generatedAt": "2026-10-10T09:38:23",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -27361,7 +27361,7 @@
           "instructor": "MUJADAD ZAMAN",
           "day": "W",
           "slot": 1,
-          "room": "HH Z07"
+          "room": "HH Z17"
         }
       ]
     },
@@ -27400,7 +27400,7 @@
           "instructor": "MUJADAD ZAMAN",
           "day": "W",
           "slot": 2,
-          "room": "HH Z07"
+          "room": "HH Z17"
         }
       ]
     },
@@ -30165,70 +30165,6 @@
           "day": "W",
           "slot": 9,
           "room": "HH Z04"
-        }
-      ]
-    },
-    {
-      "code": "LAW 101",
-      "section": "10",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "INTRODUCTION TO LAW",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "M",
-          "slot": 2,
-          "room": "EF 216"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "W",
-          "slot": 2,
-          "room": "EF 302"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "W",
-          "slot": 3,
-          "room": "EF 302"
-        }
-      ]
-    },
-    {
-      "code": "LAW 101",
-      "section": "11",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "INTRODUCTION TO LAW",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "T",
-          "slot": 4,
-          "room": "NH 404"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "T",
-          "slot": 5,
-          "room": "NH 404"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "Th",
-          "slot": 5,
-          "room": "NH 002"
         }
       ]
     },
@@ -33811,21 +33747,21 @@
           "instructor": "METİN ERCAN",
           "day": "F",
           "slot": 6,
-          "room": "İB 103"
+          "room": "İB 102"
         },
         {
           "type": "LECT",
           "instructor": "METİN ERCAN",
           "day": "F",
           "slot": 7,
-          "room": "İB 103"
+          "room": "İB 102"
         },
         {
           "type": "LECT",
           "instructor": "METİN ERCAN",
           "day": "F",
           "slot": 8,
-          "room": "İB 103"
+          "room": "İB 102"
         }
       ]
     },
