@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-10T09:38:23",
+  "generatedAt": "2026-10-12T10:31:26",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -6649,10 +6649,10 @@
         },
         {
           "type": "P.S.",
-          "instructor": "FURKAN ÇAKMAK",
-          "day": "F",
-          "slot": 4,
-          "room": "M 3100"
+          "instructor": "HİLMİ LUŞ",
+          "day": "M",
+          "slot": 7,
+          "room": "M 1170"
         }
       ]
     },
@@ -6692,6 +6692,13 @@
           "day": "Th",
           "slot": 2,
           "room": "M 2180"
+        },
+        {
+          "type": "P.S.",
+          "instructor": "FURKAN ÇAKMAK",
+          "day": "M",
+          "slot": 7,
+          "room": "M 2170"
         }
       ]
     },
@@ -9705,14 +9712,14 @@
           "instructor": "LALE AKARUN",
           "day": "F",
           "slot": 6,
-          "room": ""
+          "room": "BM HW LAB"
         },
         {
           "type": "LAB",
           "instructor": "LALE AKARUN",
           "day": "F",
           "slot": 7,
-          "room": ""
+          "room": "BM HW LAB"
         }
       ]
     },
