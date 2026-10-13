@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-12T10:31:26",
+  "generatedAt": "2026-10-13T10:21:16",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -26220,13 +26220,6 @@
           "type": "LECT",
           "instructor": "SELÇUK ESENBEL",
           "day": "T",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SELÇUK ESENBEL",
-          "day": "T",
           "slot": 7,
           "room": ""
         },
@@ -26235,6 +26228,13 @@
           "instructor": "SELÇUK ESENBEL",
           "day": "T",
           "slot": 8,
+          "room": ""
+        },
+        {
+          "type": "LECT",
+          "instructor": "SELÇUK ESENBEL",
+          "day": "T",
+          "slot": 9,
           "room": ""
         }
       ]
@@ -30929,38 +30929,6 @@
           "day": "T",
           "slot": 3,
           "room": "EF 106"
-        }
-      ]
-    },
-    {
-      "code": "LAW 348",
-      "section": "01",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "INTERNATIONAL ENVIRONMENTAL LAW",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "T",
-          "slot": 4,
-          "room": "İB 201"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "T",
-          "slot": 5,
-          "room": "İB 201"
-        },
-        {
-          "type": "LECT",
-          "instructor": "TÜRKAN GÜLCE BUDAK",
-          "day": "Th",
-          "slot": 5,
-          "room": "JF 333"
         }
       ]
     },
@@ -39097,16 +39065,6 @@
     },
     {
       "code": "MATH790",
-      "section": "02",
-      "department": "MATHEMATICS",
-      "departmentCode": "MATH",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "MATH790",
       "section": "03",
       "department": "MATHEMATICS",
       "departmentCode": "MATH",
@@ -39118,16 +39076,6 @@
     {
       "code": "MATH790",
       "section": "04",
-      "department": "MATHEMATICS",
-      "departmentCode": "MATH",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "MATH790",
-      "section": "05",
       "department": "MATHEMATICS",
       "departmentCode": "MATH",
       "name": "Ph.D.THESIS",
@@ -43848,56 +43796,6 @@
     },
     {
       "code": "BIO 407",
-      "section": "03",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SEMINAR II",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ERHAN KELEŞ",
-          "day": "M",
-          "slot": 7,
-          "room": "KP 09"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ERHAN KELEŞ",
-          "day": "M",
-          "slot": 8,
-          "room": "KP 09"
-        }
-      ]
-    },
-    {
-      "code": "BIO 407",
-      "section": "04",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SEMINAR II",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "KORAY MALCI",
-          "day": "F",
-          "slot": 1,
-          "room": "KP 02"
-        },
-        {
-          "type": "LECT",
-          "instructor": "KORAY MALCI",
-          "day": "F",
-          "slot": 2,
-          "room": "KP 02"
-        }
-      ]
-    },
-    {
-      "code": "BIO 407",
       "section": "05",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
@@ -43943,31 +43841,6 @@
           "day": "Th",
           "slot": 8,
           "room": "KP 06"
-        }
-      ]
-    },
-    {
-      "code": "BIO 407",
-      "section": "07",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SEMINAR II",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SEYFULLAH ENES KOTİL",
-          "day": "T",
-          "slot": 3,
-          "room": "KP 09"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SEYFULLAH ENES KOTİL",
-          "day": "T",
-          "slot": 4,
-          "room": "KP 09"
         }
       ]
     },
@@ -44537,16 +44410,6 @@
           "room": ""
         }
       ]
-    },
-    {
-      "code": "BIO 58H",
-      "section": "01",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SP.TP.CRISPR TECHNOLOGIES",
-      "credit": 3,
-      "ects": 7,
-      "meetings": []
     },
     {
       "code": "BIO 601",
@@ -49245,16 +49108,6 @@
       "meetings": []
     },
     {
-      "code": "PHYS631",
-      "section": "01",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "ATOMIC & MOLECULAR PHYSICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
       "code": "PHYS681",
       "section": "01",
       "department": "PHYSICS",
@@ -49277,16 +49130,6 @@
     {
       "code": "PHYS681",
       "section": "03",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "DIRECTED STUDIES I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHYS681",
-      "section": "04",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "DIRECTED STUDIES I",
@@ -60694,26 +60537,6 @@
       "meetings": []
     },
     {
-      "code": "SOC 585",
-      "section": "01",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "DIRECTED READING & RESEARCH I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "SOC 586",
-      "section": "01",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "DIRECTED READINGS & RESEARCH II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
       "code": "SOC 589",
       "section": "01",
       "department": "SOCIOLOGY",
@@ -61686,70 +61509,6 @@
           "type": "LECT",
           "instructor": "DUYGU SALMAN ÖZTÜRK",
           "day": "Th",
-          "slot": 4,
-          "room": "HH Z06-SEM1"
-        }
-      ]
-    },
-    {
-      "code": "TRM 521",
-      "section": "01",
-      "department": "SUSTAINABLE TOURISM MANAGEMENT",
-      "departmentCode": "TRM",
-      "name": "DESTINATION DEVELOPMENT FOR SUSTAINABLE TOURISM",
-      "credit": 3,
-      "ects": 7,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MARIA DOLORES ALVAREZ",
-          "day": "T",
-          "slot": 6,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MARIA DOLORES ALVAREZ",
-          "day": "T",
-          "slot": 7,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MARIA DOLORES ALVAREZ",
-          "day": "T",
-          "slot": 8,
-          "room": "HH Z06-SEM1"
-        }
-      ]
-    },
-    {
-      "code": "TRM 525",
-      "section": "01",
-      "department": "SUSTAINABLE TOURISM MANAGEMENT",
-      "departmentCode": "TRM",
-      "name": "SUSTAINABLE BUSINESS DEVELOPMENT",
-      "credit": 3,
-      "ects": 7,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "EZGİ ERKMEN",
-          "day": "T",
-          "slot": 2,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EZGİ ERKMEN",
-          "day": "T",
-          "slot": 3,
-          "room": "HH Z06-SEM1"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EZGİ ERKMEN",
-          "day": "T",
           "slot": 4,
           "room": "HH Z06-SEM1"
         }
@@ -66362,38 +66121,6 @@
       ]
     },
     {
-      "code": "TKL 48F",
-      "section": "01",
-      "department": "TURKISH LANGUAGE & LITERATURE",
-      "departmentCode": "TKL",
-      "name": "SPECIAL TOPICS: FRONTIER NARRATIVES AND VELAYETNAME LITERATURE",
-      "credit": 3,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "M",
-          "slot": 4,
-          "room": "HH Z17"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "M",
-          "slot": 5,
-          "room": "HH Z17"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "T",
-          "slot": 4,
-          "room": "NB B10"
-        }
-      ]
-    },
-    {
       "code": "TKL 48L",
       "section": "01",
       "department": "TURKISH LANGUAGE & LITERATURE",
@@ -66581,38 +66308,6 @@
           "instructor": "GÜLŞAH TAŞKIN",
           "day": "T",
           "slot": 7,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "TKL 58T",
-      "section": "01",
-      "department": "TURKISH LANGUAGE & LITERATURE",
-      "departmentCode": "TKL",
-      "name": "SPECIAL TOPICS:TRANSLATIONS INTO TURKISH:FORMATIVE PERIODS IN TURKISH LITERATURE",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "W",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "W",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SİBEL KOCAER",
-          "day": "W",
-          "slot": 4,
           "room": ""
         }
       ]
