@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-13T10:21:16",
+  "generatedAt": "2026-10-15T08:08:28",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5431,57 +5431,7 @@
     },
     {
       "code": "CHEM473",
-      "section": "04",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM473",
       "section": "05",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM473",
-      "section": "06",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM473",
-      "section": "07",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM473",
-      "section": "08",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM473",
-      "section": "09",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
@@ -5561,37 +5511,7 @@
     },
     {
       "code": "CHEM474",
-      "section": "02",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
-      "section": "03",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
       "section": "04",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
-      "section": "05",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
@@ -5621,26 +5541,6 @@
     },
     {
       "code": "CHEM474",
-      "section": "08",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
-      "section": "09",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
       "section": "10",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
@@ -5651,27 +5551,7 @@
     },
     {
       "code": "CHEM474",
-      "section": "11",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
       "section": "12",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM474",
-      "section": "13",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
@@ -5711,57 +5591,7 @@
     },
     {
       "code": "CHEM475",
-      "section": "02",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
-      "section": "03",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
-      "section": "04",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
       "section": "05",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
-      "section": "06",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
-      "section": "07",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
@@ -5781,27 +5611,7 @@
     },
     {
       "code": "CHEM475",
-      "section": "09",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
       "section": "10",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-      "credit": 3,
-      "ects": 12,
-      "meetings": []
-    },
-    {
-      "code": "CHEM475",
-      "section": "11",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
@@ -9737,7 +9547,7 @@
           "instructor": "ŞEFİK ŞUAYB ARSLAN",
           "day": "W",
           "slot": 6,
-          "room": "BM B3"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
@@ -10595,14 +10405,14 @@
           "instructor": "ŞEFİK ŞUAYB ARSLAN",
           "day": "W",
           "slot": 7,
-          "room": "BM B3"
+          "room": "VB 200"
         },
         {
           "type": "LECT",
           "instructor": "ŞEFİK ŞUAYB ARSLAN",
           "day": "W",
           "slot": 8,
-          "room": "BM B3"
+          "room": "VB 200"
         }
       ]
     },
@@ -48883,16 +48693,6 @@
     {
       "code": "PHYS491",
       "section": "13",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "INTRODUCTION TO RESEARCH IN PHYSICS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHYS491",
-      "section": "14",
       "department": "PHYSICS",
       "departmentCode": "PHYS",
       "name": "INTRODUCTION TO RESEARCH IN PHYSICS I",
