@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-15T08:08:28",
+  "generatedAt": "2026-10-16T08:01:55",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -5895,16 +5895,6 @@
     },
     {
       "code": "CHEM690",
-      "section": "02",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "M.S. THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "CHEM690",
       "section": "03",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
@@ -5955,26 +5945,6 @@
     },
     {
       "code": "CHEM690",
-      "section": "08",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "M.S. THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "CHEM690",
-      "section": "09",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "M.S. THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "CHEM690",
       "section": "10",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
@@ -5986,16 +5956,6 @@
     {
       "code": "CHEM690",
       "section": "11",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "M.S. THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "CHEM690",
-      "section": "12",
       "department": "CHEMISTRY",
       "departmentCode": "CHEM",
       "name": "M.S. THESIS",
@@ -6051,126 +6011,6 @@
       "name": "GRADUATE SEMINAR",
       "credit": 0,
       "ects": 2,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "01",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "02",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "03",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "04",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "05",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "06",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "07",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "08",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "09",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "10",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "11",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CHEM790",
-      "section": "12",
-      "department": "CHEMISTRY",
-      "departmentCode": "CHEM",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
       "meetings": []
     },
     {
