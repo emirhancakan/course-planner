@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-16T08:01:55",
+  "generatedAt": "2026-10-17T07:40:10",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -44758,14 +44758,14 @@
           "instructor": "NEDİM NAMİ NOMER",
           "day": "T",
           "slot": 3,
-          "room": "ET 01"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
           "instructor": "NEDİM NAMİ NOMER",
           "day": "T",
           "slot": 4,
-          "room": "ET 01"
+          "room": "NH 404"
         },
         {
           "type": "LECT",
