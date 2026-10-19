@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-17T07:40:10",
+  "generatedAt": "2026-10-19T08:40:50",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -63280,14 +63280,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "FATİH AŞAN",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "M",
           "slot": 3,
           "room": "KP 02"
         },
         {
           "type": "LECT",
-          "instructor": "FATİH AŞAN",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "M",
           "slot": 4,
           "room": "KP 02"
@@ -63305,14 +63305,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "FATİH AŞAN",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "M",
           "slot": 5,
           "room": "KP 02"
         },
         {
           "type": "LECT",
-          "instructor": "FATİH AŞAN",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "M",
           "slot": 6,
           "room": "KP 02"
@@ -63730,14 +63730,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "HÜSNİYE GÜLSEV KOÇ",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 3,
           "room": "KP 05"
         },
         {
           "type": "LECT",
-          "instructor": "HÜSNİYE GÜLSEV KOÇ",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 4,
           "room": "KP 05"
@@ -63755,14 +63755,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "HÜSNİYE GÜLSEV KOÇ",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 5,
           "room": "KP 05"
         },
         {
           "type": "LECT",
-          "instructor": "HÜSNİYE GÜLSEV KOÇ",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "W",
           "slot": 6,
           "room": "KP 05"
@@ -63891,56 +63891,6 @@
           "day": "W",
           "slot": 6,
           "room": "KP 07"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
-      "section": "26",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "M",
-          "slot": 3,
-          "room": "KP 03"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "M",
-          "slot": 4,
-          "room": "KP 03"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
-      "section": "27",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "W",
-          "slot": 3,
-          "room": "EF 02"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "W",
-          "slot": 4,
-          "room": "EF 02"
         }
       ]
     },
@@ -64371,56 +64321,6 @@
     },
     {
       "code": "TK  221",
-      "section": "45",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "M",
-          "slot": 5,
-          "room": "KP 07"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "M",
-          "slot": 6,
-          "room": "KP 07"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
-      "section": "46",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "T",
-          "slot": 3,
-          "room": "EF 04"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "T",
-          "slot": 4,
-          "room": "EF 04"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
       "section": "47",
       "department": "TURKISH COURSES COORDINATOR",
       "departmentCode": "TK",
@@ -64555,14 +64455,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ESRA DİCLE",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "Th",
           "slot": 3,
           "room": "KP 06"
         },
         {
           "type": "LECT",
-          "instructor": "ESRA DİCLE",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "Th",
           "slot": 4,
           "room": "KP 06"
@@ -64580,14 +64480,14 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ESRA DİCLE",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "Th",
           "slot": 5,
           "room": "KP 06"
         },
         {
           "type": "LECT",
-          "instructor": "ESRA DİCLE",
+          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
           "day": "Th",
           "slot": 6,
           "room": "KP 06"
@@ -64641,56 +64541,6 @@
           "day": "F",
           "slot": 4,
           "room": "KP 04"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
-      "section": "56",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "T",
-          "slot": 5,
-          "room": "EF 04"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "T",
-          "slot": 6,
-          "room": "EF 04"
-        }
-      ]
-    },
-    {
-      "code": "TK  221",
-      "section": "57",
-      "department": "TURKISH COURSES COORDINATOR",
-      "departmentCode": "TK",
-      "name": "TURKISH FOR NATIVE SPEAKERS I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "W",
-          "slot": 5,
-          "room": "EF 02"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-          "day": "W",
-          "slot": 6,
-          "room": "EF 02"
         }
       ]
     },
@@ -66650,21 +66500,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "instructor": "NAZMİYE TEMİZ",
           "day": "W",
           "slot": 3,
           "room": "ET B413"
         },
         {
           "type": "LECT",
-          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "instructor": "NAZMİYE TEMİZ",
           "day": "W",
           "slot": 4,
           "room": "ET B413"
         },
         {
           "type": "LECT",
-          "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+          "instructor": "NAZMİYE TEMİZ",
           "day": "Th",
           "slot": 2,
           "room": "ET B413"
