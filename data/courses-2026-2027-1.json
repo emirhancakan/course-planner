@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-20T08:22:40",
+  "generatedAt": "2026-10-21T08:25:59",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -8331,28 +8331,28 @@
           "instructor": "YAVUZ AKPINAR",
           "day": "Th",
           "slot": 7,
-          "room": "ET B513"
+          "room": "ET B513,ET B513"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ AKPINAR",
           "day": "Th",
           "slot": 8,
-          "room": "ET B513"
+          "room": "ET B513,ET B513"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ AKPINAR",
           "day": "F",
           "slot": 1,
-          "room": "EF 416 (LAB)"
+          "room": "EF 416 (LAB),EF 416 (LAB)"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ AKPINAR",
           "day": "F",
           "slot": 2,
-          "room": "EF 416 (LAB)"
+          "room": "EF 416 (LAB),EF 416 (LAB)"
         }
       ]
     },
@@ -8519,21 +8519,21 @@
           "instructor": "EKREM KUTBAY",
           "day": "M",
           "slot": 3,
-          "room": "ET B513"
+          "room": "ET B513,ET B513"
         },
         {
           "type": "LECT",
           "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 5,
-          "room": "ET B509"
+          "room": "ET B509,ET B509"
         },
         {
           "type": "LECT",
           "instructor": "EKREM KUTBAY",
           "day": "T",
           "slot": 6,
-          "room": "ET B509"
+          "room": "ET B509,ET B509"
         }
       ]
     },
@@ -12434,9 +12434,9 @@
         {
           "type": "P.S.",
           "instructor": "ŞENER ÖZÖNDER",
-          "day": "T",
+          "day": "M",
           "slot": 4,
-          "room": "VB 100"
+          "room": "M 2231"
         }
       ]
     },
