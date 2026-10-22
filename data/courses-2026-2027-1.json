@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-21T08:25:59",
+  "generatedAt": "2026-10-22T08:28:33",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -8345,14 +8345,14 @@
           "instructor": "YAVUZ AKPINAR",
           "day": "F",
           "slot": 1,
-          "room": "EF 416 (LAB),EF 416 (LAB)"
+          "room": "EF 416 (LAB),EF 416"
         },
         {
           "type": "LECT",
           "instructor": "YAVUZ AKPINAR",
           "day": "F",
           "slot": 2,
-          "room": "EF 416 (LAB),EF 416 (LAB)"
+          "room": "EF 416 (LAB),EF 416"
         }
       ]
     },
@@ -30027,14 +30027,14 @@
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "W",
           "slot": 7,
-          "room": "VB 200"
+          "room": "İB 201"
         },
         {
           "type": "P.S.",
           "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
           "day": "W",
           "slot": 8,
-          "room": "VB 200"
+          "room": "İB 201"
         }
       ]
     },
@@ -35449,14 +35449,14 @@
           "type": "LAB",
           "instructor": "NAZIM ZİYA PERDAHÇI",
           "day": "F",
-          "slot": 2,
+          "slot": 7,
           "room": "HH 108 LAB"
         },
         {
           "type": "LAB",
           "instructor": "NAZIM ZİYA PERDAHÇI",
           "day": "F",
-          "slot": 3,
+          "slot": 8,
           "room": "HH 108 LAB"
         },
         {
@@ -35595,6 +35595,13 @@
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "T",
           "slot": 3,
+          "room": "HH 108 LAB"
+        },
+        {
+          "type": "LAB",
+          "instructor": "AYSUN BOZANTA HAKYEMEZ",
+          "day": "Th",
+          "slot": 8,
           "room": "HH 108 LAB"
         }
       ]
@@ -35766,9 +35773,9 @@
         {
           "type": "P.S.",
           "instructor": "STAFF STAFF",
-          "day": "T",
-          "slot": 2,
-          "room": "NH 203"
+          "day": "W",
+          "slot": 5,
+          "room": "HH 108 LAB"
         }
       ]
     },
