@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-22T08:28:33",
+  "generatedAt": "2026-10-23T08:24:33",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -39895,14 +39895,14 @@
           "instructor": "SEVİL AKAYGÜN",
           "day": "T",
           "slot": 1,
-          "room": "EF 316"
+          "room": "EF 306"
         },
         {
           "type": "LECT",
           "instructor": "SEVİL AKAYGÜN",
           "day": "T",
           "slot": 2,
-          "room": "EF 316"
+          "room": "EF 306"
         }
       ]
     },
@@ -53800,14 +53800,14 @@
           "instructor": "ERHAN KAYAALP",
           "day": "W",
           "slot": 7,
-          "room": "NH 003"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
           "instructor": "ERHAN KAYAALP",
           "day": "W",
           "slot": 8,
-          "room": "NH 003"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
@@ -53959,14 +53959,14 @@
           "instructor": "ERHAN KAYAALP",
           "day": "W",
           "slot": 5,
-          "room": "NH 003"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
           "instructor": "ERHAN KAYAALP",
           "day": "W",
           "slot": 6,
-          "room": "NH 003"
+          "room": "EF 203"
         },
         {
           "type": "LECT",
@@ -60109,28 +60109,28 @@
           "instructor": "BÜLENT KÜÇÜK",
           "day": "F",
           "slot": 1,
-          "room": ""
+          "room": "TBA,TBA"
         },
         {
           "type": "LECT",
           "instructor": "BÜLENT KÜÇÜK",
           "day": "F",
           "slot": 2,
-          "room": ""
+          "room": "TBA,TBA"
         },
         {
           "type": "LECT",
           "instructor": "BÜLENT KÜÇÜK",
           "day": "F",
           "slot": 3,
-          "room": ""
+          "room": "TBA,TBA"
         },
         {
           "type": "LECT",
           "instructor": "BÜLENT KÜÇÜK",
           "day": "F",
           "slot": 4,
-          "room": ""
+          "room": "TBA,TBA"
         }
       ]
     },
