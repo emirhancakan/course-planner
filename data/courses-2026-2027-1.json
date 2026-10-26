@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-23T08:24:33",
+  "generatedAt": "2026-10-26T08:43:24",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -34479,16 +34479,6 @@
       ]
     },
     {
-      "code": "AD  573",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "FINANCIAL ECONOMETRICS",
-      "credit": 3,
-      "ects": 7.5,
-      "meetings": []
-    },
-    {
       "code": "AD  577",
       "section": "01",
       "department": "MANAGEMENT",
@@ -34574,16 +34564,6 @@
     },
     {
       "code": "AD  581",
-      "section": "03",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
       "section": "04",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
@@ -34594,57 +34574,7 @@
     },
     {
       "code": "AD  581",
-      "section": "05",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "06",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
       "section": "07",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "08",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "09",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "10",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
       "name": "DIRECTED READINGS IN MANAGEMENT",
@@ -34665,36 +34595,6 @@
     {
       "code": "AD  581",
       "section": "12",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "13",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "14",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MANAGEMENT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "AD  581",
-      "section": "15",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
       "name": "DIRECTED READINGS IN MANAGEMENT",
@@ -34781,46 +34681,6 @@
       ]
     },
     {
-      "code": "AD  675",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN OIM",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  676",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN OIM",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  677",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN OIM",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  680",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN FINANCE THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
       "code": "AD  680",
       "section": "02",
       "department": "MANAGEMENT",
@@ -34828,86 +34688,6 @@
       "name": "DIRECTED READINGS IN FINANCE THEORY",
       "credit": 4,
       "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  680",
-      "section": "03",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN FINANCE THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  680",
-      "section": "04",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN FINANCE THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  680",
-      "section": "05",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN FINANCE THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  680",
-      "section": "06",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN FINANCE THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  685",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  686",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  687",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
       "meetings": []
     },
     {
@@ -34933,36 +34713,6 @@
     {
       "code": "AD  690",
       "section": "04",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "05",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "06",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "07",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
       "name": "MASTER THESIS",
@@ -34992,36 +34742,6 @@
     },
     {
       "code": "AD  690",
-      "section": "10",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "11",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "12",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
       "section": "13",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
@@ -35038,26 +34758,6 @@
       "name": "MASTER THESIS",
       "credit": 0,
       "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  690",
-      "section": "15",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "MASTER THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "AD  691",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MARKETING THEORY",
-      "credit": 4,
-      "ects": 30,
       "meetings": []
     },
     {
@@ -35134,67 +34834,7 @@
     },
     {
       "code": "AD  790",
-      "section": "04",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "05",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "06",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
       "section": "07",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "08",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "09",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "10",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
       "name": "Ph.D DISSERTATION",
@@ -35225,16 +34865,6 @@
     {
       "code": "AD  790",
       "section": "13",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "Ph.D DISSERTATION",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "AD  790",
-      "section": "14",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
       "name": "Ph.D DISSERTATION",
@@ -45575,42 +45205,6 @@
     },
     {
       "code": "PE  101",
-      "section": "01",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "STEP I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "VİLDAN ZAN KİPRİ",
-          "day": "Th",
-          "slot": 1,
-          "room": "GKM"
-        }
-      ]
-    },
-    {
-      "code": "PE  101",
-      "section": "02",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "STEP I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "VİLDAN ZAN KİPRİ",
-          "day": "Th",
-          "slot": 2,
-          "room": "GKM"
-        }
-      ]
-    },
-    {
-      "code": "PE  101",
       "section": "03",
       "department": "PHYSICAL EDUCATION",
       "departmentCode": "PE",
@@ -45628,24 +45222,6 @@
       ]
     },
     {
-      "code": "PE  101",
-      "section": "04",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "STEP I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "VİLDAN ZAN KİPRİ",
-          "day": "F",
-          "slot": 7,
-          "room": "GKM"
-        }
-      ]
-    },
-    {
       "code": "PE  103",
       "section": "01",
       "department": "PHYSICAL EDUCATION",
@@ -45694,42 +45270,6 @@
           "type": "LECT",
           "instructor": "MUHAMMED SIDDIK ÇEMÇ",
           "day": "Th",
-          "slot": 1,
-          "room": "UÇAKSAVAR SALON"
-        }
-      ]
-    },
-    {
-      "code": "PE  103",
-      "section": "04",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "FITNESS I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-          "day": "Th",
-          "slot": 2,
-          "room": "UÇAKSAVAR SALON"
-        }
-      ]
-    },
-    {
-      "code": "PE  103",
-      "section": "05",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "FITNESS I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-          "day": "F",
           "slot": 1,
           "room": "UÇAKSAVAR SALON"
         }
@@ -45808,42 +45348,6 @@
       ]
     },
     {
-      "code": "PE  109",
-      "section": "03",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "HEALTH & SPORTS CLINIQUE I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-          "day": "F",
-          "slot": 7,
-          "room": "HİSAR OFİS"
-        }
-      ]
-    },
-    {
-      "code": "PE  110",
-      "section": "01",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "HEALTH&SPORTS CLINIQUE II",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "YUNUS EMRE SUSUZ",
-          "day": "Th",
-          "slot": 7,
-          "room": "HİSAR OFİS"
-        }
-      ]
-    },
-    {
       "code": "PE  115",
       "section": "01",
       "department": "PHYSICAL EDUCATION",
@@ -45857,24 +45361,6 @@
           "instructor": "ALPEREN AKBULUT",
           "day": "Th",
           "slot": 1,
-          "room": "UÇAKSAVAR ÇİM"
-        }
-      ]
-    },
-    {
-      "code": "PE  115",
-      "section": "02",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "TRACK & FIELD I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ALPEREN AKBULUT",
-          "day": "Th",
-          "slot": 2,
           "room": "UÇAKSAVAR ÇİM"
         }
       ]
@@ -46546,24 +46032,6 @@
       ]
     },
     {
-      "code": "PE  135",
-      "section": "02",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "ROWING I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET OKTAR",
-          "day": "W",
-          "slot": 2,
-          "room": "UÇAKSAVAR ORTAK"
-        }
-      ]
-    },
-    {
       "code": "PE  141",
       "section": "01",
       "department": "PHYSICAL EDUCATION",
@@ -46920,114 +46388,6 @@
           "day": "F",
           "slot": 5,
           "room": "GKM"
-        }
-      ]
-    },
-    {
-      "code": "PE  153",
-      "section": "01",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "CIRCUIT TRAINING I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET OKTAR",
-          "day": "F",
-          "slot": 1,
-          "room": "UÇAKSAVAR PİST"
-        }
-      ]
-    },
-    {
-      "code": "PE  153",
-      "section": "02",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "CIRCUIT TRAINING I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET OKTAR",
-          "day": "F",
-          "slot": 2,
-          "room": "UÇAKSAVAR PİST"
-        }
-      ]
-    },
-    {
-      "code": "PE  153",
-      "section": "03",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "CIRCUIT TRAINING I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET OKTAR",
-          "day": "F",
-          "slot": 3,
-          "room": "UÇAKSAVAR PİST"
-        }
-      ]
-    },
-    {
-      "code": "PE  153",
-      "section": "04",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "CIRCUIT TRAINING I",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET OKTAR",
-          "day": "F",
-          "slot": 6,
-          "room": "UÇAKSAVAR PİST"
-        }
-      ]
-    },
-    {
-      "code": "PE  480",
-      "section": "02",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "SP.TP.PHYSICAL FITNESS",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ALPEREN AKBULUT",
-          "day": "F",
-          "slot": 8,
-          "room": "HİSAR OFİS"
-        }
-      ]
-    },
-    {
-      "code": "PE  480",
-      "section": "03",
-      "department": "PHYSICAL EDUCATION",
-      "departmentCode": "PE",
-      "name": "SP.TP.PHYSICAL FITNESS",
-      "credit": 1,
-      "ects": 2,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ALPEREN AKBULUT",
-          "day": "F",
-          "slot": 9,
-          "room": "HİSAR OFİS"
         }
       ]
     },
