@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-26T08:43:24",
+  "generatedAt": "2026-10-27T08:49:19",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -8779,43 +8779,7 @@
       "name": "TEACHING PRACTICE I",
       "credit": 4,
       "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "YAVUZ AKPINAR",
-          "day": "M",
-          "slot": 1,
-          "room": "ET B511"
-        },
-        {
-          "type": "LECT",
-          "instructor": "YAVUZ AKPINAR",
-          "day": "M",
-          "slot": 2,
-          "room": "ET B511"
-        },
-        {
-          "type": "LECT",
-          "instructor": "YAVUZ AKPINAR",
-          "day": "W",
-          "slot": 2,
-          "room": "ET B509"
-        },
-        {
-          "type": "LECT",
-          "instructor": "YAVUZ AKPINAR",
-          "day": "W",
-          "slot": 3,
-          "room": "ET B509"
-        },
-        {
-          "type": "LECT",
-          "instructor": "YAVUZ AKPINAR",
-          "day": "W",
-          "slot": 4,
-          "room": "ET B509"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "CET 48B",
@@ -14787,22 +14751,7 @@
       "name": "GRADUATE SEMINAR",
       "credit": 0,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ORHAN AYGÜN",
-          "day": "F",
-          "slot": 7,
-          "room": "HH 120"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ORHAN AYGÜN",
-          "day": "F",
-          "slot": 8,
-          "room": "HH 120"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "EC  603",
@@ -19122,29 +19071,7 @@
       "name": "DRINKING WATER DISINFECTION",
       "credit": 3,
       "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "CEYDA SENEM UYGUNER DEMİREL",
-          "day": "M",
-          "slot": 2,
-          "room": "HC 201"
-        },
-        {
-          "type": "LECT",
-          "instructor": "CEYDA SENEM UYGUNER DEMİREL",
-          "day": "M",
-          "slot": 3,
-          "room": "HC 201"
-        },
-        {
-          "type": "LECT",
-          "instructor": "CEYDA SENEM UYGUNER DEMİREL",
-          "day": "M",
-          "slot": 4,
-          "room": "HC 201"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ESC 539",
@@ -19460,29 +19387,7 @@
       "name": "ENVIRONMENTAL TOXICOLOGY",
       "credit": 3,
       "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MELEK TÜRKER SAÇAN",
-          "day": "Th",
-          "slot": 2,
-          "room": "HC 301"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELEK TÜRKER SAÇAN",
-          "day": "Th",
-          "slot": 3,
-          "room": "HC 301"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELEK TÜRKER SAÇAN",
-          "day": "Th",
-          "slot": 4,
-          "room": "HC 301"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ESC 653",
@@ -19492,29 +19397,7 @@
       "name": "CHEMISTRY OF THE ATMOSPHERE",
       "credit": 3,
       "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "FATMA ÖZTÜRK",
-          "day": "W",
-          "slot": 3,
-          "room": "HC 214"
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATMA ÖZTÜRK",
-          "day": "W",
-          "slot": 4,
-          "room": "HC 214"
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATMA ÖZTÜRK",
-          "day": "W",
-          "slot": 5,
-          "room": "HC 214"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ESC 690",
@@ -30494,29 +30377,7 @@
       "name": "INTERNET LAW",
       "credit": 3,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED FURKAN AKINCI",
-          "day": "F",
-          "slot": 2,
-          "room": "M 2200"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED FURKAN AKINCI",
-          "day": "F",
-          "slot": 3,
-          "room": "M 2200"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUHAMMED FURKAN AKINCI",
-          "day": "F",
-          "slot": 4,
-          "room": "M 2200"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "LAW 341",
@@ -30558,29 +30419,7 @@
       "name": "CYBER CRIMES",
       "credit": 3,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "M",
-          "slot": 2,
-          "room": "M 2152"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "T",
-          "slot": 2,
-          "room": "EF 106"
-        },
-        {
-          "type": "LECT",
-          "instructor": "MUSTAFA AKGÜN",
-          "day": "T",
-          "slot": 3,
-          "room": "EF 106"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "LAW 349",
@@ -31721,29 +31560,7 @@
       "name": "ADVENCED SEMANTICS",
       "credit": 3,
       "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ELENA GUERZONI",
-          "day": "M",
-          "slot": 3,
-          "room": "TB 260A"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ELENA GUERZONI",
-          "day": "M",
-          "slot": 4,
-          "room": "TB 260A"
-        },
-        {
-          "type": "LECT",
-          "instructor": "ELENA GUERZONI",
-          "day": "Th",
-          "slot": 3,
-          "room": "TB 155"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "LING487",
@@ -38908,36 +38725,7 @@
       "name": "PRE-CALCULUS FOR SECONDARY SCHOOL TEACHING",
       "credit": 4,
       "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "GÜLSEREN KARAGÖZ AKAR",
-          "day": "M",
-          "slot": 1,
-          "room": "EF 306"
-        },
-        {
-          "type": "LECT",
-          "instructor": "GÜLSEREN KARAGÖZ AKAR",
-          "day": "M",
-          "slot": 2,
-          "room": "EF 306"
-        },
-        {
-          "type": "LECT",
-          "instructor": "GÜLSEREN KARAGÖZ AKAR",
-          "day": "T",
-          "slot": 1,
-          "room": "ET B415"
-        },
-        {
-          "type": "LECT",
-          "instructor": "GÜLSEREN KARAGÖZ AKAR",
-          "day": "T",
-          "slot": 2,
-          "room": "ET B415"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "SCED370",
@@ -39797,29 +39585,7 @@
       "name": "CURRICULUM PROJECT IN SCIENCE/MATHEMATICS EDUCATION",
       "credit": 3,
       "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "DEVRİM GÜVEN",
-          "day": "W",
-          "slot": 4,
-          "room": "ET B715-2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "DEVRİM GÜVEN",
-          "day": "W",
-          "slot": 5,
-          "room": "ET B715-2"
-        },
-        {
-          "type": "LECT",
-          "instructor": "DEVRİM GÜVEN",
-          "day": "W",
-          "slot": 6,
-          "room": "ET B715-2"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "SCED48D",
@@ -41119,29 +40885,7 @@
       "name": "SPECIAL TOPICS PRODUCT DESIGN AND DEVELOPMENT",
       "credit": 3,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SABRİ ALTINTAŞ",
-          "day": "T",
-          "slot": 5,
-          "room": "M 2230"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SABRİ ALTINTAŞ",
-          "day": "T",
-          "slot": 6,
-          "room": "M 2230"
-        },
-        {
-          "type": "LECT",
-          "instructor": "SABRİ ALTINTAŞ",
-          "day": "Th",
-          "slot": 5,
-          "room": "VYKM3"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ME  48B",
@@ -41719,29 +41463,7 @@
       "name": "GAS DYNAMICS",
       "credit": 3,
       "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "EKREM  EKİCİ",
-          "day": "T",
-          "slot": 6,
-          "room": "M 2231"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EKREM  EKİCİ",
-          "day": "T",
-          "slot": 7,
-          "room": "M 2231"
-        },
-        {
-          "type": "LECT",
-          "instructor": "EKREM  EKİCİ",
-          "day": "Th",
-          "slot": 6,
-          "room": "M 2231"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "ME  690",
@@ -52547,29 +52269,7 @@
       "name": "ELEMENTARY ABKHAZ II",
       "credit": 3,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "GUNDA ANKVAB",
-          "day": "T",
-          "slot": 8,
-          "room": "JF 108"
-        },
-        {
-          "type": "LECT",
-          "instructor": "GUNDA ANKVAB",
-          "day": "T",
-          "slot": 9,
-          "room": "JF 108"
-        },
-        {
-          "type": "LECT",
-          "instructor": "GUNDA ANKVAB",
-          "day": "T",
-          "slot": 10,
-          "room": "JF 108"
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "CHIN101",
@@ -52864,29 +52564,7 @@
       "name": "CLASSICAL CHINESE",
       "credit": 3,
       "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "QIANWEN ZHOU",
-          "day": "T",
-          "slot": 1,
-          "room": "KONF.ENST."
-        },
-        {
-          "type": "LECT",
-          "instructor": "QIANWEN ZHOU",
-          "day": "T",
-          "slot": 2,
-          "room": "KONF.ENST."
-        },
-        {
-          "type": "LECT",
-          "instructor": "QIANWEN ZHOU",
-          "day": "T",
-          "slot": 3,
-          "room": "KONF.ENST."
-        }
-      ]
+      "meetings": []
     },
     {
       "code": "CHIN411",
