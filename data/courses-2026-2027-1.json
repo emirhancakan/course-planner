@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-10-27T08:49:19",
+  "generatedAt": "2026-10-30T09:48:01",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -1765,190 +1765,6 @@
     },
     {
       "code": "BIS 591",
-      "section": "07",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "NAZIM ZİYA PERDAHÇI",
-          "day": "M",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NAZIM ZİYA PERDAHÇI",
-          "day": "M",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NAZIM ZİYA PERDAHÇI",
-          "day": "T",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NAZIM ZİYA PERDAHÇI",
-          "day": "T",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "NAZIM ZİYA PERDAHÇI",
-          "day": "W",
-          "slot": 9,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 591",
-      "section": "08",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "SONA MARDİKYAN",
-          "day": "M",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SONA MARDİKYAN",
-          "day": "M",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SONA MARDİKYAN",
-          "day": "T",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SONA MARDİKYAN",
-          "day": "T",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "SONA MARDİKYAN",
-          "day": "W",
-          "slot": 9,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 591",
-      "section": "09",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BİLGİN METİN",
-          "day": "M",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BİLGİN METİN",
-          "day": "M",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BİLGİN METİN",
-          "day": "T",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BİLGİN METİN",
-          "day": "T",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BİLGİN METİN",
-          "day": "W",
-          "slot": 9,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 591",
-      "section": "11",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "M",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "M",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "T",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "T",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "W",
-          "slot": 9,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 591",
       "section": "12",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
@@ -2041,190 +1857,6 @@
     },
     {
       "code": "BIS 592",
-      "section": "01",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "BERTAN YILMAZ BADUR",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERTAN YILMAZ BADUR",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERTAN YILMAZ BADUR",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERTAN YILMAZ BADUR",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "BERTAN YILMAZ BADUR",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
-      "section": "04",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET NAFİZ AYDIN",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
-      "section": "05",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ASLI SENCER",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLI SENCER",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLI SENCER",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLI SENCER",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLI SENCER",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
-      "section": "06",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "HANDE TÜRKER",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
       "section": "07",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
@@ -2362,184 +1994,6 @@
       ]
     },
     {
-      "code": "BIS 592",
-      "section": "11",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MELTEM ÖZTURAN",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
-      "section": "12",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ASLIHAN NASIR",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLIHAN NASIR",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLIHAN NASIR",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLIHAN NASIR",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ASLIHAN NASIR",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 592",
-      "section": "15",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-      "credit": 2,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "W",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "Th",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "Th",
-          "slot": 10,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "F",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "F",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 594",
-      "section": "01",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIS 594",
-      "section": "04",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIS 594",
-      "section": "05",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIS 594",
-      "section": "06",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
       "code": "BIS 594",
       "section": "07",
       "department": "BUSINESS INFORMATION SYSTEMS",
@@ -2562,26 +2016,6 @@
     {
       "code": "BIS 594",
       "section": "09",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIS 594",
-      "section": "11",
-      "department": "BUSINESS INFORMATION SYSTEMS",
-      "departmentCode": "BIS",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIS 594",
-      "section": "12",
       "department": "BUSINESS INFORMATION SYSTEMS",
       "departmentCode": "BIS",
       "name": "PROJECT",
@@ -2624,24 +2058,6 @@
           "instructor": "AYSUN BOZANTA HAKYEMEZ",
           "day": "S",
           "slot": 8,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "BIS 579",
-      "section": "01",
-      "department": "BUSINESS INFORMATION SYSTEMS (WITH THESIS)",
-      "departmentCode": "BIS",
-      "name": "GRADUATE SEMINAR",
-      "credit": 0,
-      "ects": 6,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "AYSUN BOZANTA HAKYEMEZ",
-          "day": "Th",
-          "slot": 11,
           "room": ""
         }
       ]
@@ -3393,16 +2809,6 @@
     },
     {
       "code": "CHE 470",
-      "section": "10",
-      "department": "CHEMICAL ENGINEERING",
-      "departmentCode": "CHE",
-      "name": "RESEARCH PROJECT IN CHEMICAL ENGINEERING I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "CHE 470",
       "section": "11",
       "department": "CHEMICAL ENGINEERING",
       "departmentCode": "CHE",
@@ -3499,16 +2905,6 @@
       "departmentCode": "CHE",
       "name": "PROJECT",
       "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "CHE 510",
-      "section": "01",
-      "department": "CHEMICAL ENGINEERING",
-      "departmentCode": "CHE",
-      "name": "BIOMOLECULAR MACHINES: DYNAMICS, ALLOSTERY, FUNCTION, AND DESIGN",
-      "credit": 3,
       "ects": 8,
       "meetings": []
     },
@@ -3664,16 +3060,6 @@
           "room": "KB 432"
         }
       ]
-    },
-    {
-      "code": "CHE 581",
-      "section": "01",
-      "department": "CHEMICAL ENGINEERING",
-      "departmentCode": "CHE",
-      "name": "SPECIAL TOPICS SUPERCAPACITOR TECHNOLOGIES",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
     },
     {
       "code": "CHE 591",
@@ -8772,16 +8158,6 @@
       ]
     },
     {
-      "code": "CET 451",
-      "section": "05",
-      "department": "COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY",
-      "departmentCode": "CET",
-      "name": "TEACHING PRACTICE I",
-      "credit": 4,
-      "ects": 6,
-      "meetings": []
-    },
-    {
       "code": "CET 48B",
       "section": "01",
       "department": "COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY",
@@ -10249,31 +9625,6 @@
           "day": "W",
           "slot": 8,
           "room": "BM A5"
-        }
-      ]
-    },
-    {
-      "code": "CMPE599",
-      "section": "01",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN MS-I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ARDA YURDAKUL",
-          "day": "M",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ARDA YURDAKUL",
-          "day": "M",
-          "slot": 2,
-          "room": ""
         },
         {
           "type": "LAB",
@@ -10643,31 +9994,6 @@
           "type": "LECT",
           "instructor": "MEHMET ALPER ŞEN",
           "day": "M",
-          "slot": 2,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE599",
-      "section": "12",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN MS-I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞEFİK ŞUAYB ARSLAN",
-          "day": "T",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞEFİK ŞUAYB ARSLAN",
-          "day": "T",
           "slot": 2,
           "room": ""
         },
@@ -11041,31 +10367,6 @@
           "day": "M",
           "slot": 6,
           "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE59A",
-      "section": "12",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN MS-II",
-      "credit": 0,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ŞEFİK ŞUAYB ARSLAN",
-          "day": "W",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ŞEFİK ŞUAYB ARSLAN",
-          "day": "W",
-          "slot": 4,
-          "room": ""
         },
         {
           "type": "LAB",
@@ -11093,31 +10394,6 @@
           "instructor": "ŞEFİK ŞUAYB ARSLAN",
           "day": "Th",
           "slot": 8,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE59A",
-      "section": "13",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN MS-II",
-      "credit": 0,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "F",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "F",
-          "slot": 2,
           "room": ""
         },
         {
@@ -11352,112 +10628,6 @@
     },
     {
       "code": "CMPE699",
-      "section": "02",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN PhD I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "F",
-          "slot": 4,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "F",
-          "slot": 5,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "M",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "M",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "M",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "FATİH ALAGÖZ",
-          "day": "M",
-          "slot": 4,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE699",
-      "section": "04",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN PhD I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "M",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "M",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "M",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "M",
-          "slot": 4,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "Th",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "TUNGA GÜNGÖR",
-          "day": "Th",
-          "slot": 2,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE699",
       "section": "08",
       "department": "COMPUTER ENGINEERING",
       "departmentCode": "CMPE",
@@ -11505,59 +10675,6 @@
           "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
           "day": "W",
           "slot": 8,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE699",
-      "section": "13",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN PhD I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 2,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LAB",
-          "instructor": "MEHMET TURAN",
-          "day": "M",
-          "slot": 4,
           "room": ""
         }
       ]
@@ -11664,31 +10781,6 @@
           "instructor": "TUNGA GÜNGÖR",
           "day": "Th",
           "slot": 6,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "CMPE69A",
-      "section": "13",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "GUIDED RESEARCH IN PhD II",
-      "credit": 0,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 2,
           "room": ""
         }
       ]
@@ -12533,146 +11625,6 @@
       ]
     },
     {
-      "code": "DSAI599",
-      "section": "01",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "02",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "03",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "04",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "05",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "06",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "07",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "08",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "09",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "10",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "11",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "12",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "13",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI599",
-      "section": "14",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
       "code": "DSAI642",
       "section": "01",
       "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
@@ -12895,192 +11847,6 @@
       "name": "M.S. THESIS",
       "credit": 0,
       "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "DSAI691",
-      "section": "01",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "DIRECTED STUDIES I",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 5,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "P.S.",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 8,
-          "room": ""
-        },
-        {
-          "type": "P.S.",
-          "instructor": "MEHMET TURAN",
-          "day": "W",
-          "slot": 9,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "DSAI699",
-      "section": "01",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "02",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "03",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "04",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "05",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "06",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "07",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "08",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "09",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "10",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "11",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "12",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "13",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "DSAI699",
-      "section": "14",
-      "department": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
-      "departmentCode": "DSAI",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
       "meetings": []
     },
     {
@@ -14742,16 +13508,6 @@
           "room": "HH 120"
         }
       ]
-    },
-    {
-      "code": "EC  579",
-      "section": "01",
-      "department": "ECONOMICS",
-      "departmentCode": "EC",
-      "name": "GRADUATE SEMINAR",
-      "credit": 0,
-      "ects": 5,
-      "meetings": []
     },
     {
       "code": "EC  603",
@@ -17885,127 +16641,7 @@
     },
     {
       "code": "EE  699",
-      "section": "01",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "02",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "03",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "04",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
       "section": "05",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "06",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "07",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "08",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "09",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "10",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "11",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "12",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "13",
       "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
       "departmentCode": "EE",
       "name": "GUIDED RESEARCH",
@@ -18026,36 +16662,6 @@
     {
       "code": "EE  699",
       "section": "15",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "16",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "17",
-      "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
-      "departmentCode": "EE",
-      "name": "GUIDED RESEARCH",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "EE  699",
-      "section": "18",
       "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
       "departmentCode": "EE",
       "name": "GUIDED RESEARCH",
@@ -19064,16 +17670,6 @@
       ]
     },
     {
-      "code": "ESC 528",
-      "section": "01",
-      "department": "ENVIRONMENTAL SCIENCES",
-      "departmentCode": "ENV",
-      "name": "DRINKING WATER DISINFECTION",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
       "code": "ESC 539",
       "section": "01",
       "department": "ENVIRONMENTAL SCIENCES",
@@ -19378,26 +17974,6 @@
           "room": "HC 214"
         }
       ]
-    },
-    {
-      "code": "ESC 651",
-      "section": "01",
-      "department": "ENVIRONMENTAL SCIENCES",
-      "departmentCode": "ENV",
-      "name": "ENVIRONMENTAL TOXICOLOGY",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ESC 653",
-      "section": "01",
-      "department": "ENVIRONMENTAL SCIENCES",
-      "departmentCode": "ENV",
-      "name": "CHEMISTRY OF THE ATMOSPHERE",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
     },
     {
       "code": "ESC 690",
@@ -20156,16 +18732,6 @@
       "meetings": []
     },
     {
-      "code": "ADEX503",
-      "section": "03",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "CORPORATE FINANCE I",
-      "credit": 2,
-      "ects": 3,
-      "meetings": []
-    },
-    {
       "code": "ADEX522",
       "section": "01",
       "department": "EXECUTIVE MBA",
@@ -20307,116 +18873,6 @@
     },
     {
       "code": "ADEX592",
-      "section": "01",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "04",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "07",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "08",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "09",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "10",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "11",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "14",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "17",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "18",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
       "section": "21",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
@@ -20426,198 +18882,8 @@
       "meetings": []
     },
     {
-      "code": "ADEX592",
-      "section": "22",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "23",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "24",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX592",
-      "section": "25",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "DIRECTED READINGS I",
-      "credit": 1,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "01",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "02",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "04",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "07",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "08",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "09",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "10",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "11",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "14",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "17",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "18",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
       "code": "ADEX596",
       "section": "21",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "22",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "23",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "24",
-      "department": "EXECUTIVE MBA",
-      "departmentCode": "XMBA",
-      "name": "TERM PROJECT I",
-      "credit": 0,
-      "ects": 3,
-      "meetings": []
-    },
-    {
-      "code": "ADEX596",
-      "section": "25",
       "department": "EXECUTIVE MBA",
       "departmentCode": "XMBA",
       "name": "TERM PROJECT I",
@@ -26252,26 +24518,6 @@
     },
     {
       "code": "HIST601",
-      "section": "09",
-      "department": "HISTORY",
-      "departmentCode": "HIST",
-      "name": "HISTORY SEMINAR",
-      "credit": 3,
-      "ects": 7,
-      "meetings": []
-    },
-    {
-      "code": "HIST601",
-      "section": "13",
-      "department": "HISTORY",
-      "departmentCode": "HIST",
-      "name": "HISTORY SEMINAR",
-      "credit": 3,
-      "ects": 7,
-      "meetings": []
-    },
-    {
-      "code": "HIST601",
       "section": "14",
       "department": "HISTORY",
       "departmentCode": "HIST",
@@ -30370,16 +28616,6 @@
       ]
     },
     {
-      "code": "LAW 339",
-      "section": "01",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "INTERNET LAW",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
       "code": "LAW 341",
       "section": "01",
       "department": "LAW PR.",
@@ -30410,16 +28646,6 @@
           "room": "EF 116"
         }
       ]
-    },
-    {
-      "code": "LAW 343",
-      "section": "01",
-      "department": "LAW PR.",
-      "departmentCode": "LAW",
-      "name": "CYBER CRIMES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
     },
     {
       "code": "LAW 349",
@@ -31482,37 +29708,7 @@
     },
     {
       "code": "LING412",
-      "section": "06",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "RESEARCH & WRITING",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "LING412",
-      "section": "07",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "RESEARCH & WRITING",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "LING412",
       "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "RESEARCH & WRITING",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "LING412",
-      "section": "09",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "RESEARCH & WRITING",
@@ -31551,16 +29747,6 @@
           "room": "TB 240"
         }
       ]
-    },
-    {
-      "code": "LING450",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "ADVENCED SEMANTICS",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
     },
     {
       "code": "LING487",
@@ -31736,57 +29922,7 @@
     },
     {
       "code": "LING570",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
-      "section": "02",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
-      "section": "03",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
       "section": "04",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
-      "section": "05",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
-      "section": "06",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "GUIDED STUDIES",
@@ -31805,48 +29941,8 @@
       "meetings": []
     },
     {
-      "code": "LING570",
-      "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING570",
-      "section": "09",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "GUIDED STUDIES",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
       "code": "LING571",
       "section": "02",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
-      "section": "03",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "READINGS IN LINGUISTICS I",
@@ -31866,70 +29962,10 @@
     },
     {
       "code": "LING571",
-      "section": "05",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
       "section": "06",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
-      "section": "07",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
-      "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING571",
-      "section": "09",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "02",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
       "credit": 1,
       "ects": 5,
       "meetings": []
@@ -31946,57 +29982,7 @@
     },
     {
       "code": "LING572",
-      "section": "04",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "05",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
       "section": "06",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "07",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "LING572",
-      "section": "09",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "READINGS IN LINGUISTICS II",
@@ -32075,178 +30061,8 @@
       "meetings": []
     },
     {
-      "code": "LING671",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "02",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "03",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "04",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "05",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "06",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "07",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING671",
-      "section": "09",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS I",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "01",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "02",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "03",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "04",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "05",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "06",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
       "code": "LING672",
       "section": "07",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "08",
-      "department": "LINGUISTICS",
-      "departmentCode": "LING",
-      "name": "READINGS IN LINGUISTICS II",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "LING672",
-      "section": "09",
       "department": "LINGUISTICS",
       "departmentCode": "LING",
       "name": "READINGS IN LINGUISTICS II",
@@ -34578,16 +32394,6 @@
       "meetings": []
     },
     {
-      "code": "AD  692",
-      "section": "01",
-      "department": "MANAGEMENT",
-      "departmentCode": "AD",
-      "name": "DIRECTED READINGS IN MARKETING THEORY",
-      "credit": 4,
-      "ects": 30,
-      "meetings": []
-    },
-    {
       "code": "AD  696",
       "section": "01",
       "department": "MANAGEMENT",
@@ -35441,16 +33247,6 @@
     },
     {
       "code": "MIS 492",
-      "section": "01",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
       "section": "02",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
@@ -35461,97 +33257,7 @@
     },
     {
       "code": "MIS 492",
-      "section": "04",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "06",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "07",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "08",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "09",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
       "section": "10",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "11",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "12",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "14",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "PROJECT",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "MIS 492",
-      "section": "15",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
       "name": "PROJECT",
@@ -35760,16 +33466,6 @@
     },
     {
       "code": "MIS 577",
-      "section": "01",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 577",
       "section": "02",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
@@ -35781,16 +33477,6 @@
     {
       "code": "MIS 577",
       "section": "04",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 577",
-      "section": "06",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
       "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
@@ -35820,16 +33506,6 @@
     },
     {
       "code": "MIS 577",
-      "section": "09",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 577",
       "section": "10",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
@@ -35841,16 +33517,6 @@
     {
       "code": "MIS 577",
       "section": "12",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 577",
-      "section": "14",
       "department": "MANAGEMENT INFORMATION SYSTEMS",
       "departmentCode": "MIS",
       "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
@@ -35978,106 +33644,6 @@
           "room": "HH 208-SEM2"
         }
       ]
-    },
-    {
-      "code": "MIS 678",
-      "section": "01",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "02",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "04",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "06",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "07",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "08",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "09",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "10",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "12",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "MIS 678",
-      "section": "14",
-      "department": "MANAGEMENT INFORMATION SYSTEMS",
-      "departmentCode": "MIS",
-      "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-      "credit": 0,
-      "ects": 6,
-      "meetings": []
     },
     {
       "code": "MIS 683",
@@ -38718,16 +36284,6 @@
       ]
     },
     {
-      "code": "SCED364",
-      "section": "01",
-      "department": "MATHEMATICS AND SCIENCE EDUCATION",
-      "departmentCode": "SCED",
-      "name": "PRE-CALCULUS FOR SECONDARY SCHOOL TEACHING",
-      "credit": 4,
-      "ects": 6,
-      "meetings": []
-    },
-    {
       "code": "SCED370",
       "section": "01",
       "department": "MATHEMATICS AND SCIENCE EDUCATION",
@@ -39576,16 +37132,6 @@
           "room": "ET B415"
         }
       ]
-    },
-    {
-      "code": "SCED474",
-      "section": "01",
-      "department": "MATHEMATICS AND SCIENCE EDUCATION",
-      "departmentCode": "SCED",
-      "name": "CURRICULUM PROJECT IN SCIENCE/MATHEMATICS EDUCATION",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
     },
     {
       "code": "SCED48D",
@@ -40878,16 +38424,6 @@
       ]
     },
     {
-      "code": "ME  483",
-      "section": "01",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "SPECIAL TOPICS PRODUCT DESIGN AND DEVELOPMENT",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
       "code": "ME  48B",
       "section": "01",
       "department": "MECHANICAL ENGINEERING",
@@ -41213,77 +38749,7 @@
     },
     {
       "code": "ME  599",
-      "section": "01",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "02",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "03",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "04",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "05",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "06",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
       "section": "07",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "08",
       "department": "MECHANICAL ENGINEERING",
       "departmentCode": "ME",
       "name": "GUIDED RESEARCH",
@@ -41303,87 +38769,7 @@
     },
     {
       "code": "ME  599",
-      "section": "10",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "11",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "12",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "14",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "15",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "17",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "19",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
       "section": "20",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH",
-      "credit": 0,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  599",
-      "section": "21",
       "department": "MECHANICAL ENGINEERING",
       "departmentCode": "ME",
       "name": "GUIDED RESEARCH",
@@ -41456,16 +38842,6 @@
       ]
     },
     {
-      "code": "ME  654",
-      "section": "01",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GAS DYNAMICS",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
       "code": "ME  690",
       "section": "01",
       "department": "MECHANICAL ENGINEERING",
@@ -41647,167 +39023,7 @@
     },
     {
       "code": "ME  699",
-      "section": "01",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "02",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "03",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "04",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "05",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "06",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "07",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "08",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "09",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "10",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "11",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "12",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "14",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
       "section": "15",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "17",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "19",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  699",
-      "section": "20",
       "department": "MECHANICAL ENGINEERING",
       "departmentCode": "ME",
       "name": "GUIDED RESEARCH I",
@@ -41822,16 +39038,6 @@
       "departmentCode": "ME",
       "name": "GUIDED RESEARCH I",
       "credit": 4,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "ME  69A",
-      "section": "01",
-      "department": "MECHANICAL ENGINEERING",
-      "departmentCode": "ME",
-      "name": "GUIDED RESEARCH II",
-      "credit": 0,
       "ects": 8,
       "meetings": []
     },
@@ -43122,67 +40328,7 @@
     },
     {
       "code": "BIO 491",
-      "section": "07",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
-      "section": "08",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
-      "section": "09",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
-      "section": "10",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
       "section": "11",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
-      "section": "12",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 491",
-      "section": "13",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "SPECIAL PROJECTS I",
@@ -43201,38 +40347,8 @@
       "meetings": []
     },
     {
-      "code": "BIO 491",
-      "section": "15",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "SPECIAL PROJECTS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "01",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
       "code": "BIO 500",
       "section": "02",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "03",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
@@ -43252,37 +40368,7 @@
     },
     {
       "code": "BIO 500",
-      "section": "05",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "06",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
       "section": "07",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "08",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
@@ -43302,47 +40388,7 @@
     },
     {
       "code": "BIO 500",
-      "section": "10",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "11",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "12",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
       "section": "13",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 14,
-      "meetings": []
-    },
-    {
-      "code": "BIO 500",
-      "section": "14",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
@@ -43422,57 +40468,7 @@
     },
     {
       "code": "BIO 601",
-      "section": "01",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "02",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "03",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
       "section": "04",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "05",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "06",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
@@ -43493,66 +40489,6 @@
     {
       "code": "BIO 601",
       "section": "08",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "09",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "10",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "11",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "12",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "13",
-      "department": "MOLECULAR BIOLOGY & GENETICS",
-      "departmentCode": "BIO",
-      "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-      "credit": 3,
-      "ects": 16,
-      "meetings": []
-    },
-    {
-      "code": "BIO 601",
-      "section": "14",
       "department": "MOLECULAR BIOLOGY & GENETICS",
       "departmentCode": "BIO",
       "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
@@ -44243,36 +41179,6 @@
     },
     {
       "code": "PHIL499",
-      "section": "02",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "03",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "05",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
       "section": "06",
       "department": "PHILOSOPHY",
       "departmentCode": "PHIL",
@@ -44283,57 +41189,7 @@
     },
     {
       "code": "PHIL499",
-      "section": "07",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "08",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "09",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "10",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
       "section": "11",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "INDEPENDENT STUDY",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "PHIL499",
-      "section": "12",
       "department": "PHILOSOPHY",
       "departmentCode": "PHIL",
       "name": "INDEPENDENT STUDY",
@@ -44577,47 +41433,7 @@
     },
     {
       "code": "PHIL590",
-      "section": "01",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
       "section": "02",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "03",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "05",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "06",
       "department": "PHILOSOPHY",
       "departmentCode": "PHIL",
       "name": "DIRECTED STUDY",
@@ -44638,46 +41454,6 @@
     {
       "code": "PHIL590",
       "section": "08",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "09",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "10",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "11",
-      "department": "PHILOSOPHY",
-      "departmentCode": "PHIL",
-      "name": "DIRECTED STUDY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
-      "code": "PHIL590",
-      "section": "12",
       "department": "PHILOSOPHY",
       "departmentCode": "PHIL",
       "name": "DIRECTED STUDY",
@@ -47867,16 +44643,6 @@
       "meetings": []
     },
     {
-      "code": "PHYS68L",
-      "section": "01",
-      "department": "PHYSICS",
-      "departmentCode": "PHYS",
-      "name": "SPECIAL TOPICS IN PHYSICS:ATMOSPHERIC&OCEANIC FLUID",
-      "credit": 4,
-      "ects": 10,
-      "meetings": []
-    },
-    {
       "code": "PHYS690",
       "section": "01",
       "department": "PHYSICS",
@@ -48962,51 +45728,11 @@
       "meetings": []
     },
     {
-      "code": "POLS593",
-      "section": "03",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "R.&R.IN COMPARATIVE POLITICS I",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "POLS598",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "R&R IN QUANTITATIVE RESEARCH IN POLITICS SCIENCE II",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "POLS685",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "SPECIAL TOPICS RESEARCH&READING IN INTERNATIONAL RESEARCH",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
       "code": "POLS685",
       "section": "02",
       "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
       "departmentCode": "POLS",
       "name": "SPECIAL TOPICS RESEARCH&READING IN INTERNATIONAL RESEARCH",
-      "credit": 3,
-      "ects": 8,
-      "meetings": []
-    },
-    {
-      "code": "POLS687",
-      "section": "02",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "R&R IN COMPARATIVE POLITICS",
       "credit": 3,
       "ects": 8,
       "meetings": []
@@ -49129,16 +45855,6 @@
       "name": "R&R IN RESEARCH METHODS",
       "credit": 3,
       "ects": null,
-      "meetings": []
-    },
-    {
-      "code": "POLS700",
-      "section": "01",
-      "department": "POLITICAL SCIENCE&INTERNATIONAL RELATIONS",
-      "departmentCode": "POLS",
-      "name": "GRADUATE SEMINAR",
-      "credit": 0,
-      "ects": 7,
       "meetings": []
     },
     {
@@ -50182,16 +46898,6 @@
           "room": ""
         }
       ]
-    },
-    {
-      "code": "PSY 504",
-      "section": "01",
-      "department": "PSYCHOLOGY",
-      "departmentCode": "PSY",
-      "name": "RESEARCH PROJECT IN PSYCHOLOGY I",
-      "credit": 4,
-      "ects": 8,
-      "meetings": []
     },
     {
       "code": "PSY 504",
@@ -52262,16 +48968,6 @@
       ]
     },
     {
-      "code": "CAU 122",
-      "section": "01",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "ELEMENTARY ABKHAZ II",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
       "code": "CHIN101",
       "section": "01",
       "department": "SCHOOL OF FOREIGN LANGUAGES",
@@ -52552,16 +49248,6 @@
       "department": "SCHOOL OF FOREIGN LANGUAGES",
       "departmentCode": "YADYOK",
       "name": "READINGS IN CHINESE CULTURE I",
-      "credit": 3,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "CHIN403",
-      "section": "01",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "CLASSICAL CHINESE",
       "credit": 3,
       "ects": 5,
       "meetings": []
@@ -55828,59 +52514,6 @@
           "day": "F",
           "slot": 4,
           "room": "TB 225"
-        }
-      ]
-    },
-    {
-      "code": "PER 202",
-      "section": "01",
-      "department": "SCHOOL OF FOREIGN LANGUAGES",
-      "departmentCode": "YADYOK",
-      "name": "PERSIAN II",
-      "credit": 3,
-      "ects": 5,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "T",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "T",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "W",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "W",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "F",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "ZEYNEP EDEBALİ",
-          "day": "F",
-          "slot": 7,
-          "room": ""
         }
       ]
     },
@@ -59223,67 +55856,7 @@
     },
     {
       "code": "SOC 589",
-      "section": "01",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "02",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "03",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "04",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
       "section": "05",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "07",
-      "department": "SOCIOLOGY",
-      "departmentCode": "SOC",
-      "name": "READINGS IN SOCIOLOGY",
-      "credit": 1,
-      "ects": 5,
-      "meetings": []
-    },
-    {
-      "code": "SOC 589",
-      "section": "08",
       "department": "SOCIOLOGY",
       "departmentCode": "SOC",
       "name": "READINGS IN SOCIOLOGY",
@@ -59688,16 +56261,6 @@
       ]
     },
     {
-      "code": "SWE 575",
-      "section": "01",
-      "department": "SOFTWARE ENGINEERING",
-      "departmentCode": "SWE",
-      "name": "CASE STUDIES IN SOFTWARE ENGINEERING I",
-      "credit": 1,
-      "ects": 1,
-      "meetings": []
-    },
-    {
       "code": "SWE 577",
       "section": "01",
       "department": "SOFTWARE ENGINEERING",
@@ -59866,31 +56429,6 @@
         {
           "type": "LECT",
           "instructor": "CEM ERSOY",
-          "day": "S",
-          "slot": 10,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "SWE 578",
-      "section": "04",
-      "department": "SOFTWARE ENGINEERING",
-      "departmentCode": "SWE",
-      "name": "DIRECTED STUDIES II",
-      "credit": 0,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "S",
-          "slot": 9,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
           "day": "S",
           "slot": 10,
           "room": ""
@@ -60080,31 +56618,6 @@
         {
           "type": "LECT",
           "instructor": "CEM ERSOY",
-          "day": "S",
-          "slot": 2,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "SWE 599",
-      "section": "06",
-      "department": "SOFTWARE ENGINEERING",
-      "departmentCode": "SWE",
-      "name": "PROJECT",
-      "credit": 0,
-      "ects": 3,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
-          "day": "S",
-          "slot": 1,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "STAFF STAFF",
           "day": "S",
           "slot": 2,
           "room": ""
@@ -61919,16 +58432,6 @@
     {
       "code": "TR  428",
       "section": "01",
-      "department": "TRANSLATION AND INTERPRETING STUDIES",
-      "departmentCode": "TR",
-      "name": "TRANSLATION PROJECT",
-      "credit": 3,
-      "ects": 6,
-      "meetings": []
-    },
-    {
-      "code": "TR  428",
-      "section": "02",
       "department": "TRANSLATION AND INTERPRETING STUDIES",
       "departmentCode": "TR",
       "name": "TRANSLATION PROJECT",
@@ -64875,45 +61378,6 @@
           "instructor": "ZEYNEP UYSAL",
           "day": "W",
           "slot": 8,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "TKL 616",
-      "section": "01",
-      "department": "TURKISH LANGUAGE & LITERATURE",
-      "departmentCode": "TKL",
-      "name": "THE SEBK-I HINDI IN DIVAN POETRY",
-      "credit": 4,
-      "ects": 10,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
-          "day": "Th",
-          "slot": 3,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
-          "day": "Th",
-          "slot": 4,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
-          "day": "Th",
-          "slot": 5,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "FATMA BÜYÜKKARCI YILMAZ",
-          "day": "Th",
-          "slot": 6,
           "room": ""
         }
       ]
