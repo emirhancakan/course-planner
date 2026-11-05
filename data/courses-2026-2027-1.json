@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-02T10:46:54",
+  "generatedAt": "2026-11-05T10:36:12",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -10538,16 +10538,6 @@
     },
     {
       "code": "CMPE690",
-      "section": "12",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "M.S.THESIS",
-      "credit": 0,
-      "ects": 60,
-      "meetings": []
-    },
-    {
-      "code": "CMPE690",
       "section": "13",
       "department": "COMPUTER ENGINEERING",
       "departmentCode": "CMPE",
@@ -10906,16 +10896,6 @@
     {
       "code": "CMPE790",
       "section": "11",
-      "department": "COMPUTER ENGINEERING",
-      "departmentCode": "CMPE",
-      "name": "Ph.D.THESIS",
-      "credit": 0,
-      "ects": 120,
-      "meetings": []
-    },
-    {
-      "code": "CMPE790",
-      "section": "12",
       "department": "COMPUTER ENGINEERING",
       "departmentCode": "CMPE",
       "name": "Ph.D.THESIS",
@@ -20233,14 +20213,14 @@
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "Th",
           "slot": 7,
-          "room": "EF 204"
+          "room": "HH 301"
         },
         {
           "type": "LECT",
           "instructor": "TUBA ARABACI ATLAMAZ",
           "day": "Th",
           "slot": 8,
-          "room": "EF 204"
+          "room": "HH 301"
         },
         {
           "type": "LAB",
@@ -31211,7 +31191,7 @@
           "instructor": "NEBAHAT NİSAN GÖKŞEN",
           "day": "W",
           "slot": 4,
-          "room": "NH 401"
+          "room": "NH 304"
         }
       ]
     },
