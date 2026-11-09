@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-05T10:36:12",
+  "generatedAt": "2026-11-09T11:10:26",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -27657,21 +27657,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "HASAN BASRİ BÜLBÜL",
+          "instructor": "FURKAN BULUT",
           "day": "M",
           "slot": 7,
           "room": "M 3100"
         },
         {
           "type": "LECT",
-          "instructor": "HASAN BASRİ BÜLBÜL",
+          "instructor": "FURKAN BULUT",
           "day": "M",
           "slot": 8,
           "room": "M 3100"
         },
         {
           "type": "LECT",
-          "instructor": "HASAN BASRİ BÜLBÜL",
+          "instructor": "FURKAN BULUT",
           "day": "W",
           "slot": 9,
           "room": "JF 333"
