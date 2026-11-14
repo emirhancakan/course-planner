@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       semester:
-        description: 'Semester to scrape, e.g. 2026/2027-1 (leave blank for the newest)'
+        description: 'Semester to scrape, e.g. 2026/2027-1 (leave blank for the newest plus the current one)'
         required: false
         default: ""
 
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40   # up to two semesters, each with retry rounds
 
     steps:
       - uses: actions/checkout@v4
@@ -36,63 +36,24 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Scrape the registrar
+      - name: Scrape, check and commit
+        id: update
         env:
+          # Blank for a scheduled run: the newest semester plus the newest one
+          # already published (see scraper/run_update.sh).
           SEMESTER: ${{ inputs.semester }}
-        run: |
-          if [ -n "$SEMESTER" ]; then
-            python scraper/scrape_boun.py "$SEMESTER"
-          else
-            python scraper/scrape_boun.py
-          fi
-
-      - name: Check integrity and detect changes
-        id: diff
-        env:
-          SEMESTER: ${{ inputs.semester }}
-          COMMIT_MESSAGE_FILE: ${{ runner.temp }}/commit_message.txt
-        run: |
-          if [ -n "$SEMESTER" ]; then
-            python scraper/detect_changes.py "$SEMESTER"
-          else
-            python scraper/detect_changes.py
-          fi
-
-      - name: Commit and push
-        if: steps.diff.outputs.changed == 'true'
-        env:
-          COMMIT_MESSAGE_FILE: ${{ runner.temp }}/commit_message.txt
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -F "$COMMIT_MESSAGE_FILE"
-          git push
+          bash scraper/run_update.sh
 
       - name: Trigger the Pages build
         # This repo deploys Pages from the main branch (legacy build type), and a
         # push made with GITHUB_TOKEN does not reliably start that build. Asking
         # for it explicitly keeps the live site in step with the data.
-        if: steps.diff.outputs.changed == 'true'
+        # always(): one semester failing must not hold back the Pages build for
+        # another that was committed.
+        if: always() && steps.update.outputs.committed != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
-
-      - name: Report
-        if: always()
-        run: |
-          {
-            echo "### Course data update"
-            echo ""
-            if [ "${{ steps.diff.outputs.changed }}" = "true" ]; then
-              echo "Committed an update for \`${{ steps.diff.outputs.semester }}\`."
-              echo ""
-              echo '```'
-              cat "${{ runner.temp }}/commit_message.txt"
-              echo '```'
-            elif [ "${{ steps.diff.outputs.changed }}" = "false" ]; then
-              echo "No course changes for \`${{ steps.diff.outputs.semester }}\` - nothing committed."
-            else
-              echo "The run did not reach the comparison step; see the logs above."
-            fi
-          } >> "$GITHUB_STEP_SUMMARY"

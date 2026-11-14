@@ -40,7 +40,10 @@ data on its own:
 - **Daily at 03:00 UTC / 06:00 Istanbul.** GitHub can delay scheduled runs, so
   treat the time as approximate.
 - It scrapes the **newest** semester automatically — no edit needed when the term
-  rolls over.
+  rolls over — and also the newest one already on the site, so the current term
+  keeps updating after the next one is announced.
+- A semester the registrar lists before its days and hours are filled in is
+  skipped until its timetable appears.
 - It **only commits when course content actually changed.** The dataset carries a
   `generatedAt` timestamp that moves every run, so the workflow compares the
   `sections` payload instead of relying on `git diff`.
@@ -52,7 +55,7 @@ data on its own:
   good data.
 
 To run it on demand: **Actions → Update course data → Run workflow**. Leave the
-semester box blank for the newest term, or type one like `2026/2027-1`.
+semester box blank for the default (newest plus current), or type one like `2026/2027-1`.
 
 > Scheduled workflows in public repos are disabled automatically after 60 days
 > with no repository activity. If updates ever go quiet for a full term, re-enable
