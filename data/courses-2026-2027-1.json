@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-09T11:10:26",
+  "generatedAt": "2026-11-14T22:25:06",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -27820,14 +27820,14 @@
           "instructor": "İSMAİL MUTLU",
           "day": "T",
           "slot": 6,
-          "room": "NH 404"
+          "room": "HH 213"
         },
         {
           "type": "LECT",
           "instructor": "İSMAİL MUTLU",
           "day": "T",
           "slot": 7,
-          "room": "NH 404"
+          "room": "HH 213"
         },
         {
           "type": "LECT",
@@ -28805,21 +28805,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "AYŞE LEDÜN AKDENİZ",
+          "instructor": "AYŞE LEDÜN AKDENİZ BİLGEN",
           "day": "W",
           "slot": 6,
           "room": "M 2181"
         },
         {
           "type": "LECT",
-          "instructor": "AYŞE LEDÜN AKDENİZ",
+          "instructor": "AYŞE LEDÜN AKDENİZ BİLGEN",
           "day": "W",
           "slot": 7,
           "room": "M 2181"
         },
         {
           "type": "LECT",
-          "instructor": "AYŞE LEDÜN AKDENİZ",
+          "instructor": "AYŞE LEDÜN AKDENİZ BİLGEN",
           "day": "W",
           "slot": 8,
           "room": "M 2181"
@@ -31424,7 +31424,7 @@
       "section": "01",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
-      "name": "ENTREPRENEURIAL FINANCE: FINANCE POLITICS FOR NEW",
+      "name": "ENTREPRENEURIAL FINANCE: FINANCIAL POLICIES FOR NEW VENTURES",
       "credit": 3,
       "ects": 6,
       "meetings": [
@@ -31616,7 +31616,7 @@
       "section": "01",
       "department": "MANAGEMENT",
       "departmentCode": "AD",
-      "name": "FINANCIAL MARKETS&INSTITUTIONS",
+      "name": "FINANCIAL MARKETS & INSTITUTIONS",
       "credit": 3,
       "ects": 6,
       "meetings": [
@@ -33903,14 +33903,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 1,
-          "room": "HD 101"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 2,
-          "room": "HD 101"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
@@ -33942,14 +33942,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 3,
-          "room": "HD 101"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 4,
-          "room": "HD 101"
+          "room": "ET 01"
         },
         {
           "type": "LECT",
@@ -51841,42 +51841,42 @@
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 8,
-          "room": "HH 120"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 9,
-          "room": "HH 120"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "T",
           "slot": 10,
-          "room": "HH 120"
+          "room": "HH Z06-SEM1"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 8,
-          "room": "HH 120"
+          "room": "NB 118"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 9,
-          "room": "HH 120"
+          "room": "NB 118"
         },
         {
           "type": "LECT",
           "instructor": "YUKIKO KATO",
           "day": "W",
           "slot": 10,
-          "room": "HH 120"
+          "room": "NB 118"
         }
       ]
     },

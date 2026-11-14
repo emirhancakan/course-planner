@@ -5,6 +5,13 @@ and writes it to ../data/courses-<semester>.json.
 Usage:
     python scrape_boun.py "2026/2027-1"   # explicit semester
     python scrape_boun.py                 # newest semester, auto-detected
+    python scrape_boun.py --targets       # print the semesters a scheduled run
+                                          # should refresh, one per line
+
+Exit codes:
+    0  dataset written
+    1  failed - nothing written
+    3  the semester has no timetable yet - nothing written
 """
 
 import json
@@ -49,6 +56,13 @@ SLOT_TIMES = {
 
 
 SEMESTER_RE = re.compile(r"^\d{4}/\d{4}-\d$")
+
+# The registrar lists a new term's courses weeks before it fills in their days
+# and hours. Such a term is skipped (exit code 3) rather than published with no
+# timetable or reported as a failure.
+EXIT_NO_TIMETABLE = 3
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
 def get_latest_semester():
@@ -189,7 +203,12 @@ def find_column_map(soup):
     raise TableLayoutError("could not find the schedule table's header row")
 
 
-def parse_department_courses(html, department_code, department_name):
+def parse_department_courses(html, department_code, department_name, stats=None):
+    """stats, if given, counts "unparsable" meetings: rows that had days and
+    hours which could not be read."""
+    if stats is None:
+        stats = {}
+    stats.setdefault("unparsable", 0)
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.find_all("tr", class_=re.compile(r"schtd"))
     if not rows:
@@ -243,6 +262,7 @@ def parse_department_courses(html, department_code, department_name):
             # were mis-tokenized, which silently drops the meeting from the
             # timetable. Surface it loudly instead of writing bad data.
             if day not in VALID_DAYS or not (1 <= slot <= 14):
+                stats["unparsable"] += 1
                 print(f"  ! unparsable meeting on {current['code']}.{current['section']}: "
                       f"days={days_str!r} hours={hours_str!r} -> day={day!r} slot={slot}")
                 continue
@@ -367,8 +387,9 @@ def scrape_semester(semester, department_filter=None):
     # credited to and produce a phantom diff.
     all_sections = []
     seen_codes = set()
+    stats = {"unparsable": 0}
     for i, dept in enumerate(departments):
-        sections = parse_department_courses(pages[i], dept["kisaadi"], dept["bolum"])
+        sections = parse_department_courses(pages[i], dept["kisaadi"], dept["bolum"], stats)
         # program-variant duplicates (e.g. "with thesis" listings) can repeat
         # the same course table verbatim; keep only the first occurrence
         for s in sections:
@@ -377,12 +398,45 @@ def scrape_semester(semester, department_filter=None):
                 seen_codes.add(key)
                 all_sections.append(s)
 
-    return {
+    data = {
         "semester": semester,
         "generatedAt": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "slotTimes": {str(k): {"start": v[0], "end": v[1]} for k, v in SLOT_TIMES.items()},
         "sections": all_sections,
     }
+    return data, stats
+
+
+def data_path(semester):
+    return DATA_DIR / ("courses-" + semester.replace("/", "-") + ".json")
+
+
+def read_manifest():
+    path = DATA_DIR / "manifest.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+
+
+def has_timetable(sections):
+    return any(s["meetings"] for s in sections)
+
+
+def published_with_timetable(semester):
+    """True if we already publish this semester with meeting times."""
+    path = data_path(semester)
+    if not path.exists():
+        return False
+    return has_timetable(json.loads(path.read_text(encoding="utf-8"))["sections"])
+
+
+def scheduled_targets():
+    """Semesters a scheduled run refreshes: the registrar's newest, plus the
+    newest one already published. While the next term is listed without a
+    timetable, the current term must keep updating."""
+    targets = [get_latest_semester()]
+    semesters = read_manifest()
+    if semesters and semesters[0] not in targets:
+        targets.append(semesters[0])
+    return targets
 
 
 def write_js_wrapper(data, out_dir, semester):
@@ -414,6 +468,14 @@ def update_manifest(out_dir, semester):
 
 
 def main():
+    if sys.argv[1:] == ["--targets"]:
+        try:
+            print("\n".join(scheduled_targets()))
+        except (requests.RequestException, RuntimeError) as e:
+            print(f"Could not detect the current semester: {e}", file=sys.stderr)
+            sys.exit(1)
+        return
+
     if len(sys.argv) > 1:
         semester = sys.argv[1]
         if not SEMESTER_RE.match(semester):
@@ -429,7 +491,7 @@ def main():
         print(f"Semester: {semester} (auto-detected as newest)")
 
     try:
-        data = scrape_semester(semester)
+        data, stats = scrape_semester(semester)
     except ScrapeIncompleteError as e:
         print(f"\nAborted - {e}")
         print("Existing data files were left untouched. Re-run to try again.")
@@ -440,7 +502,22 @@ def main():
               "COLUMN_LABELS needs updating. Existing data files were left untouched.")
         sys.exit(1)
 
-    out_dir = Path(__file__).resolve().parent.parent / "data"
+    if not has_timetable(data["sections"]):
+        if stats["unparsable"]:
+            # Times were there but none could be read: a parser problem, not an
+            # empty timetable.
+            print(f"\nAborted - {semester} lists {stats['unparsable']} meeting times but none of "
+                  "them could be parsed. Existing data files were left untouched.")
+            sys.exit(1)
+        if published_with_timetable(semester):
+            print(f"\nAborted - {semester} had a timetable before and now has none; "
+                  "refusing to publish that. Existing data files were left untouched.")
+            sys.exit(1)
+        print(f"\n{semester}: {len(data['sections'])} sections listed, but no days or hours "
+              "yet - the timetable has not been published. Nothing written.")
+        sys.exit(EXIT_NO_TIMETABLE)
+
+    out_dir = DATA_DIR
     out_dir.mkdir(exist_ok=True)
     filename = "courses-" + semester.replace("/", "-") + ".json"
     out_path = out_dir / filename
