@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-14T22:25:06",
+  "generatedAt": "2026-11-16T10:53:39",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -62778,14 +62778,14 @@
           "instructor": "ASLI TEKİNAY",
           "day": "W",
           "slot": 6,
-          "room": "JF 334"
+          "room": "NH 003"
         },
         {
           "type": "P.S.",
           "instructor": "ASLI TEKİNAY",
           "day": "W",
           "slot": 7,
-          "room": "JF 334"
+          "room": "NH 003"
         }
       ]
     },
