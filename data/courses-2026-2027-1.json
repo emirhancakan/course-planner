@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-16T10:53:39",
+  "generatedAt": "2026-11-18T11:25:42",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -30456,21 +30456,21 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 2,
-          "room": "HH Z17"
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "W",
           "slot": 4,
-          "room": "İB 312"
+          "room": "EF 02"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "W",
           "slot": 5,
-          "room": "İB 312"
+          "room": "EF 02"
         }
       ]
     },
@@ -30953,21 +30953,21 @@
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 4,
-          "room": "İB 204"
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "T",
           "slot": 5,
-          "room": "İB 204"
+          "room": "EF 04"
         },
         {
           "type": "LECT",
           "instructor": "AYSA İPEK ERDOĞAN",
           "day": "W",
           "slot": 2,
-          "room": "İB 103"
+          "room": "EF 02"
         }
       ]
     },
@@ -45235,7 +45235,7 @@
           "instructor": "ZÜHRE AKSOY",
           "day": "W",
           "slot": 3,
-          "room": "İB 312"
+          "room": "NH 002"
         },
         {
           "type": "LECT",
