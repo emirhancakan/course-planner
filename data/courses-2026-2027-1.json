@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-18T11:25:42",
+  "generatedAt": "2026-11-26T12:08:40",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -14112,38 +14112,6 @@
           "instructor": "ABDULLAH AZZAM TÜZGEN",
           "day": "W",
           "slot": 3,
-          "room": ""
-        }
-      ]
-    },
-    {
-      "code": "ED  528",
-      "section": "01",
-      "department": "EDUCATIONAL SCIENCES",
-      "departmentCode": "ED",
-      "name": "GROUP DYNAMICS & COUNSELING",
-      "credit": 3,
-      "ects": 8,
-      "meetings": [
-        {
-          "type": "LECT",
-          "instructor": "DENİZ ALBAYRAK KAYMAK",
-          "day": "T",
-          "slot": 6,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "DENİZ ALBAYRAK KAYMAK",
-          "day": "T",
-          "slot": 7,
-          "room": ""
-        },
-        {
-          "type": "LECT",
-          "instructor": "DENİZ ALBAYRAK KAYMAK",
-          "day": "T",
-          "slot": 8,
           "room": ""
         }
       ]
@@ -33903,14 +33871,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 1,
-          "room": "ET 01"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 2,
-          "room": "ET 01"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
@@ -33942,14 +33910,14 @@
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 3,
-          "room": "ET 01"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
           "instructor": "MÜGE TAŞKIN AYDIN",
           "day": "T",
           "slot": 4,
-          "room": "ET 01"
+          "room": "ET 02"
         },
         {
           "type": "LECT",
