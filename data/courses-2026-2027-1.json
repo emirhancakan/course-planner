@@ -1,6 +1,6 @@
 {
   "semester": "2026/2027-1",
-  "generatedAt": "2026-11-26T12:08:40",
+  "generatedAt": "2026-11-27T11:57:52",
   "slotTimes": {
     "1": {
       "start": "09:00",
@@ -55462,21 +55462,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "T",
           "slot": 3,
           "room": "TB 155"
         },
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "T",
           "slot": 4,
           "room": "TB 155"
         },
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "Th",
           "slot": 5,
           "room": "NB B10"
@@ -55558,21 +55558,21 @@
       "meetings": [
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "W",
           "slot": 6,
           "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "W",
           "slot": 7,
           "room": "M 2200"
         },
         {
           "type": "LECT",
-          "instructor": "SEMA  AKBOĞA DEMİR",
+          "instructor": "SEMA AKBOĞA DEMİR",
           "day": "W",
           "slot": 8,
           "room": "M 2200"
